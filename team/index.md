@@ -4,6 +4,14 @@ title: Team
 permalink: /team/
 ---
 
-# team members here
+## Lab head
+PD Dr. med. Nora Bruns, PhD
 
-## team members here
+Specialist in Pediatrics and Pediatric Intensive Care
+
+
+
+## Physicians, Clinician scientist, Postdocs
+Dr. med. Sandra Greve
+
+Specialist in Pediatrics, UMEA Clinician Scientist
