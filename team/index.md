@@ -11,6 +11,6 @@ Specialist in Pediatrics and Pediatric Intensive Care
 
 
 ## Physicians, Clinician scientists, Postdocs
-<img src="../assets/img/PIA_foto.jpg" alt="Sandra" width="200">
+<img src="../assets/img/CTNBS-26070.jpg" alt="Sandra" width="200">
 ### Dr. med. Sandra Greve
 Specialist in Pediatrics, UMEA Clinician Scientist
