@@ -16,3 +16,9 @@ Specialist in Pediatrics and Pediatric Intensive Care
 <img src="../assets/img/CTNBS-26070.jpg" alt="Sandra" width="200">
 
 Specialist in Pediatrics, UMEA Clinician Scientist
+
+
+### Dr. med. Pia Brensing
+<img src="../assets/img/CTNBS-26070.jpg" alt="Pia" width="200">
+
+Specialist in Pediatrics, UMEA Clinician Scientist
