@@ -15,16 +15,20 @@ cover: true
 
 blablabla
 
+
 ## Our vision
 
 blabla
+
 
 ## What we do
 
 Data integration from various sources blabla
 
+
 ## Our impact
 
 blabla
+
 
 ### Meet our team and check out our projects and research!
