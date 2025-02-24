@@ -21,12 +21,12 @@ jobs:
         run: pip install requests
 
       - name: Run PubMed Fetch Script
-        run: python publications/fetch_pubmed.py  # Updated path
+        run: python fetch_pubmed.py
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add docs/pubmed.json
+          git add publications/pubmed.json
           git commit -m "Update PubMed data" || echo "No changes to commit"
           git push
