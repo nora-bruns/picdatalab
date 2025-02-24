@@ -278,9 +278,6 @@ hydejack:
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
 
-  #CSS settings for publist
-  additional_styles:
-    - /assets/css/publications.css
     
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
