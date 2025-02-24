@@ -30,3 +30,4 @@ jobs:
           git add publications/pubmed.json
           git commit -m "Update PubMed data" || echo "No changes to commit"
           git push
+          
