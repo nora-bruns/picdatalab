@@ -1,8 +1,13 @@
-<!-- Add HTML tags here to be included in the head. You can delete the below: -->
+<!-- Add HTML tags here to be included in the head. -->
+<!-- Override favicon with empty icon -->
+<link rel="icon" href="data:,">
+<link rel="shortcut icon" href="data:,">
+<link rel="apple-touch-icon" href="data:,">
+
+<!-- Gumroad integration (original content) -->
 <link rel="dns-prefetch" href="https://assets.gumroad.com">
 <script type="module">
   const loadJS = x => new Promise(r => window.loadJS(x).addEventListener('load', r));
-
   let p1, p2, io1, io2, embedCreated, overlayCreated;
   document.querySelector('hy-push-state').addEventListener('load', () => {
     io1 ||= new IntersectionObserver(async (entries) => {
@@ -22,7 +27,6 @@
         });
       }
     }, { rootMargin: '1440px' });
-
     io2 ||= new IntersectionObserver(async (entries) => {
       if (entries.some(x => x.isIntersecting)) {
         p2 = p2 || loadJS('https://gumroad.com/js/gumroad.js');
@@ -36,7 +40,6 @@
         });
       }
     }, { rootMargin: '300px' });
-
     document.querySelectorAll('.gumroad-product-embed').forEach(el => io1.observe(el));
     document.querySelectorAll('.gumroad-button').forEach(el => io2.observe(el));
   });
