@@ -6,19 +6,36 @@ permalink: /team/
 
 ## Lab head
 ### PD Dr. med. Nora Bruns, PhD
-<img src="../assets/img/PIA_foto.jpg" alt="Nora" width="200">
+<img src="../assets/img/nora.jpg" alt="Nora" width="200">
 
 Specialist in Pediatrics and Pediatric Intensive Care
 
 
-## Physicians, Clinician scientists, Postdocs
+## Clinician scientists
 ### Dr. med. Sandra Greve
-<img src="../assets/img/CTNBS-26070.jpg" alt="Sandra" width="200">
+<img src="../assets/img/sandra.jpg" alt="Sandra" width="200">
 
-Specialist in Pediatrics, UMEA Clinician Scientist
+Specialist in Pediatrics
 
 
 ### Dr. med. Pia Brensing
-<img src="../assets/img/CTNBS-26070.jpg" alt="Pia" width="200">
+<img src="../assets/img/pia.jpg" alt="Pia" width="200">
 
-Specialist in Pediatrics, UMEA Clinician Scientist
+Resident in Pediatrics
+
+
+### Dr. med. Luisa Paul
+<img src="../assets/img/pia.jpg" alt="Pia" width="200">
+
+Specialist in Pediatrics
+
+
+## Doctorate students
+### Rayan Hojeij, MPH
+<img src="../assets/img/rayan.jpg" alt="Rayan" width="200">
+
+Epidemiologist
+
+
+
+
