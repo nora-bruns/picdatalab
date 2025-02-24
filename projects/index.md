@@ -13,7 +13,8 @@ no_date_top: true
       <img src="/assets/img/projects/project-one.jpg" alt="Project One" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <div style="padding: 16px; text-align: center; background-color: #f8f8f8;">
-      <h3 style="margin: 0; font-size: 1.4em;">Project One</h3>
+      <h3 style="margin: 0 0 8px 0; font-size: 1.4em;">Project One</h3>
+      <p style="margin: 0; color: #666; font-size: 0.9em;">Brief description of Project One and its key features</p>
     </div>
   </a>
   
@@ -23,7 +24,8 @@ no_date_top: true
       <img src="/assets/img/projects/project-two.jpg" alt="Project Two" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <div style="padding: 16px; text-align: center; background-color: #f8f8f8;">
-      <h3 style="margin: 0; font-size: 1.4em;">Project Two</h3>
+      <h3 style="margin: 0 0 8px 0; font-size: 1.4em;">Project Two</h3>
+      <p style="margin: 0; color: #666; font-size: 0.9em;">A concise explanation of what Project Two accomplishes</p>
     </div>
   </a>
   
@@ -33,7 +35,8 @@ no_date_top: true
       <img src="/assets/img/projects/project-three.jpg" alt="Project Three" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <div style="padding: 16px; text-align: center; background-color: #f8f8f8;">
-      <h3 style="margin: 0; font-size: 1.4em;">Project Three</h3>
+      <h3 style="margin: 0 0 8px 0; font-size: 1.4em;">Project Three</h3>
+      <p style="margin: 0; color: #666; font-size: 0.9em;">Short description highlighting the main aspects of Project Three</p>
     </div>
   </a>
   
@@ -43,7 +46,8 @@ no_date_top: true
       <img src="/assets/img/projects/project-four.jpg" alt="Project Four" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <div style="padding: 16px; text-align: center; background-color: #f8f8f8;">
-      <h3 style="margin: 0; font-size: 1.4em;">Project Four</h3>
+      <h3 style="margin: 0 0 8px 0; font-size: 1.4em;">Project Four</h3>
+      <p style="margin: 0; color: #666; font-size: 0.9em;">Key highlights and purpose of Project Four in a single line</p>
     </div>
   </a>
   
