@@ -39,9 +39,9 @@ keywords:              []
 # It also used by the `jekyll-seo-tag` plugin.
 logo: /assets/img/empty_logo.png    
 
-# Remove favicon
-favicon: data:,
-apple_touch_icon: data:,
+# Define favicon
+favicon: /assets/icons/favicon.ico
+apple_touch_icon: /assets/icons/apple-touch-icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
