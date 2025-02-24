@@ -28,7 +28,7 @@ description:           >
   The Pediatric Intensive Care Data Lab page is the homepage of our research group at the University Hospital Essen.
 
 # A shorter description for the sidebar.
-tagline:               Advancing pediatric intensive care with data science
+tagline:               Data Scienco to advance pediatric intensive care
 
 
 # A list of keywords for your blog
@@ -37,7 +37,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-# logo:                  /assets/img/logo.png
+# logo:                
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
