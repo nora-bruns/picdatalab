@@ -4,10 +4,17 @@ title: Research
 permalink: /research/
 ---
 
-## 2025
-
+## Neurocritical care
 löaksdöa
 
-## 2024
 
-### 2023
+### Neuromonitoring
+ölaksdöa
+
+
+### Traumatic brain injury
+jlsakjdla
+
+
+## Epidemiology and Public Health
+ölkasödkasöölkaösdl
