@@ -1,8 +1,17 @@
 <!-- Add HTML tags here to be included in the head. -->
 <!-- Override favicon with empty icon -->
-<link rel="icon" href="data:,">
-<link rel="shortcut icon" href="data:,">
-<link rel="apple-touch-icon" href="data:,">
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    // Remove all favicon-related link elements
+    document.querySelectorAll('link[rel="icon"], link[rel="shortcut icon"], link[rel="apple-touch-icon"]').forEach(el => el.remove());
+    
+    // Add empty favicon
+    const emptyIcon = document.createElement('link');
+    emptyIcon.rel = 'icon';
+    emptyIcon.href = 'data:,';
+    document.head.appendChild(emptyIcon);
+  });
+</script>
 
 <!-- Gumroad integration (original content) -->
 <link rel="dns-prefetch" href="https://assets.gumroad.com">
