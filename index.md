@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Welcome to Pediatric Intensive Care Data Lab
-description: >
-  The landing page of our lab homepage.
 last_modified_at: 2025-02-25
 no_link_title: false 
 no_excerpt: false 
