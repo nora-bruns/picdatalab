@@ -8,7 +8,7 @@ no_date_top: true
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin-bottom: 30px;">
   
   <!-- qEEG -->
-  <a href="qEEG.md" style="flex: 1 1 400px; max-width: 45%; min-width: 300px; display: block; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
+  <a href="/projects/qEEG.md" style="flex: 1 1 400px; max-width: 45%; min-width: 300px; display: block; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
     <div style="height: 240px; overflow: hidden;">
       <img src="/assets/img/projects/qeeg.jpg" alt="qEEG" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
@@ -19,7 +19,7 @@ no_date_top: true
   </a>
   
   <!-- SaVeBRAIN -->
-  <a href="savebrain.md" style="flex: 1 1 400px; max-width: 45%; min-width: 300px; display: block; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
+  <a href="/projects/savebrain.md" style="flex: 1 1 400px; max-width: 45%; min-width: 300px; display: block; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
     <div style="height: 240px; overflow: hidden;">
       <img src="/assets/img/projects/savebrain.jpg" alt="SaVeBRAIN.Kids" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
@@ -30,7 +30,7 @@ no_date_top: true
   </a>
   
   <!-- FAB -->
-  <a href="fab.md" style="flex: 1 1 400px; max-width: 45%; min-width: 300px; display: block; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
+  <a href="/projects/fab.md" style="flex: 1 1 400px; max-width: 45%; min-width: 300px; display: block; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
     <div style="height: 240px; overflow: hidden;">
       <img src="/assets/img/projects/fab.jpg" alt="FAB.NRW" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
@@ -41,7 +41,7 @@ no_date_top: true
   </a>
   
   <!-- Project Four -->
-  <a href="project-four.md" style="flex: 1 1 400px; max-width: 45%; min-width: 300px; display: block; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
+  <a href="/projects/project-four.md" style="flex: 1 1 400px; max-width: 45%; min-width: 300px; display: block; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
     <div style="height: 240px; overflow: hidden;">
       <img src="/assets/img/projects/project-four.jpg" alt="Project Four" style="width: 100%; height: 100%; object-fit: cover;">
     </div>
