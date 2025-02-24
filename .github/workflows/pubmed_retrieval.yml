@@ -25,7 +25,7 @@ jobs:
       - name: Fetch publications from PubMed
         run: python .github/scripts/fetch_pubmed.py
         env:
-          PUBMED_QUERY: "YOUR_SEARCH_QUERY"  # Replace with your search term
+          PUBMED_QUERY: "(dohna-schwake[Author]) AND (("2019"[Date - Publication] : "3000"[Date - Publication])) OR (((bruns n essen) OR (greve sandra[Author])) OR (brensing pia[Author])) OR (hojeij rayan[Author])"  # Replace with your search term
           PUBMED_EMAIL: "${{ secrets.PUBMED_EMAIL }}"  # Your email for NCBI
 
       - name: Commit and push if changes
