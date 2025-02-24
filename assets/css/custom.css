@@ -1,0 +1,83 @@
+/* Publications styling */
+.publications {
+  margin: 2rem 0;
+}
+
+.publication {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.publication:last-child {
+  border-bottom: none;
+}
+
+.pub-title {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.pub-authors {
+  margin-bottom: 0.3rem;
+  font-size: 0.95rem;
+}
+
+.pub-journal {
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.pub-links {
+  margin-bottom: 0.5rem;
+}
+
+.pub-links a {
+  display: inline-block;
+  margin-right: 1rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  background-color: #f5f5f5;
+  border-radius: 3px;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.pub-links a:hover {
+  background-color: #e0e0e0;
+}
+
+.pub-abstract {
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  background-color: #f9f9f9;
+  border-radius: 3px;
+}
+
+/* For the details/summary elements */
+details {
+  margin-top: 0.5rem;
+}
+
+details summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: #585858;
+}
+
+details summary:hover {
+  color: #000;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .pub-title {
+    font-size: 1.1rem;
+  }
+  
+  .pub-authors, .pub-journal {
+    font-size: 0.85rem;
+  }
+}
