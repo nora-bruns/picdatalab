@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 description: My academic publications automatically retrieved from PubMed
-permalink: /publications/
+permalink: /publications/publist/
 ---
 
 # Publications
