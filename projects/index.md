@@ -5,7 +5,7 @@ permalink: /projects/
 no_date_top: true
 ---
 
-[Click here for qEEG project](qeeg)
+[Click here for qEEG project](qeeg.md)
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin-bottom: 30px;">
   
