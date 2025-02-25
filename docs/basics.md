@@ -13,7 +13,7 @@ This chapter covers the basics of content creation with Hydejack.
 {:toc}
 
 
-## Adding images
+## Adding images  
 Adding good images is key to a engaging blog experience. You can provide an `image` attribute in in the front matter of posts, pages, and projects* that will be used by Hydejack in a variety of ways, 
 such as header image in the `blog` and `post` layout, social media previews, cards in the `gird` and `projects` layout\*, thumbnails in the search dropdown\*, etc.
 
