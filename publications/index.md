@@ -1,6 +1,6 @@
 ---
 type: page
-title: Publications from our team members
+title: Publications
 ---
 
 
