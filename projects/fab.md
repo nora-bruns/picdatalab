@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAB.NRW
-image: /assets/img/projects/project-one.jpg  # Optional
+permalink: projects/fab/
 ---
 
 ## -lskdäa
