@@ -2,7 +2,7 @@
 layout: page
 title: SaveBRAIN.Kids
 description: Advancing TBI care
-image: /assets/img/projects/savebrain.png
+image: /assets/img/projects/savebrain.jpg
 ---
 
 <style>
