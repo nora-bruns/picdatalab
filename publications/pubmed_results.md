@@ -1,5 +1,8 @@
-PubMed Search Results
-====================
+---
+type: page
+title: Publications from our team members
+---
+
 
 ## 2025
 
