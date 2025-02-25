@@ -1,7 +1,7 @@
 ---
 layout: page
-title: qEEG
-permalink: /projects/qEEG/
+title: qeeg
+permalink: /projects/qeeg/
 ---
 
 
