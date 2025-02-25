@@ -4,6 +4,17 @@ title: Projects
 permalink: /projects/
 no_date_top: true
 ---
+
+<h2>Test Links</h2>
+<ul>
+  <li><a href="qeeg.md">Style 1: qeeg.md</a></li>
+  <li><a href="qeeg">Style 2: qeeg</a></li>
+  <li><a href="qeeg.html">Style 3: qeeg.html</a></li>
+  <li><a href="/projects/qeeg/">Style 4: /projects/qeeg/</a></li>
+  <li><a href="../qeeg.md">Style 5: ../qeeg.md</a></li>
+</ul>
+
+
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin-bottom: 30px;">
   
   <!-- qEEG -->
