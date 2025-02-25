@@ -6,7 +6,20 @@ image: /assets/img/projects/fab.jpg
 ---
 
 <style>
-  .page-description { display: none; }
+  /* Hide the first page title */
+  .page-title {
+    display: none;
+  }
+  
+  /* Hide the description paragraph */
+  .note-sm {
+    display: none;
+  }
+  
+  /* Remove the duplicate H1 */
+  h1[id="fabnrw"] {
+    display: none;
+  }
 </style>
 
 # FAB.NRW
