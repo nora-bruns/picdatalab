@@ -5,7 +5,13 @@ description: Detecting abnormalities and predicting outcomes with EEG-based neur
 image: /assets/img/projects/qeeg.jpg
 ---
 
-# Quantitative EEG
+<style>
+  /* Hide the description paragraph */
+  .note-sm {
+    display: none;
+  }
+</style>
+
 
 ## Project Goals
 
