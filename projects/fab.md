@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAB.NRW
-permalink: projects/fab/
+permalink: /projects/fab/
 ---
 
 ## -lskdäa
