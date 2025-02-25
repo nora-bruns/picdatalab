@@ -3,6 +3,7 @@ layout: page
 title: FAB.NRW
 description: Finding Hospital Beds
 image: /assets/img/projects/fab.jpg
+show_description: false
 ---
 
 # FAB.NRW
