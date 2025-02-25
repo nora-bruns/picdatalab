@@ -10,11 +10,6 @@ image: /assets/img/projects/fab.jpg
   .note-sm {
     display: none;
   }
-  
-  /* Remove the duplicate H1 */
-  h1[id="fabnrw"] {
-    display: none;
-  }
 </style>
 
 
