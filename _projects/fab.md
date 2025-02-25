@@ -6,11 +6,6 @@ image: /assets/img/projects/fab.jpg
 ---
 
 <style>
-  /* Hide the first page title */
-  .page-title {
-    display: none;
-  }
-  
   /* Hide the description paragraph */
   .note-sm {
     display: none;
@@ -22,7 +17,6 @@ image: /assets/img/projects/fab.jpg
   }
 </style>
 
-# FAB.NRW
 
 ## Project Goals
 
