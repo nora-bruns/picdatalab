@@ -5,7 +5,13 @@ description: Advancing TBI care
 image: /assets/img/projects/savebrain.jpg
 ---
 
-# SaVeBRAIN.Kids
+<style>
+  /* Hide the description paragraph */
+  .note-sm {
+    display: none;
+  }
+</style>
+
 
 ## Project Goals
 
