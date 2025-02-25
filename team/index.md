@@ -4,9 +4,15 @@ title: Team
 permalink: /team/
 ---
 
-## Lab head
+## Lead
 ### PD Dr. med. Nora Bruns, PhD
 <img src="../assets/img/nora.jpg" alt="Nora" width="200">
+
+Specialist in Pediatrics and Pediatric Intensive Care
+
+
+### Prof. Dr. med. Christian Dohna-Schwake
+<img src="../assets/img/christian.jpg" alt="Christian" width="200">
 
 Specialist in Pediatrics and Pediatric Intensive Care
 
@@ -35,6 +41,10 @@ Specialist in Pediatrics
 <img src="../assets/img/rayan.jpg" alt="Rayan" width="200">
 
 Epidemiologist
+
+
+## Medical students
+Vorname nachname??
 
 
 
