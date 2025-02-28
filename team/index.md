@@ -30,6 +30,10 @@ Specialist in Pediatrics
 Resident in Pediatrics
 
 
+### Dr. med. Linda von der Heiden
+<img src="../assets/img/linda.jpg" alt="Linda" width="200">
+
+
 ### Dr. med. Luisa Paul
 <img src="../assets/img/pia.jpg" alt="Pia" width="200">
 
