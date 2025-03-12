@@ -58,77 +58,45 @@
     text-transform: uppercase !important;
   }
   
-  /* More specific sidebar selectors for Hydejack */
-  #_sidebar .sidebar-sticky .sidebar-about h1 a,
-  #_sidebar .sidebar-sticky nav a,
-  #_sidebar .sidebar-sticky .menu a,
-  #_sidebar a.sidebar-title,
-  #_sidebar .sidebar-sticky .sidebar-nav-item,
-  .sidebar .nav-list .menu-item {
-    color: rgb(119,119,119) !important;
+  /* Sidebar styling with new background and text formatting */
+  .sidebar {
+    background-color: rgba(243, 244, 243, 0.9) !important;
   }
   
-  /* Add !important to all sidebar text elements */
+  /* Make sidebar title/heading use the same blue as content headings */
+  .sidebar-about h1 a,
+  .sidebar-title {
+    color: rgb(0,51,141) !important;
+    font-weight: 400 !important;
+  }
+  
+  /* Style sidebar links with black text, no underline, regular weight */
+  .sidebar a,
+  .sidebar-nav-item,
+  .menu-item a {
+    color: black !important;
+    text-decoration: none !important;
+    font-weight: 400 !important;
+    font-family: 'Open Sans', sans-serif !important;
+  }
+  
+  /* Style for active/hover states */
+  .sidebar a:hover,
+  .sidebar-nav-item.active,
+  .menu-item.active,
+  .sidebar a:focus {
+    color: rgb(0,51,141) !important;
+    text-decoration: none !important;
+  }
+  
+  /* Make the sidebar squared (no rounded corners) */
+  .sidebar {
+    border-radius: 0 !important;
+  }
+  
+  /* Ensure all text in sidebar uses Open Sans */
   .sidebar * {
-    color: rgb(119,119,119) !important;
-  }
-  
-  /* Ensure active/hover states are also visible */
-  #_sidebar a:hover,
-  #_sidebar .sidebar-nav-item.active,
-  #_sidebar .menu-item.active,
-  #_sidebar a:focus {
-    color: white !important;
-    text-shadow: 0 0 1px white;
-  }
-  
-  /* Additional targeting for sidebar elements */
-  .sidebar-about, .sidebar-nav, .sidebar ul, .sidebar li, .sidebar a {
-    color: rgb(119,119,119) !important;
-  }
-
-  /* Home page split view layout */
-  @media screen and (min-width: 768px) {
-    /* Only apply to the home page */
-    body.home-page #_navbar {
-      width: 50% !important;
-      left: 50% !important;
-    }
-    
-    body.home-page #_sidebar {
-      width: 50% !important;
-      left: 50% !important;
-    }
-    
-    body.home-page .content {
-      margin-left: 0 !important;
-      padding-left: 0 !important;
-      width: 50% !important;
-    }
-    
-    /* Create a full-height image container on the left */
-    body.home-page .content:before {
-      content: "";
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 50%;
-      height: 100vh;
-      background-image: url('/assets/img/test.jpg');
-      background-size: cover;
-      background-position: center;
-      z-index: -1;
-    }
-    
-    /* Hide the actual content on the home page */
-    body.home-page .content .page {
-      display: none;
-    }
-    
-    body.home-page .sidebar-sticky {
-      text-align: left;
-      padding-left: 2rem;
-    }
+    font-family: 'Open Sans', sans-serif !important;
   }
 </style>
 <!-- Additional script to apply sidebar styling after page load -->
@@ -136,16 +104,14 @@
   document.addEventListener('DOMContentLoaded', function() {
     // Apply sidebar styling after a slight delay to ensure sidebar is loaded
     setTimeout(function() {
-      const sidebarElements = document.querySelectorAll('#_sidebar a, #_sidebar .sidebar-nav-item, .sidebar a, .sidebar-title, .sidebar-about h1');
+      const sidebarElements = document.querySelectorAll('.sidebar a, .sidebar-nav-item');
       sidebarElements.forEach(function(element) {
-        element.style.color = 'rgb(119,119,119)';
+        element.style.color = 'black';
+        element.style.textDecoration = 'none';
+        element.style.fontWeight = '400';
       });
-    }, 500);
-    
-    // Check if this is the home/index page
-    if (window.location.pathname === '/' || 
-        window.location.pathname === '/index.html') {
-      document.body.classList.add('home-page');
-    }
-  });
-</script>
+      
+      // Apply blue color to sidebar titles
+      const sidebarTitles = document.querySelectorAll('.sidebar-about h1 a, .sidebar-title');
+      sidebarTitles.forEach(function(element) {
+        element.style.color
