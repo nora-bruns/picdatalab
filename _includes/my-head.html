@@ -1,6 +1,5 @@
 <!-- Add HTML tags here to be included in the head. -->
 <link rel="dns-prefetch" href="https://assets.gumroad.com">
-
 <script type="module">
   const loadJS = x => new Promise(r => window.loadJS(x).addEventListener('load', r));
   let p1, p2, io1, io2, embedCreated, overlayCreated;
@@ -39,7 +38,6 @@
     document.querySelectorAll('.gumroad-button').forEach(el => io2.observe(el));
   });
 </script>
-
 <!-- Custom styling for headings and sidebar -->
 <style>
   /* Content headings styling */
@@ -88,8 +86,51 @@
   .sidebar-about, .sidebar-nav, .sidebar ul, .sidebar li, .sidebar a {
     color: rgb(119,119,119) !important;
   }
-</style>
 
+  /* Home page split view layout */
+  @media screen and (min-width: 768px) {
+    /* Only apply to the home page */
+    body.home-page #_navbar {
+      width: 50% !important;
+      left: 50% !important;
+    }
+    
+    body.home-page #_sidebar {
+      width: 50% !important;
+      left: 50% !important;
+    }
+    
+    body.home-page .content {
+      margin-left: 0 !important;
+      padding-left: 0 !important;
+      width: 50% !important;
+    }
+    
+    /* Create a full-height image container on the left */
+    body.home-page .content:before {
+      content: "";
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 50%;
+      height: 100vh;
+      background-image: url('/assets/img/test.jpg');
+      background-size: cover;
+      background-position: center;
+      z-index: -1;
+    }
+    
+    /* Hide the actual content on the home page */
+    body.home-page .content .page {
+      display: none;
+    }
+    
+    body.home-page .sidebar-sticky {
+      text-align: left;
+      padding-left: 2rem;
+    }
+  }
+</style>
 <!-- Additional script to apply sidebar styling after page load -->
 <script>
   document.addEventListener('DOMContentLoaded', function() {
@@ -100,5 +141,11 @@
         element.style.color = 'rgb(119,119,119)';
       });
     }, 500);
+    
+    // Check if this is the home/index page
+    if (window.location.pathname === '/' || 
+        window.location.pathname === '/index.html') {
+      document.body.classList.add('home-page');
+    }
   });
 </script>
