@@ -58,8 +58,21 @@
     text-transform: uppercase !important;
   }
   
-  /* Sidebar styling with new background and text formatting */
-  .sidebar {
+  /* Stronger sidebar background styling */
+  #_sidebar {
+    background-color: rgba(243, 244, 243, 0.9) !important;
+  }
+  
+  .sidebar-sticky {
+    background-color: rgba(243, 244, 243, 0.9) !important;
+  }
+  
+  /* Force background on all key sidebar elements */
+  .sidebar, 
+  .sidebar-bg, 
+  .sidebar-sticky,
+  .sidebar-about,
+  .sidebar-nav {
     background-color: rgba(243, 244, 243, 0.9) !important;
   }
   
@@ -90,7 +103,7 @@
   }
   
   /* Make the sidebar squared (no rounded corners) */
-  .sidebar {
+  .sidebar, .sidebar-bg {
     border-radius: 0 !important;
   }
   
@@ -102,10 +115,18 @@
 <!-- Additional script to apply sidebar styling after page load -->
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    // Apply sidebar styling after a slight delay to ensure sidebar is loaded
+    // Apply styles directly to sidebar elements for browsers that might not respect the CSS fully
     setTimeout(function() {
-      const sidebarElements = document.querySelectorAll('.sidebar a, .sidebar-nav-item');
+      // Apply background color
+      const sidebarElements = document.querySelectorAll('#_sidebar, .sidebar, .sidebar-bg, .sidebar-sticky');
       sidebarElements.forEach(function(element) {
+        element.style.backgroundColor = 'rgba(243, 244, 243, 0.9)';
+        element.style.borderRadius = '0';
+      });
+      
+      // Apply text styling
+      const sidebarLinks = document.querySelectorAll('.sidebar a, .sidebar-nav-item');
+      sidebarLinks.forEach(function(element) {
         element.style.color = 'black';
         element.style.textDecoration = 'none';
         element.style.fontWeight = '400';
@@ -114,4 +135,8 @@
       // Apply blue color to sidebar titles
       const sidebarTitles = document.querySelectorAll('.sidebar-about h1 a, .sidebar-title');
       sidebarTitles.forEach(function(element) {
-        element.style.color
+        element.style.color = 'rgb(0,51,141)';
+      });
+    }, 500);
+  });
+</script>
