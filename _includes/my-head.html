@@ -64,7 +64,7 @@
   /* Make sidebar title/heading use the same blue as content headings */
   .sidebar-about h1 a,
   .sidebar-title {
-    color: rgb(0,51,141) !important;
+    color: #00338D !important;
     font-weight: 400 !important;
   }
   
@@ -73,7 +73,7 @@
   .sidebar-about p.lead,
   .sidebar-about .lead,
   .sidebar-about p:not(h1) {
-    color: rgb(0,51,141) !important;
+    color: #00338D !important;
   }
   
   /* Style sidebar links with black text, no underline, regular weight */
@@ -117,7 +117,7 @@
       // Apply blue color to sidebar titles - with !important
       const sidebarTitles = document.querySelectorAll('.sidebar-about h1 a, .sidebar-title');
       sidebarTitles.forEach(function(element) {
-        element.style.setProperty('color', 'rgb(0,51,141)', 'important');
+        element.style.setProperty('color', '00338D', 'important');
       });
       
       // Apply blue color to the tagline - with additional selectors
@@ -129,13 +129,13 @@
         '.sidebar-about > p:first-of-type'
       );
       taglines.forEach(function(element) {
-        element.style.setProperty('color', 'rgb(0,51,141)', 'important');
+        element.style.setProperty('color', '00338D', 'important');
       });
 
       // Override any conflicting styles for specific sidebar elements
       document.querySelectorAll('.sidebar *').forEach(function(element) {
         if (element.matches('.sidebar-about h1 a, .sidebar-title, .sidebar-about p, .sidebar-about .lead')) {
-          element.style.setProperty('color', 'rgb(0,51,141)', 'important');
+          element.style.setProperty('color', '00338D', 'important');
         }
       });
 
