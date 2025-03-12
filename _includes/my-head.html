@@ -58,35 +58,16 @@
     text-transform: uppercase !important;
   }
   
-  /* Fix sidebar styling */
-  #_sidebar {
-    background-color: transparent !important;
-    width: auto !important;
-    max-width: 320px !important;
-  }
-  
-  .sidebar-sticky {
-    background-color: rgba(243, 244, 243, 0.9) !important;
-    width: auto !important;
-    padding: 1.5rem !important;
-    box-sizing: border-box !important;
-  }
-  
-  /* Remove any white backgrounds from inner elements */
-  .sidebar-about,
-  .sidebar-nav,
-  .sidebar-sticky > *,
-  .sidebar-sticky::before,
-  .sidebar-sticky::after {
-    background-color: transparent !important;
-    background: none !important;
-  }
-  
   /* Make sidebar title/heading use the same blue as content headings */
   .sidebar-about h1 a,
   .sidebar-title {
     color: rgb(0,51,141) !important;
     font-weight: 400 !important;
+  }
+  
+  /* Make the tagline use the same blue color as the title */
+  .sidebar-about p.tagline {
+    color: rgb(0,51,141) !important;
   }
   
   /* Style sidebar links with black text, no underline, regular weight */
@@ -108,53 +89,16 @@
     text-decoration: none !important;
   }
   
-  /* Make everything squared (no rounded corners) */
-  .sidebar, 
-  .sidebar-bg,
-  .sidebar-sticky,
-  .sidebar *,
-  .sidebar *::before,
-  .sidebar *::after {
-    border-radius: 0 !important;
-  }
-  
   /* Ensure all text in sidebar uses Open Sans */
   .sidebar * {
     font-family: 'Open Sans', sans-serif !important;
-  }
-  
-  /* Add extra targeting for potential white backgrounds */
-  .sidebar-overlay,
-  .sidebar-overlay::before,
-  .sidebar-overlay::after,
-  .sidebar-bg::before,
-  .sidebar-bg::after {
-    background-color: transparent !important;
   }
 </style>
 <!-- Additional script to apply sidebar styling after page load -->
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    // Wait a bit for Hydejack to fully initialize
+    // Apply text styling after a slight delay to ensure sidebar is loaded
     setTimeout(function() {
-      // Remove any white backgrounds that might be applied by inline styles
-      const allSidebarElements = document.querySelectorAll('#_sidebar *, .sidebar *, .sidebar-sticky *');
-      allSidebarElements.forEach(function(element) {
-        if (element.style.backgroundColor === 'white' || 
-            element.style.backgroundColor === '#fff' || 
-            element.style.backgroundColor === '#ffffff') {
-          element.style.backgroundColor = 'transparent';
-        }
-      });
-      
-      // Make sure the sticky part has the right background
-      const sidebarSticky = document.querySelector('.sidebar-sticky');
-      if (sidebarSticky) {
-        sidebarSticky.style.backgroundColor = 'rgba(243, 244, 243, 0.9)';
-        sidebarSticky.style.width = 'auto';
-        sidebarSticky.style.padding = '1.5rem';
-      }
-      
       // Apply text styling
       const sidebarLinks = document.querySelectorAll('.sidebar a, .sidebar-nav-item');
       sidebarLinks.forEach(function(element) {
@@ -168,6 +112,12 @@
       sidebarTitles.forEach(function(element) {
         element.style.color = 'rgb(0,51,141)';
       });
-    }, 800);
+      
+      // Apply blue color to the tagline
+      const tagline = document.querySelector('.sidebar-about p.tagline');
+      if (tagline) {
+        tagline.style.color = 'rgb(0,51,141)';
+      }
+    }, 500);
   });
 </script>
