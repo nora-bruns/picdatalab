@@ -63,13 +63,13 @@ menu:
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#legal:
+#  - title:             LICENSE
+#    url:               /LICENSE/
+#  - title:             NOTICE
+#    url:               /NOTICE/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2025. All rights reserved.
@@ -99,12 +99,12 @@ remote_theme: hydecorp/hydejack@v9
 # Sidebar image and theme color of the site.
 # accent_image:          /assets/img/Clown2.jpg
 accent_image:          /assets/img/datascience2.jpg
-accent_color:          rgb(243,244,243)
+accent_color:          rgb(119,119,119)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(243,244,243)
+theme_color:           rgb(119,119,119)
 
 # IMPORTANT:
 # As of Hydejack 9.2, Google Fonts are turned off by default due to a stronger focus on privacy.
@@ -134,7 +134,7 @@ defaults:
   - scope:
       path:            hyde/
     values:
-      accent_color:    rgb(243,244,243)
+      accent_color:    rgb(119,119,119)
       theme_color:     rgb(32,32,32)
       accent_image:
         background:    rgb(32,32,32)
