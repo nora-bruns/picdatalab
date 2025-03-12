@@ -60,29 +60,45 @@
     text-transform: uppercase !important;
   }
   
-  /* Sidebar menu heading and items styling */
-  .sidebar-title, 
-  .sidebar-brand,
-  .sidebar-about h1,
-  .sidebar-nav-item,
-  .sidebar-nav-item a,
-  .menu-item,
-  .menu-item a {
+  /* More specific sidebar selectors for Hydejack */
+  #_sidebar .sidebar-sticky .sidebar-about h1 a,
+  #_sidebar .sidebar-sticky nav a,
+  #_sidebar .sidebar-sticky .menu a,
+  #_sidebar a.sidebar-title,
+  #_sidebar .sidebar-sticky .sidebar-nav-item,
+  .sidebar .nav-list .menu-item {
     color: rgb(243,244,243) !important;
   }
   
-  /* Make sidebar links and menu items more readable against dark background */
-  .sidebar a,
-  .sidebar-nav-item,
-  .menu-item {
-    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+  /* Add !important to all sidebar text elements */
+  .sidebar * {
+    color: rgb(243,244,243) !important;
   }
   
   /* Ensure active/hover states are also visible */
-  .sidebar a:hover,
-  .sidebar-nav-item.active,
-  .menu-item.active,
-  .menu-item a:hover {
-    color: rgb(255,255,255) !important;
+  #_sidebar a:hover,
+  #_sidebar .sidebar-nav-item.active,
+  #_sidebar .menu-item.active,
+  #_sidebar a:focus {
+    color: white !important;
+    text-shadow: 0 0 1px white;
+  }
+  
+  /* Additional targeting for sidebar elements */
+  .sidebar-about, .sidebar-nav, .sidebar ul, .sidebar li, .sidebar a {
+    color: rgb(243,244,243) !important;
   }
 </style>
+
+<!-- Additional script to apply sidebar styling after page load -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Apply sidebar styling after a slight delay to ensure sidebar is loaded
+    setTimeout(function() {
+      const sidebarElements = document.querySelectorAll('#_sidebar a, #_sidebar .sidebar-nav-item, .sidebar a, .sidebar-title, .sidebar-about h1');
+      sidebarElements.forEach(function(element) {
+        element.style.color = 'rgb(243,244,243)';
+      });
+    }, 500);
+  });
+</script>

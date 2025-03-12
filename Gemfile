@@ -33,7 +33,7 @@ gem "jekyll-remote-theme"
 gem "kramdown-math-katex"
 
 # A JavaScript runtime for Ruby that helps with running the katex gem above.
-gem "duktape"
+# gem "duktape"
 
 # Required for `jekyll serve` in Ruby 3
 gem "webrick"

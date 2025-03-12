@@ -1,0 +1,45 @@
+---
+---
+
+// Content headings styling
+h1, h2, h3, h4, h5, h6,
+.page-title, .post-title, .project-title {
+  color: rgb(0,51,141) !important;
+}
+
+// Most headings use regular weight
+h1, h3, h4, h5, h6,
+.page-title, .post-title, .project-title {
+  font-weight: 400 !important;
+}
+
+// Special styling for h2 headings
+h2 {
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+}
+
+// Sidebar styling - very specific selectors
+.sidebar {
+  .sidebar-sticky {
+    .sidebar-about h1 a,
+    .sidebar-nav a,
+    .sidebar-nav-item,
+    a {
+      color: rgb(243,244,243) !important;
+    }
+  }
+}
+
+// Style all sidebar text elements
+#_sidebar * {
+  color: rgb(243,244,243) !important;
+}
+
+// Override links in the sidebar
+.sidebar a {
+  color: rgb(243,244,243) !important;
+  &:hover, &:focus, &.active {
+    color: white !important;
+  }
+}

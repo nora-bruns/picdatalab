@@ -289,6 +289,10 @@ hydejack:
       - /assets/img/swipe.svg
 
 
+# Add custom stylesheet 
+style:
+  - /assets/css/custom.scss
+
 # Collections
 # ----------------------------------------------------------------------------------------
 
