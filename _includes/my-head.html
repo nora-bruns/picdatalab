@@ -58,6 +58,17 @@
     text-transform: uppercase !important;
   }
   
+  /* Restore default sidebar positioning */
+  #_sidebar {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    width: 18rem !important;
+    /* Ensure other positioning styles are not affecting it */
+    transform: none !important;
+  }
+  
   /* Make sidebar title/heading use the same blue as content headings */
   .sidebar-about h1 a,
   .sidebar-title {
@@ -93,6 +104,11 @@
   .sidebar * {
     font-family: 'Open Sans', sans-serif !important;
   }
+  
+  /* Restore content positioning */
+  .content {
+    margin-left: 18rem !important;
+  }
 </style>
 <!-- Additional script to apply sidebar styling after page load -->
 <script>
@@ -117,6 +133,22 @@
       const tagline = document.querySelector('.sidebar-about p.tagline');
       if (tagline) {
         tagline.style.color = 'rgb(0,51,141)';
+      }
+      
+      // Ensure sidebar is correctly positioned
+      const sidebar = document.getElementById('_sidebar');
+      if (sidebar) {
+        sidebar.style.position = 'fixed';
+        sidebar.style.top = '0';
+        sidebar.style.left = '0';
+        sidebar.style.bottom = '0';
+        sidebar.style.width = '18rem';
+      }
+      
+      // Ensure content is correctly positioned
+      const content = document.querySelector('.content');
+      if (content) {
+        content.style.marginLeft = '18rem';
       }
     }, 500);
   });
