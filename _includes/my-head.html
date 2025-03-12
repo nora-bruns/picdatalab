@@ -61,28 +61,28 @@
     text-transform: uppercase !important;
   }
   
-  /* Make sidebar title/heading use the same blue as content headings */
+  /* Make sidebar title/heading light grey */
   .sidebar-about h1 a,
   .sidebar-title {
-    color: #00338D !important;
+    color: rgb(243,244,243) !important;
     font-weight: 400 !important;
   }
   
-  /* Make the tagline use the same blue color as the title */
+  /* Make the tagline use the same light grey color as the title */
   .sidebar-about p.tagline,
   .sidebar-about p.lead,
   .sidebar-about .lead,
   .sidebar-about p:not(h1) {
-    color: #00338D !important;
+    color: rgb(243,244,243) !important;
   }
   
-  /* Style sidebar links with black text, no underline, regular weight */
+  /* Style sidebar links with dark grey text, no underline, bold weight */
   .sidebar a,
   .sidebar-nav-item,
   .menu-item a {
-    color: black !important;
+    color: rgb(119,119,119) !important;
     text-decoration: none !important;
-    font-weight: 400 !important;
+    font-weight: 700 !important;
     font-family: 'Open Sans', sans-serif !important;
   }
   
@@ -91,7 +91,7 @@
   .sidebar-nav-item.active,
   .menu-item.active,
   .sidebar a:focus {
-    color: rgb(0,51,141) !important;
+    color: rgb(243,244,243) !important;
     text-decoration: none !important;
   }
   
@@ -106,21 +106,22 @@
   function applySidebarStyles() {
     // Apply text styling after a slight delay to ensure sidebar is loaded
     setTimeout(function() {
-      // Apply text styling
+      // Apply dark grey styling to sidebar links with bold weight
       const sidebarLinks = document.querySelectorAll('.sidebar a, .sidebar-nav-item');
       sidebarLinks.forEach(function(element) {
-        element.style.setProperty('color', 'black', 'important');
+        element.style.setProperty('color', 'rgb(119,119,119)', 'important');
         element.style.setProperty('text-decoration', 'none', 'important');
+        element.style.setProperty('font-weight', '700', 'important');
+      });
+      
+      // Apply light grey color to sidebar titles
+      const sidebarTitles = document.querySelectorAll('.sidebar-about h1 a, .sidebar-title');
+      sidebarTitles.forEach(function(element) {
+        element.style.setProperty('color', 'rgb(243,244,243)', 'important');
         element.style.setProperty('font-weight', '400', 'important');
       });
       
-      // Apply blue color to sidebar titles - with !important
-      const sidebarTitles = document.querySelectorAll('.sidebar-about h1 a, .sidebar-title');
-      sidebarTitles.forEach(function(element) {
-        element.style.setProperty('color', '00338D', 'important');
-      });
-      
-      // Apply blue color to the tagline - with additional selectors
+      // Apply light grey color to the tagline
       const taglines = document.querySelectorAll(
         '.sidebar-about p, ' + 
         '.sidebar-about p.tagline, ' + 
@@ -129,13 +130,19 @@
         '.sidebar-about > p:first-of-type'
       );
       taglines.forEach(function(element) {
-        element.style.setProperty('color', '00338D', 'important');
+        element.style.setProperty('color', 'rgb(243,244,243)', 'important');
       });
 
       // Override any conflicting styles for specific sidebar elements
       document.querySelectorAll('.sidebar *').forEach(function(element) {
+        // Title and tagline get light grey
         if (element.matches('.sidebar-about h1 a, .sidebar-title, .sidebar-about p, .sidebar-about .lead')) {
-          element.style.setProperty('color', '00338D', 'important');
+          element.style.setProperty('color', 'rgb(243,244,243)', 'important');
+        }
+        // Other menu items get dark grey and bold
+        else if (element.matches('.sidebar-nav-item, .sidebar-nav a, .menu-item a')) {
+          element.style.setProperty('color', 'rgb(119,119,119)', 'important');
+          element.style.setProperty('font-weight', '700', 'important');
         }
       });
 
