@@ -1,24 +1,20 @@
 ---
 ---
-
 // Content headings styling
 h1, h2, h3, h4, h5, h6,
 .page-title, .post-title, .project-title {
   color: rgb(0,51,141) !important;
 }
-
 // Most headings use regular weight
 h1, h3, h4, h5, h6,
 .page-title, .post-title, .project-title {
   font-weight: 400 !important;
 }
-
 // Special styling for h2 headings
 h2 {
   font-weight: 700 !important;
   text-transform: uppercase !important;
 }
-
 // Sidebar styling - very specific selectors
 .sidebar {
   .sidebar-sticky {
@@ -34,8 +30,10 @@ h2 {
       color: rgb(0,51,141) !important;
     }
     
-    // Tagline specific styling - new color
-    .sidebar-about p {
+    // Tagline specific styling - new color with more specific selectors
+    .sidebar-about p,
+    .sidebar-about .lead,
+    .sidebar-about p.lead {
       color: rgb(0,51,141) !important;
     }
   }
@@ -51,7 +49,10 @@ h2 {
   color: rgb(0,51,141) !important;
 }
 
-#_sidebar .sidebar-about p {
+// Enhanced tagline selectors to ensure they're specific enough
+#_sidebar .sidebar-about p,
+#_sidebar .sidebar-about .lead,
+#_sidebar .sidebar-about p.lead {
   color: rgb(0,51,141) !important;
 }
 
@@ -64,9 +65,21 @@ h2 {
 }
 
 // Ensure title and tagline links maintain their color even on hover
-.sidebar-about h1 a, .sidebar-about p {
+.sidebar-about h1 a, 
+.sidebar-about p,
+.sidebar-about .lead {
   color: rgb(0,51,141) !important;
   &:hover, &:focus {
     color: rgb(0,51,141) !important;
   }
+}
+
+// Force stronger specificity for the tagline using !important
+.sidebar .sidebar-about p,
+.sidebar-about p,
+.sidebar p.lead,
+.sidebar-about p.lead,
+.sidebar .lead,
+.sidebar-about .lead {
+  color: rgb(0,51,141) !important;
 }
