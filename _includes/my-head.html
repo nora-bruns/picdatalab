@@ -40,11 +40,23 @@
   });
 </script>
 
-<!-- Custom styling for headings: non-bold and blue (RGB 0,51,141) -->
+<!-- Custom styling for headings -->
 <style>
+  /* All headings and title elements use blue color */
   h1, h2, h3, h4, h5, h6,
   .sidebar-title, .sidebar-brand, .page-title, .post-title, .project-title {
-    font-weight: 400 !important;
     color: rgb(0,51,141) !important;
+  }
+  
+  /* Most headings use regular weight */
+  h1, h3, h4, h5, h6,
+  .sidebar-title, .sidebar-brand, .page-title, .post-title, .project-title {
+    font-weight: 400 !important;
+  }
+  
+  /* Special styling for h2 (## headings): bold and uppercase */
+  h2 {
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
   }
 </style>
