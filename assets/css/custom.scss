@@ -22,18 +22,37 @@ h2 {
 // Sidebar styling - very specific selectors
 .sidebar {
   .sidebar-sticky {
-    .sidebar-about h1 a,
+    // General sidebar links/items remain white
     .sidebar-nav a,
     .sidebar-nav-item,
     a {
       color: rgb(243,244,243) !important;
     }
+    
+    // Title specific styling - new color
+    .sidebar-about h1 a {
+      color: rgb(0,51,141) !important;
+    }
+    
+    // Tagline specific styling - new color
+    .sidebar-about p {
+      color: rgb(0,51,141) !important;
+    }
   }
 }
 
-// Style all sidebar text elements
+// Style most sidebar text elements
 #_sidebar * {
   color: rgb(243,244,243) !important;
+}
+
+// More specific selectors to override the general styling above
+#_sidebar .sidebar-about h1 a {
+  color: rgb(0,51,141) !important;
+}
+
+#_sidebar .sidebar-about p {
+  color: rgb(0,51,141) !important;
 }
 
 // Override links in the sidebar
@@ -41,5 +60,13 @@ h2 {
   color: rgb(243,244,243) !important;
   &:hover, &:focus, &.active {
     color: white !important;
+  }
+}
+
+// Ensure title and tagline links maintain their color even on hover
+.sidebar-about h1 a, .sidebar-about p {
+  color: rgb(0,51,141) !important;
+  &:hover, &:focus {
+    color: rgb(0,51,141) !important;
   }
 }
