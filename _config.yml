@@ -47,7 +47,7 @@ apple_touch_icon: /assets/icons/apple-touch-icon.png
 author:
   # Used by `jekyll-feed`:
   name: Nora Bruns
-  email: nora.bruns@uk-essen.de
+  # email: nora.bruns@uk-essen.de
   # # Used by `jekyll-seo-tag`:
 
 # Add links to the sidebar.
