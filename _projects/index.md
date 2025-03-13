@@ -8,14 +8,15 @@ no_date_top: true
   .projects-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 40px; /* Increased spacing between boxes */
-    justify-content: flex-start; /* Changed to flex-start to align boxes from the left */
+    gap: 40px;
+    justify-content: space-between; /* Changed to space-between to use full width */
     margin-bottom: 30px;
+    width: 100%; /* Ensure container uses full width */
   }
 
   .project-card {
-    flex: 0 1 calc(50% - 40px); /* Fixed width calculation accounting for the gap */
-    max-width: calc(50% - 40px); /* Max width calculation accounting for the gap */
+    flex: 0 1 calc(50% - 20px); /* Adjusted calculation to account for space-between */
+    max-width: calc(50% - 20px); /* Adjusted max-width calculation */
     min-width: 300px;
     display: block;
     border: none;
@@ -24,6 +25,13 @@ no_date_top: true
     color: inherit;
     margin-bottom: 20px;
     background-color: #e5eaf3;
+  }
+
+  /* This ensures we maintain left alignment when there's an odd number of items */
+  .projects-container::after {
+    content: "";
+    flex: 0 1 calc(50% - 20px);
+    max-width: calc(50% - 20px);
   }
 
   .project-image {
@@ -61,7 +69,7 @@ no_date_top: true
     color: #ffffff;
     font-weight: bold;
     padding: 8px 16px;
-    border-radius: 4px; /* Added slight rounding to the button */
+    border-radius: 4px;
     text-decoration: none;
     position: relative;
     padding-right: 30px;
