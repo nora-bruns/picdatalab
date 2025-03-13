@@ -61,7 +61,7 @@ no_date_top: true
     color: #ffffff;
     font-weight: bold;
     padding: 8px 16px;
-    border-radius: 0;
+    border-radius: 4px; /* Added slight rounding to the button */
     text-decoration: none;
     position: relative;
     padding-right: 30px;
