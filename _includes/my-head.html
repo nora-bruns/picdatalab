@@ -80,7 +80,7 @@
   .sidebar a,
   .sidebar-nav-item,
   .menu-item a {
-    color: rgb(45,45,45) !important;
+    color: rgb(34,34,34) !important;
     text-decoration: none !important;
     font-weight: 700 !important;
     font-family: 'Open Sans', sans-serif !important;
@@ -109,7 +109,7 @@
       // Apply very dark grey styling to sidebar links with bold weight
       const sidebarLinks = document.querySelectorAll('.sidebar a, .sidebar-nav-item');
       sidebarLinks.forEach(function(element) {
-        element.style.setProperty('color', 'rgb(45,45,45)', 'important');
+        element.style.setProperty('color', 'rgb(34,34,34)', 'important');
         element.style.setProperty('text-decoration', 'none', 'important');
         element.style.setProperty('font-weight', '700', 'important');
       });
@@ -141,7 +141,7 @@
         }
         // Other menu items get very dark grey and bold
         else if (element.matches('.sidebar-nav-item, .sidebar-nav a, .menu-item a')) {
-          element.style.setProperty('color', 'rgb(45,45,45)', 'important');
+          element.style.setProperty('color', 'rgb(34,34,34)', 'important');
           element.style.setProperty('font-weight', '700', 'important');
         }
       });
