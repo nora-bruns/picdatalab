@@ -79,7 +79,7 @@ permalink: /research/
 
 <hr>
 
-## Neurocritical care {#neurocritical-care}
+# Neurocritical care {#neurocritical-care}
 löaksdöa
 
 ### Neuromonitoring
@@ -88,10 +88,10 @@ löaksdöa
 ### Traumatic brain injury
 jlsakjdla
 
-## Epidemiology and Public Health {#epidemiology}
+# Epidemiology and Public Health {#epidemiology}
 ölkasödkasöölkaösdl
 
-## Related fields {#related-fields}
+# Related fields {#related-fields}
 
 ### Non-neuro Pediatric Intensive Care
 lösakdöas
