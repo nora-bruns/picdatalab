@@ -172,7 +172,8 @@ permalink: /team/
 }
 
 .card-text a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: rgb(171, 184, 195);
 }
 
 .bg-background-grey {
