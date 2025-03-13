@@ -4,16 +4,15 @@ title: Research
 permalink: /research/
 ---
 
-<h2 class="wp-block-heading" id="neurocritical-care">Neurocritical care</h2>
 <div class="wp-block-ume-ume-accordion-holder alignwide ume-accordion-wrapper">
     <div class="wp-block-ume-ume-accordion-block card card-accordion w-100" style="background-color:transparent;color:#3D3D3C">
         <div class="card-header" style="border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; background-color: transparent;">
-            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#neurocritical-content">
-                <h3 class="text-uke-blue h4">Neurocritical care</h3>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#neurocritical-care">
+                <h2 class="wp-block-heading text-uke-blue" id="neurocritical-care-heading">Neurocritical care</h2>
                 <span class="fa icon-accordion-plus" style="color:#CCCCCC"></span>
             </button>
         </div>
-        <div id="neurocritical-content" class="collapse" data-parent="#accordion">
+        <div id="neurocritical-care" class="collapse" data-parent="#accordion">
             <div class="card-body mt-1">
                 <p>löaksdöa</p>
                 
@@ -25,35 +24,29 @@ permalink: /research/
             </div>
         </div>
     </div>
-</div>
 
-<h2 class="wp-block-heading" id="epidemiology">Epidemiology and Public Health</h2>
-<div class="wp-block-ume-ume-accordion-holder alignwide ume-accordion-wrapper">
     <div class="wp-block-ume-ume-accordion-block card card-accordion w-100" style="background-color:transparent;color:#3D3D3C">
         <div class="card-header" style="border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; background-color: transparent;">
-            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#epidemiology-content">
-                <h3 class="text-uke-blue h4">Epidemiology and Public Health</h3>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#epidemiology">
+                <h2 class="wp-block-heading text-uke-blue" id="epidemiology-heading">Epidemiology and Public Health</h2>
                 <span class="fa icon-accordion-plus" style="color:#CCCCCC"></span>
             </button>
         </div>
-        <div id="epidemiology-content" class="collapse" data-parent="#accordion">
+        <div id="epidemiology" class="collapse" data-parent="#accordion">
             <div class="card-body mt-1">
                 <p>ölkasödkasöölkaösdl</p>
             </div>
         </div>
     </div>
-</div>
 
-<h2 class="wp-block-heading" id="related-fields">Related fields</h2>
-<div class="wp-block-ume-ume-accordion-holder alignwide ume-accordion-wrapper">
     <div class="wp-block-ume-ume-accordion-block card card-accordion w-100" style="background-color:transparent;color:#3D3D3C">
         <div class="card-header" style="border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; background-color: transparent;">
-            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#related-fields-content">
-                <h3 class="text-uke-blue h4">Related fields</h3>
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#related-fields">
+                <h2 class="wp-block-heading text-uke-blue" id="related-fields-heading">Related fields</h2>
                 <span class="fa icon-accordion-plus" style="color:#CCCCCC"></span>
             </button>
         </div>
-        <div id="related-fields-content" class="collapse" data-parent="#accordion">
+        <div id="related-fields" class="collapse" data-parent="#accordion">
             <div class="card-body mt-1">
                 <h3>Non-neuro Pediatric Intensive Care</h3>
                 <p>lösakdöas</p>
