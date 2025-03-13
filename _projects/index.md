@@ -8,14 +8,14 @@ no_date_top: true
   .projects-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 30px;
-    justify-content: center;
+    gap: 40px; /* Increased spacing between boxes */
+    justify-content: flex-start; /* Changed to flex-start to align boxes from the left */
     margin-bottom: 30px;
   }
 
   .project-card {
-    flex: 1 1 400px;
-    max-width: 45%;
+    flex: 0 1 calc(50% - 40px); /* Fixed width calculation accounting for the gap */
+    max-width: calc(50% - 40px); /* Max width calculation accounting for the gap */
     min-width: 300px;
     display: block;
     border: none;
@@ -27,7 +27,7 @@ no_date_top: true
   }
 
   .project-image {
-    height: 180px; /* Reduced height */
+    height: 180px;
     overflow: hidden;
   }
 
@@ -47,7 +47,7 @@ no_date_top: true
     margin: 0;
     font-size: 1.4em;
     color: #00338d; /* UKE blue color */
-    font-weight: 700; /* Explicitly set bold font weight */
+    font-weight: 700;
   }
 
   .project-footer {
@@ -75,6 +75,14 @@ no_date_top: true
     font-size: 20px;
     top: 50%;
     transform: translateY(-50%);
+  }
+  
+  /* Media query to ensure proper sizing on smaller screens */
+  @media (max-width: 768px) {
+    .project-card {
+      flex: 0 1 100%;
+      max-width: 100%;
+    }
   }
 </style>
 
