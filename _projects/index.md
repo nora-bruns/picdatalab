@@ -27,7 +27,7 @@ no_date_top: true
   }
 
   .project-image {
-    height: 240px;
+    height: 180px; /* Reduced height */
     overflow: hidden;
   }
 
@@ -47,7 +47,7 @@ no_date_top: true
     margin: 0;
     font-size: 1.4em;
     color: #00338d; /* UKE blue color */
-    font-weight: bold;
+    font-weight: 700; /* Explicitly set bold font weight */
   }
 
   .project-footer {
@@ -88,7 +88,7 @@ no_date_top: true
       <img src="{{ qeeg.image | default: '/assets/img/projects/qeeg.jpg' | relative_url }}" alt="{{ qeeg.title }}">
     </div>
     <div class="project-content">
-      <h3 class="project-title">{{ qeeg.title }}</h3>
+      <h3 class="project-title"><strong>{{ qeeg.title }}</strong></h3>
     </div>
     <div class="project-footer">
       <a href="{{ qeeg.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -104,7 +104,7 @@ no_date_top: true
       <img src="{{ savebrain.image | default: '/assets/img/projects/savebrain.jpg' | relative_url }}" alt="{{ savebrain.title }}">
     </div>
     <div class="project-content">
-      <h3 class="project-title">{{ savebrain.title }}</h3>
+      <h3 class="project-title"><strong>{{ savebrain.title }}</strong></h3>
     </div>
     <div class="project-footer">
       <a href="{{ savebrain.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -120,7 +120,7 @@ no_date_top: true
       <img src="{{ fab.image | default: '/assets/img/projects/fab.jpg' | relative_url }}" alt="{{ fab.title }}">
     </div>
     <div class="project-content">
-      <h3 class="project-title">{{ fab.title }}</h3>
+      <h3 class="project-title"><strong>{{ fab.title }}</strong></h3>
     </div>
     <div class="project-footer">
       <a href="{{ fab.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -136,7 +136,7 @@ no_date_top: true
       <img src="{{ project_four.image | default: '/assets/img/projects/project-four.jpg' | relative_url }}" alt="{{ project_four.title }}">
     </div>
     <div class="project-content">
-      <h3 class="project-title">{{ project_four.title }}</h3>
+      <h3 class="project-title"><strong>{{ project_four.title }}</strong></h3>
     </div>
     <div class="project-footer">
       <a href="{{ project_four.url | relative_url }}" class="button-with-chevron">Learn more</a>
