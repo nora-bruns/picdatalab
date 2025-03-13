@@ -1,10 +1,3 @@
-Looking at the first pasted HTML code, I can see the card-style boxes used on the Klinik für Kinderheilkunde I website. I'll help you adapt this style to work with your Markdown script from paste-2.txt.
-
-The boxes on the original site use card elements with images, titles, and buttons. In the second pasted file, you already have a card-like layout using HTML and CSS in a Markdown file. Let's modify it to more closely match the style from the first example.
-
-Here's the modified version of your Markdown file with CSS styling that mimics the boxes from the Kinderklinik website:
-
-```markdown
 ---
 layout: page
 title: Projects
