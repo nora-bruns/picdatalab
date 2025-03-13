@@ -7,42 +7,68 @@ permalink: /research/
 <style>
   a {
     text-decoration: none;
+    color: #333;
   }
   .section-nav ul {
     list-style-type: none;
     padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
   }
   .section-nav li {
     margin-bottom: 10px;
+    display: flex;
+    align-items: center;
   }
   .section-nav a {
     display: flex;
     align-items: center;
+    font-weight: 500;
   }
-  .section-nav a:before {
-    content: "";
-    display: inline-block;
+  .nav-icon {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 46px;
+    height: 46px;
+    background-color: #00338D;
+    margin-right: 15px;
+  }
+  .nav-icon svg {
     width: 20px;
     height: 20px;
-    margin-right: 10px;
-    background-color: #00338D;
-    position: relative;
-  }
-  .section-nav a:after {
-    content: "↓";
-    color: white;
-    position: relative;
-    left: -25px;
-    font-weight: bold;
+    fill: white;
   }
 </style>
 
 <!-- Navigation Menu -->
 <nav class="section-nav">
   <ul>
-    <li><a href="#neurocritical-care">Neurocritical care</a></li>
-    <li><a href="#epidemiology">Epidemiology and Public Health</a></li>
-    <li><a href="#related-fields">Related fields</a></li>
+    <li>
+      <div class="nav-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+          <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
+        </svg>
+      </div>
+      <a href="#neurocritical-care">Neurocritical care</a>
+    </li>
+    <li>
+      <div class="nav-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+          <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
+        </svg>
+      </div>
+      <a href="#epidemiology">Epidemiology and Public Health</a>
+    </li>
+    <li>
+      <div class="nav-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+          <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
+        </svg>
+      </div>
+      <a href="#related-fields">Related fields</a>
+    </li>
   </ul>
 </nav>
 
