@@ -72,7 +72,7 @@ permalink: /team/
                         Dr. med. Linda von der Heiden
                     </p>
                     <p class="card-text">Resident in Pediatrics</p>
-                    <p class="card-text"><a href="mailto:linda.vonderheiden@uk-essen.de">linda.heiden@uk-essen.de</a></p>
+                    <p class="card-text"><a href="mailto:linda.vonderheiden@uk-essen.de">linda.vonderheiden@uk-essen.de</a></p>
                 </div>
             </div>
         </div>
@@ -85,7 +85,7 @@ permalink: /team/
                         Dr. med. Luisa Paul
                     </p>
                     <p class="card-text">Specialist in Pediatrics</p>
-                    <p class="card-text"><a href="mailto:luisa.paul@uk-essen.de">luisa.paul@med.uni-heidelberg.de</a></p>
+                    <p class="card-text"><a href="mailto:luisa.paul@uk-essen.de">luisa.paul@uk-essen.de</a></p>
                 </div>
             </div>
         </div>
@@ -164,6 +164,15 @@ permalink: /team/
 
 .text-uke-blue {
     color: #00338D;
+}
+
+.card-text a {
+    text-decoration: none;
+    color: #00338D;
+}
+
+.card-text a:hover {
+    text-decoration: underline;
 }
 
 .bg-background-grey {
