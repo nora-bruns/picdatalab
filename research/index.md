@@ -30,15 +30,17 @@ permalink: /research/
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 46px;
-    height: 46px;
+    width: 32px;
+    height: 32px;
     background-color: #00338D;
     margin-right: 15px;
   }
   .nav-icon svg {
-    width: 20px;
-    height: 20px;
+    width: 18px;
+    height: 18px;
     fill: white;
+    stroke: white;
+    stroke-width: 0.5px;
   }
 </style>
 
