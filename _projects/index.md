@@ -18,20 +18,12 @@ no_date_top: true
     max-width: 45%;
     min-width: 300px;
     display: block;
-    border: 1px solid #e5eaf3;
-    border-radius: 8px;
+    border: none;
     overflow: hidden;
     text-decoration: none;
     color: inherit;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin-bottom: 20px;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
     background-color: #e5eaf3;
-  }
-
-  .project-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
   }
 
   .project-image {
@@ -75,10 +67,11 @@ no_date_top: true
     color: #ffffff;
     font-weight: bold;
     padding: 8px 16px;
-    border-radius: 4px;
+    border-radius: 0;
     text-decoration: none;
     position: relative;
     padding-right: 30px;
+    cursor: pointer;
   }
 
   .button-with-chevron:after {
@@ -89,10 +82,6 @@ no_date_top: true
     top: 50%;
     transform: translateY(-50%);
   }
-
-  .button-with-chevron:hover {
-    background-color: #002266; /* Darker blue */
-  }
 </style>
 
 <div class="projects-container">
@@ -100,7 +89,7 @@ no_date_top: true
   <!-- qEEG -->
   {% assign qeeg = site.projects | where: "slug", "qeeg" | first %}
   {% if qeeg %}
-  <a href="{{ qeeg.url | relative_url }}" class="project-card">
+  <div class="project-card">
     <div class="project-image">
       <img src="{{ qeeg.image | default: '/assets/img/projects/qeeg.jpg' | relative_url }}" alt="{{ qeeg.title }}">
     </div>
@@ -109,15 +98,15 @@ no_date_top: true
       <p class="project-description">{{ qeeg.description }}</p>
     </div>
     <div class="project-footer">
-      <span class="button-with-chevron">Mehr</span>
+      <a href="{{ qeeg.url | relative_url }}" class="button-with-chevron">Learn more</a>
     </div>
-  </a>
+  </div>
   {% endif %}
   
   <!-- SaVeBRAIN -->
   {% assign savebrain = site.projects | where: "slug", "savebrain" | first %}
   {% if savebrain %}
-  <a href="{{ savebrain.url | relative_url }}" class="project-card">
+  <div class="project-card">
     <div class="project-image">
       <img src="{{ savebrain.image | default: '/assets/img/projects/savebrain.jpg' | relative_url }}" alt="{{ savebrain.title }}">
     </div>
@@ -126,15 +115,15 @@ no_date_top: true
       <p class="project-description">{{ savebrain.description }}</p>
     </div>
     <div class="project-footer">
-      <span class="button-with-chevron">Mehr</span>
+      <a href="{{ savebrain.url | relative_url }}" class="button-with-chevron">Learn more</a>
     </div>
-  </a>
+  </div>
   {% endif %}
   
   <!-- FAB -->
   {% assign fab = site.projects | where: "slug", "fab" | first %}
   {% if fab %}
-  <a href="{{ fab.url | relative_url }}" class="project-card">
+  <div class="project-card">
     <div class="project-image">
       <img src="{{ fab.image | default: '/assets/img/projects/fab.jpg' | relative_url }}" alt="{{ fab.title }}">
     </div>
@@ -143,15 +132,15 @@ no_date_top: true
       <p class="project-description">{{ fab.description }}</p>
     </div>
     <div class="project-footer">
-      <span class="button-with-chevron">Mehr</span>
+      <a href="{{ fab.url | relative_url }}" class="button-with-chevron">Learn more</a>
     </div>
-  </a>
+  </div>
   {% endif %}
   
   <!-- Project Four (Reserve) -->
   {% assign project_four = site.projects | where: "slug", "project-four" | first %}
   {% if project_four %}
-  <a href="{{ project_four.url | relative_url }}" class="project-card">
+  <div class="project-card">
     <div class="project-image">
       <img src="{{ project_four.image | default: '/assets/img/projects/project-four.jpg' | relative_url }}" alt="{{ project_four.title }}">
     </div>
@@ -160,19 +149,9 @@ no_date_top: true
       <p class="project-description">{{ project_four.description }}</p>
     </div>
     <div class="project-footer">
-      <span class="button-with-chevron">Mehr</span>
+      <a href="{{ project_four.url | relative_url }}" class="button-with-chevron">Learn more</a>
     </div>
-  </a>
+  </div>
   {% endif %}
   
 </div>
-```
-
-Key changes I made:
-1. Added a style section that creates cards with the light blue background (#e5eaf3) similar to the Kinderklinik site
-2. Used the UKE blue color (#00338d) for titles and buttons
-3. Created a "Mehr" button with chevron styling similar to the original site
-4. Added hover effects to make the cards more interactive
-5. Structured the cards with image, content, and footer sections like the original
-
-This should give you a similar look to the boxes on the Kinderklinik website while working within your Jekyll markdown template structure.
