@@ -13,13 +13,16 @@ permalink: /research/
     list-style-type: none;
     padding-left: 0;
     display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0;
+    padding: 0 20px;
   }
   .section-nav li {
     margin-bottom: 10px;
     display: flex;
     align-items: center;
+    flex: 0 1 auto;
   }
   .section-nav a {
     display: flex;
@@ -36,11 +39,11 @@ permalink: /research/
     margin-right: 15px;
   }
   .nav-icon svg {
-    width: 18px;
-    height: 18px;
+    width: 20px;
+    height: 20px;
     fill: white;
     stroke: white;
-    stroke-width: 0.5px;
+    stroke-width: 1px;
   }
 </style>
 
@@ -49,7 +52,7 @@ permalink: /research/
   <ul>
     <li>
       <div class="nav-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2">
           <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
         </svg>
       </div>
