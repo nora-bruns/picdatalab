@@ -4,10 +4,8 @@ title: Team
 permalink: /team/
 ---
 
-<h2 class="wp-block-heading" id="team">Our Team</h2>
-
 <div class="d-flex flex-column ume-mitarbeiter-wrapper">
-    <h3 class="text-uppercase h4 text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Lead</h3>
+    <h2 class="text-uppercase h4 text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Lead</h2>
     <div class="ume-mitarbeiter-grid">
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
             <img decoding="async" class="card-img-top mb-2" src="../assets/img/nora.jpg" alt="Nora" width="250" height="250">
@@ -36,7 +34,7 @@ permalink: /team/
 </div>
 
 <div class="d-flex flex-column ume-mitarbeiter-wrapper">
-    <h3 class="text-uppercase h4 text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Clinician Scientists</h3>
+    <h2 class="text-uppercase h4 text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Clinician Scientists</h2>
     <div class="ume-mitarbeiter-grid">
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
             <img decoding="async" class="card-img-top mb-2" src="../assets/img/sandra.jpg" alt="Sandra" width="250" height="250">
@@ -89,7 +87,7 @@ permalink: /team/
 </div>
 
 <div class="d-flex flex-column ume-mitarbeiter-wrapper">
-    <h3 class="text-uppercase h4 text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Doctorate Students</h3>
+    <h2 class="text-uppercase h4 text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Doctorate Students</h2>
     <div class="ume-mitarbeiter-grid">
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
             <img decoding="async" class="card-img-top mb-2" src="../assets/img/rayan.jpg" alt="Rayan" width="250" height="250">
@@ -106,7 +104,7 @@ permalink: /team/
 </div>
 
 <div class="d-flex flex-column ume-mitarbeiter-wrapper">
-    <h3 class="text-uppercase h4 text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Medical Students</h3>
+    <h2 class="text-uppercase h4 text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Medical Students</h2>
     <p>Coming soon</p>
 </div>
 
