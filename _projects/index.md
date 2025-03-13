@@ -44,16 +44,10 @@ no_date_top: true
   }
 
   .project-title {
-    margin: 0 0 8px 0;
+    margin: 0;
     font-size: 1.4em;
     color: #00338d; /* UKE blue color */
     font-weight: bold;
-  }
-
-  .project-description {
-    margin: 0;
-    color: #3d3d3c;
-    font-size: 0.9em;
   }
 
   .project-footer {
@@ -95,7 +89,6 @@ no_date_top: true
     </div>
     <div class="project-content">
       <h3 class="project-title">{{ qeeg.title }}</h3>
-      <p class="project-description">{{ qeeg.description }}</p>
     </div>
     <div class="project-footer">
       <a href="{{ qeeg.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -112,7 +105,6 @@ no_date_top: true
     </div>
     <div class="project-content">
       <h3 class="project-title">{{ savebrain.title }}</h3>
-      <p class="project-description">{{ savebrain.description }}</p>
     </div>
     <div class="project-footer">
       <a href="{{ savebrain.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -129,7 +121,6 @@ no_date_top: true
     </div>
     <div class="project-content">
       <h3 class="project-title">{{ fab.title }}</h3>
-      <p class="project-description">{{ fab.description }}</p>
     </div>
     <div class="project-footer">
       <a href="{{ fab.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -146,7 +137,6 @@ no_date_top: true
     </div>
     <div class="project-content">
       <h3 class="project-title">{{ project_four.title }}</h3>
-      <p class="project-description">{{ project_four.description }}</p>
     </div>
     <div class="project-footer">
       <a href="{{ project_four.url | relative_url }}" class="button-with-chevron">Learn more</a>
