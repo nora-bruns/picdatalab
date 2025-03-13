@@ -40,9 +40,11 @@ no_date_top: true
   }
 
   .project-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    width: 100%;     /* Makes image take full width of container */
+    height: auto;    /* Height adjusts automatically to maintain aspect ratio */
+    max-height: 100%; /* Ensures image doesn't exceed container height */
+    object-fit: contain; /* Ensures the image is scaled to fit within box while maintaining aspect ratio */
+    display: block;  /* Removes any extra space below image */
   }
 
   .project-content {
