@@ -1,7 +1,6 @@
 ---
 layout: page
 title: PIA Network
-description: Participating in the Creating of a Pediatric Intensive Care Registry
 image: /assets/img/projects/pia.png
 ---
 
