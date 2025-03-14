@@ -20,7 +20,7 @@ description: Detecting abnormalities and predicting outcomes with EEG-based neur
 </style>
 
 <!-- Display the image at the top -->
-<img src="/assets/img/projects/qeeg.png" alt="Quantitative EEG" class="top-image">
+<img src="/assets/img/projects/qeeg2.png" alt="Quantitative EEG" class="top-image">
 
 ## Project Goals
 - Develop advanced algorithms for detecting subtle EEG changes
