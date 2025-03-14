@@ -1,14 +1,10 @@
 ---
 layout: page
 title: Quantitative EEG
-description: Detecting abnormalities and predicting outcomes with EEG-based neuromonitoring
 image: /assets/img/projects/qeeg2.png
 ---
 <style>
-/* Hide the description paragraph */
-.note-sm {
-  display: none;
-}
+
 /* Style for the top image */
 .top-image {
   width: 100%;
@@ -16,11 +12,18 @@ image: /assets/img/projects/qeeg2.png
   object-fit: contain;
   margin-bottom: 20px;
   display: block;
+  background-color: #f5f5f5; /* Light background to make empty image visible */
+  border: 1px solid #eee; /* Light border */
 }
 </style>
 
-<!-- Add the image to the top of the page -->
-<img src="/assets/img/projects/qeeg2.png" alt="Quantitative EEG" class="top-image">
+<!-- Try different approaches for the image -->
+<img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="top-image">
+
+<!-- Alternative image paths - uncomment to test:
+<img src="{{ site.baseurl }}/assets/img/projects/qeeg2.png" alt="Quantitative EEG" class="top-image">
+<img src="../assets/img/projects/qeeg2.png" alt="Quantitative EEG" class="top-image">
+-->
 
 **## Project Goals**
 - Develop advanced algorithms for detecting subtle EEG changes
