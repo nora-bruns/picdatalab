@@ -27,7 +27,7 @@ permalink: /team/
                     <p class="font-weight-bold text-uke-blue card-title">
                         Prof. Dr. med. Christian Dohna-Schwake
                     </p>
-                    <p class="card-text">Specialist in Pediatrics and Pediatric Intensive Care</p>
+                    <p class="card-text">Specialist in Pediatrics, Pediatric Intensive Care, and Pediatric Infectious Diseases</p>
                     <p class="card-text"><a href="mailto:christian.dohna-schwake@uk-essen.de">christian.dohna-schwake@uk-essen.de</a></p>
                 </div>
             </div>
@@ -38,19 +38,6 @@ permalink: /team/
 <div class="d-flex flex-column ume-mitarbeiter-wrapper">
     <h2 class="text-uppercase text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Clinician Scientists</h2>
     <div class="ume-mitarbeiter-grid">
-        <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/sandra.jpg" alt="Sandra" width="250" height="250">
-            <div class="card-body pb-3">
-                <div class="d-flex flex-column">
-                    <p class="font-weight-bold text-uke-blue card-title">
-                        Dr. med. Sandra Greve
-                    </p>
-                    <p class="card-text">Specialist in Pediatrics</p>
-                    <p class="card-text"><a href="mailto:sandra.greve@uk-essen.de">sandra.greve@uk-essen.de</a></p>
-                </div>
-            </div>
-        </div>
-        
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
             <img decoding="async" class="card-img-top mb-2" src="../assets/img/pia.jpg" alt="Pia" width="250" height="250">
             <div class="card-body pb-3">
@@ -63,7 +50,33 @@ permalink: /team/
                 </div>
             </div>
         </div>
-        
+
+        <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/sandra.jpg" alt="Sandra" width="250" height="250">
+            <div class="card-body pb-3">
+                <div class="d-flex flex-column">
+                    <p class="font-weight-bold text-uke-blue card-title">
+                        Dr. med. Sandra Greve
+                    </p>
+                    <p class="card-text">Specialist in Pediatrics</p>
+                    <p class="card-text"><a href="mailto:sandra.greve@uk-essen.de">sandra.greve@uk-essen.de</a></p>
+                </div>
+            </div>
+        </div>
+
+         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/sarah.jpg" alt="Sarah" width="250" height="250">
+            <div class="card-body pb-3">
+                <div class="d-flex flex-column">
+                    <p class="font-weight-bold text-uke-blue card-title">
+                        Dr. med. Sarah Goretzki
+                    </p>
+                    <p class="card-text">Specialist in Pediatrics, Pediatric Infectious Diseases, and Palliative Care</p>
+                    <p class="card-text"><a href="mailto:sarah.goretzki@uk-essen.de">sarah.goretzki@uk-essen.de</a></p>
+                </div>
+            </div>
+        </div>
+
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
             <img decoding="async" class="card-img-top mb-2" src="../assets/img/linda.jpg" alt="Linda" width="250" height="250">
             <div class="card-body pb-3">
@@ -89,11 +102,24 @@ permalink: /team/
                 </div>
             </div>
         </div>
+
+        <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/simone.jpg" alt="Simone" width="250" height="250">
+            <div class="card-body pb-3">
+                <div class="d-flex flex-column">
+                    <p class="font-weight-bold text-uke-blue card-title">
+                        Dr. med. Simone Schwarz
+                    </p>
+                    <p class="card-text">Specialist in Pediatrics and Neonatology</p>
+                    <p class="card-text"><a href="mailto:simone.schwarz@uk-essen.de">simone.schwarz@uk-essen.de</a></p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
 <div class="d-flex flex-column ume-mitarbeiter-wrapper">
-    <h2 class="text-uppercase text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Doctorate Students</h2>
+    <h2 class="text-uppercase text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">PhD Students</h2>
     <div class="ume-mitarbeiter-grid">
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
             <img decoding="async" class="card-img-top mb-2" src="../assets/img/rayan.jpg" alt="Rayan" width="250" height="250">
@@ -107,6 +133,20 @@ permalink: /team/
                 </div>
             </div>
         </div>
+
+        <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/alan.jpg" alt="Alan" width="250" height="250">
+            <div class="card-body pb-3">
+                <div class="d-flex flex-column">
+                    <p class="font-weight-bold text-uke-blue card-title">
+                        Dr. med. Alan Hamy
+                    </p>
+                    <p class="card-text">Epidemiologist</p>
+                    <p class="card-text"><a href="mailto:alan.hamy@uk-essen.de">alan.hamy@uk-essen.de</a></p>
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
 
