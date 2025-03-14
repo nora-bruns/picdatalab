@@ -106,7 +106,7 @@ no_date_top: true
   {% if qeeg %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ qeeg.image | default: '/assets/img/projects/qeeg_ume.jpg' | relative_url }}" alt="{{ qeeg.title }}">
+      <img src="{{ qeeg.image | default: '/assets/img/projects/qeeg_ume.png' | relative_url }}" alt="{{ qeeg.title }}">
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ qeeg.title }}</strong></h3>
@@ -122,7 +122,7 @@ no_date_top: true
   {% if savebrain %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ savebrain.image | default: '/assets/img/projects/savebrain.jpg' | relative_url }}" alt="{{ savebrain.title }}">
+      <img src="{{ savebrain.image | default: '/assets/img/projects/savebrain.png' | relative_url }}" alt="{{ savebrain.title }}">
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ savebrain.title }}</strong></h3>
@@ -138,7 +138,7 @@ no_date_top: true
   {% if fab %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ fab.image | default: '/assets/img/projects/fab.jpg' | relative_url }}" alt="{{ fab.title }}">
+      <img src="{{ fab.image | default: '/assets/img/projects/fab.png' | relative_url }}" alt="{{ fab.title }}">
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ fab.title }}</strong></h3>
