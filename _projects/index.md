@@ -154,7 +154,7 @@ no_date_top: true
   {% if project_four %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ pia.image | default: '/assets/img/projects/pia.jpg' | relative_url }}" alt="{{ pia.title }}">
+      <img src="{{ pia.image | default: '/assets/img/projects/pia.png' | relative_url }}" alt="{{ pia.title }}">
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ pia.title }}</strong></h3>
