@@ -2,6 +2,7 @@
 layout: page
 title: Quantitative EEG
 description: Detecting abnormalities and predicting outcomes with EEG-based neuromonitoring
+image: /assets/img/projects/qeeg.png
 ---
 <style>
   /* Hide the description paragraph */
@@ -19,8 +20,7 @@ description: Detecting abnormalities and predicting outcomes with EEG-based neur
   }
 </style>
 
-<!-- Display the image at the top -->
-<img src="/assets/img/projects/qeeg2.png" alt="Quantitative EEG" class="top-image">
+
 
 ## Project Goals
 - Develop advanced algorithms for detecting subtle EEG changes
