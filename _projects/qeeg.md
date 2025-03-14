@@ -9,23 +9,21 @@ image: /assets/img/projects/qeeg2.png
 .note-sm {
   display: none;
 }
-/* Style for the top image */
-.top-image {
-  width: 100%;
-  max-height: 150px; /* Reduced to half the original height */
+/* Style for the top image - positioned in top right */
+.corner-image {
+  max-width: 200px;
+  max-height: 150px;
   object-fit: contain;
   margin-bottom: 20px;
   display: block;
+  float: right;
+  margin-left: 20px;
 }
 </style>
 
-<!-- Try different approaches for the image -->
-<img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="top-image">
+<!-- Image positioned in top-right corner -->
+<img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="corner-image">
 
-<!-- Alternative image paths - uncomment to test:
-<img src="{{ site.baseurl }}/assets/img/projects/qeeg2.png" alt="Quantitative EEG" class="top-image">
-<img src="../assets/img/projects/qeeg2.png" alt="Quantitative EEG" class="top-image">
--->
 
 ## Project Goals
 - Develop advanced algorithms for detecting subtle EEG changes
