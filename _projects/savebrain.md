@@ -3,16 +3,14 @@ layout: page
 title: SaveBRAIN.Kids
 image: /assets/img/projects/savebrain.png
 ---
-
 <style>
- style>
-
 /* Container for header and image */
 .header-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
+  width: 100%;
 }
 
 /* Style for the corner image */
