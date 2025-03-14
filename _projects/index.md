@@ -37,14 +37,17 @@ no_date_top: true
   .project-image {
     height: 180px;
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white; /* Add white background */
   }
 
   .project-image img {
-    width: 100%;     /* Makes image take full width of container */
-    height: auto;    /* Height adjusts automatically to maintain aspect ratio */
-    max-height: 100%; /* Ensures image doesn't exceed container height */
+    max-width: 100%;     /* Image won't exceed container width */
+    max-height: 100%;    /* Image won't exceed container height */
     object-fit: contain; /* Ensures the image is scaled to fit within box while maintaining aspect ratio */
-    display: block;  /* Removes any extra space below image */
+    display: block;      /* Removes any extra space below image */
   }
 
   .project-content {
