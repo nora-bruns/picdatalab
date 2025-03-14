@@ -150,17 +150,17 @@ no_date_top: true
   {% endif %}
   
   <!-- Project Four (Reserve) -->
-  {% assign project_four = site.projects | where: "slug", "project-four" | first %}
+  {% assign pia = site.projects | where: "slug", "pia" | first %}
   {% if project_four %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ project_four.image | default: '/assets/img/projects/project-four.jpg' | relative_url }}" alt="{{ project_four.title }}">
+      <img src="{{ pia.image | default: '/assets/img/projects/pia.jpg' | relative_url }}" alt="{{ pia.title }}">
     </div>
     <div class="project-content">
-      <h3 class="project-title"><strong>{{ project_four.title }}</strong></h3>
+      <h3 class="project-title"><strong>{{ pia.title }}</strong></h3>
     </div>
     <div class="project-footer">
-      <a href="{{ project_four.url | relative_url }}" class="button-with-chevron">Learn more</a>
+      <a href="{{ pia.url | relative_url }}" class="button-with-chevron">Learn more</a>
     </div>
   </div>
   {% endif %}

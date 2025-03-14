@@ -49,32 +49,40 @@ permalink: /research/
 
 <!-- Navigation Menu -->
 <nav class="section-nav">
-  <ul>
-    <li>
-      <div class="nav-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2">
-          <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
-        </svg>
-      </div>
-      <a href="#neurocritical-care">Neurocritical care</a>
-    </li>
-    <li>
-      <div class="nav-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-          <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
-        </svg>
-      </div>
-      <a href="#epidemiology">Epidemiology and Public Health</a>
-    </li>
-    <li>
-      <div class="nav-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-          <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
-        </svg>
-      </div>
-      <a href="#related-fields">Related fields</a>
-    </li>
-  </ul>
+    <ul>
+        <li>
+            <div class="nav-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2">
+                    <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
+                </svg>
+            </div>
+            <a href="#neurocritical-care">Neurocritical care</a>
+        </li>
+        <li>
+            <div class="nav-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
+                </svg>
+            </div>
+            <a href="#intensive-care-followup">Intensive Care Follow-up</a>
+        </li>
+        <li>
+            <div class="nav-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
+                </svg>
+            </div>
+            <a href="#epidemiology">Epidemiology and Public Health</a>
+        </li>
+        <li>
+            <div class="nav-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/>
+                </svg>
+            </div>
+            <a href="#related-fields">Related fields</a>
+        </li>
+    </ul>
 </nav>
 
 <hr>
@@ -88,7 +96,7 @@ EEG-based neuromonitoring is our key interest and the need to further explore th
 ### Traumatic brain injury
 Traumatic brain injury as one of the most important causes for acquired brain injury in children has evolved as a second focus of our group, even though we do not limit our research to this condition. 
 
-## Intensive Care Follow-Up - pPICS
+## Intensive Care Follow-Up - pPICS {#intensive-care-followup}
 dsköakdösa
 
 ## Epidemiology and Public Health {#epidemiology}
