@@ -9,20 +9,38 @@ image: /assets/img/projects/qeeg2.png
 .note-sm {
   display: none;
 }
-/* Style for the top image - positioned in top right */
+
+/* Container for header and image */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* Style for the corner image */
 .corner-image {
   max-width: 200px;
   max-height: 150px;
   object-fit: contain;
-  margin-bottom: 20px;
-  display: block;
-  float: right;
-  margin-left: 20px;
+}
+
+/* Override default header margins */
+.header-container h1 {
+  margin: 0;
+}
+
+/* Hide the default page title - we'll add our own in the flex container */
+.page-title {
+  display: none;
 }
 </style>
 
-<!-- Image positioned in top-right corner -->
-<img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="corner-image">
+<!-- Custom header with image aligned to title -->
+<div class="header-container">
+  <h1>Quantitative EEG</h1>
+  <img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="corner-image">
+</div>
 
 
 ## Project Goals
