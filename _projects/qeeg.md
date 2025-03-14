@@ -25,7 +25,7 @@ image: /assets/img/projects/qeeg2.png
 <img src="../assets/img/projects/qeeg2.png" alt="Quantitative EEG" class="top-image">
 -->
 
-**## Project Goals**
+## Project Goals**
 - Develop advanced algorithms for detecting subtle EEG changes
 - Create prediction models for neurological outcomes after critical illness
 - Establish best practices for EEG monitoring in pediatric intensive care
