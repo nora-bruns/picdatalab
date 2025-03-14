@@ -6,11 +6,38 @@ image: /assets/img/projects/pia.png
 ---
 
 <style>
-  /* Hide the description paragraph */
-  .note-sm {
-    display: none;
-  }
+
+/* Container for header and image */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* Style for the corner image */
+.corner-image {
+  max-width: 200px;
+  max-height: 150px;
+  object-fit: contain;
+}
+
+/* Override default header margins */
+.header-container h1 {
+  margin: 0;
+}
+
+/* Hide the default page title - we'll add our own in the flex container */
+.page-title {
+  display: none;
+}
 </style>
+
+<!-- Custom header with image aligned to title -->
+<div class="header-container">
+  <h1>PIA Network</h1>
+  <img src="{{ '/assets/img/projects/pia.png' | relative_url }}" alt="PIA Network" class="corner-image">
+</div>
 
 
 ## Project Goals

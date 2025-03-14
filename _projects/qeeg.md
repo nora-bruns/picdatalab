@@ -1,14 +1,9 @@
 ---
 layout: page
 title: Quantitative EEG
-description: Detecting abnormalities and predicting outcomes with EEG-based neuromonitoring
 image: /assets/img/projects/qeeg2.png
 ---
 <style>
-/* Hide the description paragraph */
-.note-sm {
-  display: none;
-}
 
 /* Container for header and image */
 .header-container {
