@@ -138,7 +138,7 @@ no_date_top: true
   {% if fab %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ fab.image | default: '/assets/img/projects/fab.jpeg' | relative_url }}" alt="{{ fab.title }}">
+      <img src="{{ fab.image | default: '/assets/img/projects/fab.jpg' | relative_url }}" alt="{{ fab.title }}">
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ fab.title }}</strong></h3>
