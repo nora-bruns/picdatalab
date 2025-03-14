@@ -8,18 +8,12 @@ hide_image: false
 cover: true
 ---
 
-
-## Our mission
-
-blablabla
-
-
 ## Our vision
 
 blabla
 
 
-## What we do
+## Our methods
 
 Data integration from various sources blabla
 
