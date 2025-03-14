@@ -30,7 +30,8 @@ image: /assets/img/projects/qeeg2.png
 - Create prediction models for neurological outcomes after critical illness
 - Establish best practices for EEG monitoring in pediatric intensive care
 - Translate research findings into clinical applications
-**## Key Accomplishments**
+
+## Key Accomplishments**
 - Implemented continuous EEG monitoring protocols
 - Published findings on correlation between EEG patterns and outcomes
 - Developed a database of pediatric EEG recordings for research
