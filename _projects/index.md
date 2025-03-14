@@ -106,7 +106,7 @@ no_date_top: true
   {% if qeeg %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ qeeg.image | default: '/assets/img/projects/qeeg.jpg' | relative_url }}" alt="{{ qeeg.title }}">
+      <img src="{{ qeeg.image | default: '/assets/img/projects/qeeg_ume.jpg' | relative_url }}" alt="{{ qeeg.title }}">
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ qeeg.title }}</strong></h3>
