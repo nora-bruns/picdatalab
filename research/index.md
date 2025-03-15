@@ -86,7 +86,7 @@ a {
 <hr>
 
 ## Neurocritical care {#neurocritical-care}
-The focus of our research is on pediatric neurocritical care with special interest in neuromonitoring and traumatic brain injury and associated outcomes.
+The focus of our clinical research is pediatric neurocritical care with special interest in neuromonitoring and traumatic brain injury and associated outcomes.
 
 ### Neuromonitoring
 EEG-based neuromonitoring is our key interest and the need to further explore this method in the context of pediatric intensive care gave the impulse for the formation of this research group in 2020.
@@ -94,13 +94,13 @@ EEG-based neuromonitoring is our key interest and the need to further explore th
 ### Traumatic brain injury
 Traumatic brain injury as one of the most important causes for acquired brain injury in children has evolved as a second focus of our group, even though we do not limit our research to this condition.
 
-## Intensive Care Follow-Up - pPICS {#intensive-care-followup}
+## Intensive Care Follow-Up - p-PICS {#intensive-care-followup}
 dsköakdösa
 
 ## Epidemiology and Public Health {#epidemiology}
-ölkasödkasöölkaösdl
+We apply epidemiological methods, e.g. by exploiting routine health care data sets, to investigate pediatric critical and neurocritical illness at population level. Insights from this research in turn inspire and drive our clinical research.
 
 ## Related fields {#related-fields}
-While we focus is on the above described themes and methods, we participate in studies on other fields from Pediatric Intensive Care via multicenter projects to support our fellow researchers.
+Besides our focus, we participate in studies on other areas from Pediatric Intensive Care via multicenter projects to support our fellow researchers.
 
-We also support and collaborate with researchers from adjacent fields like Neonatology, Pediatric Infectious Diseases, Pediatric Neurology, and Emergency Care.
+We also support and collaborate with researchers from adjacent fields like Neonatology, Pediatric Infectious Diseases, Pediatric Neurology, and Emergency Care in local and multicenter projects.

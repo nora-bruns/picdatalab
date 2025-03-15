@@ -1,8 +1,9 @@
 ---
 type: page
-title: Publications
+title: Publications by our lab members
 ---
 
+# PubMed Search Results
 
 ## 2025
 
@@ -10,7 +11,7 @@ title: Publications
   Wosten-van Asperen RM, la Roi-Teeuw HM, Tissing WJE, Jordan I, **Dohna-Schwake C**, Bottari G, Pappachan J, Crazzolara R, Amigoni A, Mizia-Malarz A, Moscatelli A, Sanchez-Martin M, Willems J, Schlapbach LJ. *Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies, 26(2):e177-e185*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39982155/)
 
 * **Ultrasound Super-Resolution Imaging of Neonatal Cerebral Vascular Reorganization.**  
-  Schwarz S, Denis L, Nedoschill E, Buehler A, Danko V, Hilger AC, Brevis Nunez F, Durr NR, Schlunz-Hendann M, Brassel F, Felderhoff-Muser U, Reutter H, Woelfle J, Jungert J, **Dohna-Schwake C**, **Bruns N**, Regensburger AP, Couture O, Mandelbaum H, Knieling F. *Advanced science (Weinheim, Baden-Wurttemberg, Germany):e2415235*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39899647/)
+  **Schwarz S**, Denis L, Nedoschill E, Buehler A, Danko V, Hilger AC, Brevis Nunez F, Durr NR, Schlunz-Hendann M, Brassel F, Felderhoff-Muser U, Reutter H, Woelfle J, Jungert J, **Dohna-Schwake C**, **Bruns N**, Regensburger AP, Couture O, Mandelbaum H, Knieling F. *Advanced science (Weinheim, Baden-Wurttemberg, Germany):e2415235*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39899647/)
 
 * **Performance of ICD-10-based injury severity scores in pediatric trauma patients using the ICD-AIS map and survival rate ratios.**  
   **Hojeij R**, **Brensing P**, Nonnemacher M, Kowall B, Felderhoff-Muser U, Dudda M, **Dohna-Schwake C**, Stang A, **Bruns N**. *Journal of clinical epidemiology, 178:111634*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39647538/)
@@ -39,8 +40,14 @@ title: Publications
 * **Association of bilaterally suppressed EEG amplitudes and outcomes in critically ill children.**  
   **Paul L**, **Greve S**, Hegemann J, Gienger S, Loffelhardt VT, Della Marina A, Felderhoff-Muser U, **Dohna-Schwake C**, **Bruns N**. *Frontiers in neuroscience, 18:1411151*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38903601/)
 
+* **Position statement on genuine physiotherapy research at German university hospitals.**  
+  Klotz SGR, Bokel A, Friderichs-Nedohibchenko M, Stickdorn I, Vogel B, Doods B, Feldmann F, Ghiazza M, Giehl M, Hoberg A, Jansen L, Kohlhofer D, Leonhardt R, Meier SF, Muller C, Pannzek M, **Schwarz S**, Traut M, Urdahl M. *German medical science : GMS e-journal, 22:Doc06*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38883338/)
+
 * **Effects of an early transfer from incubator to a warming crib in very low birthweight preterm infants.**  
   **Greve S**, **Bruns N**, Dathe AK, Schuendeln MM, Felderhoff-Mueser U, Stein A. *BMC pediatrics, 24(1):319*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38724933/)
+
+* **Early postnatal high-dose fat-soluble enteral vitamin A supplementation for moderate or severe bronchopulmonary dysplasia or death in extremely low birthweight infants (NeoVitaA): a multicentre, randomised, parallel-group, double-blind, placebo-controlled, investigator-initiated phase 3 trial.**  
+  Meyer S, Bay J, Franz AR, Ehrhardt H, Klein L, Petzinger J, Binder C, Kirschenhofer S, Stein A, Huning B, Heep A, Cloppenburg E, Muyimbwa J, Ott T, Sandkotter J, Teig N, Wiegand S, Schroth M, Kick A, Wurm D, Gebauer C, Linnemann K, Kittel J, Wieg C, Kiechl-Kohlendorfer U, Schmidt S, Bottger R, Thomas W, Brevis Nunez F, Stockmann A, Kriebel T, Muller A, Klotz D, Morhart P, Nohr D, Biesalski HK, Giannopoulou EZ, Hilt S, Poryo M, Wagenpfeil S, Haiden N, Ruckes C, Ehrlich A, Gortner L. *The Lancet. Respiratory medicine, 12(7):544-555*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38643780/)
 
 * **COMFORTneo scale in preterm infants during live performed music therapy-Difference between close physical contact and hand touch contact.**  
   Kobus S, Kleinbeck T, Ader M, Dewan MV, Dathe AK, Feddahi N, Felderhoff-Mueser U, **Bruns N**. *Frontiers in neuroscience, 18:1359769*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38606306/)
@@ -73,7 +80,7 @@ title: Publications
   Kavvalou A, Stehling F, Goretzki SC, **Dohna-Schwake C**, Rath PM, Steindor M. *Infectious diseases (London, England), 56(3):255-258*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38015560/)
 
 * **Aortic Steal Correlates with Acute Organ Dysfunction and Short-Term Outcomes in Neonates with Vein of Galen Malformation.**  
-  Schwarz S, Brevis Nunez F, Durr NR, Schlunz-Hendann M, Brassel F, Felderhoff-Muser U, **Dohna-Schwake C**, **Bruns N**. *Neonatology, 121(1):106-115*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37906988/)
+  **Schwarz S**, Brevis Nunez F, Durr NR, Schlunz-Hendann M, Brassel F, Felderhoff-Muser U, **Dohna-Schwake C**, **Bruns N**. *Neonatology, 121(1):106-115*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37906988/)
 
 
 ## 2023
@@ -106,7 +113,7 @@ title: Publications
   Stein A, Sody E, **Bruns N**, Felderhoff-Muser U. *AJNR. American journal of neuroradiology, 44(7):846-852*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37321856/)
 
 * **Doppler Ultrasound Flow Reversal in the Superior Sagittal Sinus to Detect Cerebral Venous Congestion in Vein of Galen Malformation.**  
-  Schwarz S, Brevis Nunez F, Durr NR, Brassel F, Schlunz-Hendann M, Feldkamp A, Rosenbaum T, Felderhoff-Muser U, Schulz K, **Dohna-Schwake C**, **Bruns N**. *AJNR. American journal of neuroradiology, 44(6):707-715*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37230540/)
+  **Schwarz S**, Brevis Nunez F, Durr NR, Brassel F, Schlunz-Hendann M, Feldkamp A, Rosenbaum T, Felderhoff-Muser U, Schulz K, **Dohna-Schwake C**, **Bruns N**. *AJNR. American journal of neuroradiology, 44(6):707-715*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37230540/)
 
 * **Giant Cavernous Malformation Mimicking an Infiltrative Intracranial Neoplasm in Children-Case Report and Systematic Review of the Literature.**  
   Gonzalez-Gallardo E, Rauschenbach L, Santos AN, Riess C, Li Y, Tippelt S, Della Marina A, **Dohna-Schwake C**, Sure U, Dammann P. *World neurosurgery, 174:30-41*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36889633/)

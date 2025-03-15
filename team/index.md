@@ -141,7 +141,7 @@ permalink: /team/
                     <p class="font-weight-bold text-uke-blue card-title">
                         Dr. med. Alan Hamy
                     </p>
-                    <p class="card-text">Epidemiologist</p>
+                    <p class="card-text">Specialist in Pediatrics</p>
                     <p class="card-text"><a href="mailto:alan.hamy@uk-essen.de">alan.hamy@uk-essen.de</a></p>
                 </div>
             </div>
