@@ -54,7 +54,7 @@ author:
 menu:
   - title: Home
     url: /home/
-   - title: Team
+  - title: Team
     url: /team/
   - title: Research
     url: /research/
