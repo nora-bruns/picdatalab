@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantitative EEG
-image: /assets/img/projects/qeeg2.png
+image: /assets/img/projects/qeeg.png
 ---
 <style>
 
