@@ -94,7 +94,7 @@ EEG-based neuromonitoring is our key interest and the need to further explore th
 ### Traumatic brain injury
 Traumatic brain injury as one of the most important causes for acquired brain injury in children has evolved as a second focus of our group, even though we do not limit our research to this condition.
 
-## Intensive Care Follow-Up - p-PICS {#intensive-care-followup}
+## Intensive Care Follow-Up {#intensive-care-followup}
 dsköakdösa
 
 ## Epidemiology and Public Health {#epidemiology}
