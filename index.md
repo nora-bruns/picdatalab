@@ -29,17 +29,31 @@ cover: true
 .page-title {
   display: none;
 }
-/* Center and style the explore link */
+/* Button with chevron style */
 .explore-link-container {
   text-align: center;
   margin: 30px 0;
 }
-.explore-link {
-  text-decoration: none;
-  color: inherit;
-  font-size: 2em;
+.button-with-chevron {
+  display: inline-block;
+  background-color: #00338d; /* UKE blue color */
+  color: #ffffff;
   font-weight: bold;
-  font-family: inherit;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  position: relative;
+  padding-right: 30px;
+  cursor: pointer;
+}
+
+.button-with-chevron:after {
+  content: "›";
+  position: absolute;
+  right: 15px;
+  font-size: 20px;
+  top: 50%;
+  transform: translateY(-50%);
 }
 </style>
 <!-- Custom header with image aligned to title -->
@@ -49,5 +63,5 @@ cover: true
 </div>
 
 <div class="explore-link-container">
-  <a href="home/index.md" class="explore-link">Start exploring</a>
+  <a href="home/index.md" class="button-with-chevron">Start exploring</a>
 </div>
