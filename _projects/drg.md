@@ -41,10 +41,10 @@ image: /assets/img/projects/drg.png
 
 
 ## Motivation
-–	xx
+-	xx
 
 ## Current work
-–	xx
+-	xx
 
 ## Funding
-–	Save-my-brain foundation
+-	Save-my-brain foundation
