@@ -149,7 +149,23 @@ no_date_top: true
   </div>
   {% endif %}
   
-  <!-- Project Four (Reserve) -->
+  <!-- PIA -->
+  {% assign drg = site.projects | where: "slug", "drg" | first %}
+  {% if pia %}
+  <div class="project-card">
+    <div class="project-image">
+      <img src="{{ drg.image | default: '/assets/img/projects/drg.png' | relative_url }}" alt="{{ drg.title }}">
+    </div>
+    <div class="project-content">
+      <h3 class="project-title"><strong>{{ drg.title }}</strong></h3>
+    </div>
+    <div class="project-footer">
+      <a href="{{ drg.url | relative_url }}" class="button-with-chevron">Learn more</a>
+    </div>
+  </div>
+  {% endif %}
+  
+    <!-- PIA -->
   {% assign pia = site.projects | where: "slug", "pia" | first %}
   {% if pia %}
   <div class="project-card">
@@ -164,5 +180,5 @@ no_date_top: true
     </div>
   </div>
   {% endif %}
-  
+
 </div>
