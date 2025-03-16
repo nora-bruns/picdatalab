@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the PIC Data Lab
+title: About the Lab
 last_modified_at: 2025-02-25
 no_link_title: false 
 no_excerpt: false 
