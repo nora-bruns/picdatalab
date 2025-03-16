@@ -264,7 +264,7 @@ title: Publications by our lab members
   Storbeck T, **Bruns N**, Weiss C, Felderhoff-Muser U, Muller H. *European journal of pediatrics, 179(2):271-278*. <a href="https://pubmed.ncbi.nlm.nih.gov/31724086/" style="text-decoration: none;">PubMed</a>
 
 * **Bacterial infections in children after liver transplantation: A single-center surveillance study of 345 consecutive transplantations.**  
-  Dohna Schwake C, Guiddir T, Cuzon G, Benissa MR, Dubois C, Miatello J, Merchaoui Z, Durand P, Tissieres P. *Transplant infectious disease : an official journal of the Transplantation Society, 22(1):e13208*. <a href="https://pubmed.ncbi.nlm.nih.gov/31693773/" style="text-decoration: none;">PubMed</a>
+  **Dohna Schwake C**, Guiddir T, Cuzon G, Benissa MR, Dubois C, Miatello J, Merchaoui Z, Durand P, Tissieres P. *Transplant infectious disease : an official journal of the Transplantation Society, 22(1):e13208*. <a href="https://pubmed.ncbi.nlm.nih.gov/31693773/" style="text-decoration: none;">PubMed</a>
 
 * **Neurological outcome at 24 months corrected age of prematurely born infants after preterm premature rupture of membranes (PPROM) of at least 7 days: a two-center experience in Germany.**  
   Muller H, Storbeck T, Katzer D, **Bruns N**, Wossner-Stegmann G, Ai M, Koninger A, Muller A, Felderhoff-Muser U, Bagci S. *The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians, 33(8):1315-1320*. <a href="https://pubmed.ncbi.nlm.nih.gov/30153748/" style="text-decoration: none;">PubMed</a>
