@@ -19,7 +19,7 @@ cover: true
 /* Style for the image */
 .header-image {
   max-width: 100%;
-  height: 300px;
+  height: 200px;
   object-fit: contain;
   margin: 20px 0;
 }
