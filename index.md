@@ -29,6 +29,18 @@ cover: true
 .page-title {
   display: none;
 }
+/* Center and style the explore link */
+.explore-link-container {
+  text-align: center;
+  margin: 30px 0;
+}
+.explore-link {
+  text-decoration: none;
+  color: inherit;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: inherit;
+}
 </style>
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
@@ -36,5 +48,6 @@ cover: true
   <img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="corner-image">
 </div>
 
-<h3>Get started</h3>
-<a href="home/index.md" class="start-link">Click here to begin exploring our resources</a>
+<div class="explore-link-container">
+  <a href="home/index.md" class="explore-link">Start exploring</a>
+</div>
