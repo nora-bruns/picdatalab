@@ -25,7 +25,7 @@ cover: true
 }
 /* Override default header margins */
 .header-container h1 {
-  margin: 0;
+  margin: 0 0 30px 0;
   line-height: 1.3;
 }
 /* Split the title into two lines */
