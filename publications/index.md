@@ -3,8 +3,6 @@ type: page
 title: Publications by our lab members
 ---
 
-# PubMed Search Results
-
 ## 2025
 
 * **The Phoenix Sepsis Score in Pediatric Oncology Patients With Sepsis at PICU Admission: Test of Performance in a European Multicenter Cohort, 2018-2020.**  
@@ -15,6 +13,12 @@ title: Publications by our lab members
 
 * **Performance of ICD-10-based injury severity scores in pediatric trauma patients using the ICD-AIS map and survival rate ratios.**  
   **Hojeij R**, **Brensing P**, Nonnemacher M, Kowall B, Felderhoff-Muser U, Dudda M, **Dohna-Schwake C**, Stang A, **Bruns N**. *Journal of clinical epidemiology, 178:111634*. <a href="https://pubmed.ncbi.nlm.nih.gov/39647538/" style="text-decoration: none;">PubMed</a>
+
+* **Severity of Pediatric Inflammatory Multisystem Syndrome Temporally Associated with SARS-CoV-2 Diminished During Successive Waves of the COVID-19 Pandemic: Data from a Nationwide German Survey.**  
+  Lohrmann F, Doenhardt M, Diffloth N, Jakob A, Hospach A, Schneider DT, Trotter A, Brunner J, Goretzki S, Arens S, Rank M, Mauer R, Armann J, Berner R, Hufnagel M. *The Journal of pediatrics, 278:114419*. <a href="https://pubmed.ncbi.nlm.nih.gov/39603520/" style="text-decoration: none;">PubMed</a>
+
+* **Management and outcome of cutaneous diphtheria in adolescent refugees in Germany, June 2022 - October 2023.**  
+  Zink A, Hofer J, Schneider C, Kessler F, Klenze H, Klauwer D, Maleki K, Muller A, Goretzki S, Wang S, Kobbe R, Ramirez AV, Bode S, Janda A, Fressle R, Remppis J, Henneke P, Rieg S, Berger A, Sing A, Hufnagel M, Spielberger BD. *Infection, 53(1):329-337*. <a href="https://pubmed.ncbi.nlm.nih.gov/39190269/" style="text-decoration: none;">PubMed</a>
 
 
 ## 2024
@@ -27,6 +31,9 @@ title: Publications by our lab members
 
 * **Telemedicine-based antibiotic stewardship program in pediatrics: study protocol of a stepped wedge cluster randomized trial-the TeleKasper study.**  
   Diexer S, Ihling A, Gomes D, Moritz S, Simon A, **Dohna-Schwake C**, Mikolajczyk R, Huebner J, von Both U. *Trials, 25(1):678*. <a href="https://pubmed.ncbi.nlm.nih.gov/39402608/" style="text-decoration: none;">PubMed</a>
+
+* **Feasibility, efficacy, and safety of animal-assisted activities with visiting dogs in inpatient pediatric oncology.**  
+  Steff K, Grasemann M, Ostermann K, Goretzki SC, Rath PM, Reinhardt D, Schundeln MM. *World journal of pediatrics : WJP, 20(9):915-924*. <a href="https://pubmed.ncbi.nlm.nih.gov/39112809/" style="text-decoration: none;">PubMed</a>
 
 * **Surgical Site Infections After Pediatric Liver Transplantation-Impact of a Change in Perioperative Prophylactic Antibiotic Protocol.**  
   **Bruns N**, Hauschild J, Lainka E, **Dohna-Schwake C**. *Pediatric transplantation, 28(5):e14830*. <a href="https://pubmed.ncbi.nlm.nih.gov/39030994/" style="text-decoration: none;">PubMed</a>
@@ -169,6 +176,9 @@ title: Publications by our lab members
 * **Impact of Physical Contact on Preterm Infants' Vital Sign Response to Live Music Therapy.**  
   Kobus S, Diezel M, Dewan MV, Huening B, Dathe AK, Felderhoff-Mueser U, **Bruns N**. *International journal of environmental research and public health, 19(15)*. <a href="https://pubmed.ncbi.nlm.nih.gov/35954880/" style="text-decoration: none;">PubMed</a>
 
+* **Prevalence of osteopathologies in a single center cohort of survivors of childhood primary brain tumor.**  
+  Schundeln MM, Fritzemeier S, Goretzki SC, Hauffa PK, Munteanu M, Kiewert C, Hauffa BP, Fleischhack G, Tippelt S, Grasemann C. *Frontiers in pediatrics, 10:913343*. <a href="https://pubmed.ncbi.nlm.nih.gov/35923779/" style="text-decoration: none;">PubMed</a>
+
 * **Pediatric ICU Admissions After Adolescent Suicide Attempts During the Pandemic.**  
   **Bruns N**, Willemsen L, Stang A, Kowall B, Holtkamp K, Kamp O, Dudda M, Hey F, Hoffmann F, Blankenburg J, Eifinger F, Fuchs H, Haase R, Baier J, Andree C, Heldmann M, Maldera V, Potratz J, Kurz D, Mand N, Doerfel C, Rothoeft T, Schultz M, Ohlert M, Silkenbaumer K, Boesing T, Indraswari F, Niemann F, Jahn P, Merker M, Braun N, Nunez FB, Engler M, Heimann K, Brasche M, Wolf G, Freymann H, Dercks M, Hoppenz M, Felderhoff-Muser U, **Dohna-Schwake C**. *Pediatrics, 150(2)*. <a href="https://pubmed.ncbi.nlm.nih.gov/35534988/" style="text-decoration: none;">PubMed</a>
 
@@ -294,5 +304,11 @@ title: Publications by our lab members
 
 * **Electrocortical Activity at 7 Days of Life is Affected in Extremely Premature Infants with Patent Ductus Arteriosus.**  
   **Bruns N**, Metze B, Buhrer C, Felderhoff-Muser U, Huseman D. *Klinische Padiatrie, 227(5):264-8*. <a href="https://pubmed.ncbi.nlm.nih.gov/25875399/" style="text-decoration: none;">PubMed</a>
+
+
+## 2014
+
+* **Impairment of bone health in pediatric patients with hemolytic anemia.**  
+  Schundeln MM, Goretzki SC, Hauffa PK, Wieland R, Bauer J, Baeder L, Eggert A, Hauffa BP, Grasemann C. *PloS one, 9(10):e108400*. <a href="https://pubmed.ncbi.nlm.nih.gov/25299063/" style="text-decoration: none;">PubMed</a>
 
 
