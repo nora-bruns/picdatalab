@@ -36,5 +36,5 @@ cover: true
   <img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="corner-image">
 </div>
 
-<h3>Start exploring</h3>
-<a href="home/index.md" class="start-link">Click here to begin exploring our lab</a>
+<h3>Get started</h3>
+<a href="home/index.md" class="start-link">Click here to begin exploring our resources</a>
