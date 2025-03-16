@@ -11,19 +11,26 @@ cover: true
 /* Container for header and image */
 .header-container {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
+  text-align: center;
   margin-bottom: 20px;
 }
-/* Style for the corner image */
-.corner-image {
-  max-width: 200px;
-  max-height: 150px;
+/* Style for the image */
+.header-image {
+  max-width: 100%;
+  height: 300px;
   object-fit: contain;
+  margin: 20px 0;
 }
 /* Override default header margins */
 .header-container h1 {
   margin: 0;
+  line-height: 1.3;
+}
+/* Split the title into two lines */
+.header-title-top {
+  display: block;
 }
 /* Hide the default page title - we'll add our own in the flex container */
 .page-title {
@@ -56,10 +63,13 @@ cover: true
   transform: translateY(-50%);
 }
 </style>
-<!-- Custom header with image aligned to title -->
+<!-- Vertically stacked header layout -->
 <div class="header-container">
-  <h1>Welcome to the Pediatric Intensive Care Data Lab</h1>
-  <img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="corner-image">
+  <h1>
+    <span class="header-title-top">Welcome to the</span>
+    Pediatric Intensive Care Data Lab
+  </h1>
+  <img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="header-image">
 </div>
 
 <div class="explore-link-container">
