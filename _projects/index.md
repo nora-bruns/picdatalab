@@ -151,7 +151,7 @@ no_date_top: true
   
   <!-- PIA -->
   {% assign drg = site.projects | where: "slug", "drg" | first %}
-  {% if pia %}
+  {% if drg %}
   <div class="project-card">
     <div class="project-image">
       <img src="{{ drg.image | default: '/assets/img/projects/drg.png' | relative_url }}" alt="{{ drg.title }}">
