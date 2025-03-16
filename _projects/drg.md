@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Traumatic Brain Injury in the German Hospital Dataset
+title: Traumatic Brain Injury (German Hospital Dataset)
 image: /assets/img/projects/drg.png
 ---
 
@@ -34,7 +34,7 @@ image: /assets/img/projects/drg.png
 
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
-  <h1>Traumatic Brain Injury from the German Hospital Dataset</h1>
+  <h1>Traumatic Brain Injury (German Hospital Dataset)</h1>
   <img src="{{ '/assets/img/projects/drg.png' | relative_url }}" alt="DRG" class="corner-image">
 </div>
 
