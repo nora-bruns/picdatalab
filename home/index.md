@@ -16,4 +16,5 @@ Data integration from various sources blabla
 ## Our impact
 blabla
 
-### Meet the <a href="{{ '/team/' | relative_url }}" style="text-decoration: none;">Team</a> and check out our <a href="{{ '/research/' | relative_url }}" style="text-decoration: none;">Research</a> and <a href="{{ '/_projects/' | relative_url }}" style="text-decoration: none;">Projects</a>!
+### Meet the <a href="{{ '/team/' | relative_url }}" style="text-decoration: none;"><strong>Team</strong></a> and check out our <a href="{{ '/research/' | relative_url }}" style="text-decoration: none;"><strong>Research</strong></a> and <a href="{{ '/projects/' | relative_url }}" style="text-decoration: none;"><strong>Projects</strong></a>!
+
