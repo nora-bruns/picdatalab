@@ -34,7 +34,7 @@ title: Quantitative EEG
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
   <h1>Quantitative EEG</h1>
-  <img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="corner-image">
+  <img src="{{ '/assets/img/projects/qeeg.png' | relative_url }}" alt="Quantitative EEG" class="corner-image">
 </div>
 
 
