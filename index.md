@@ -8,6 +8,11 @@ hide_image: false
 cover: true
 ---
 <style>
+/* Center align the Jekyll theme title */
+.page-title, h1.post-title {
+  text-align: center;
+}
+
 /* Style for the image */
 .main-image {
   display: block;
@@ -49,5 +54,5 @@ cover: true
 <img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="main-image">
 
 <div class="explore-link-container">
-  <a href="home/index.md" class="button-with-chevron">Start exploring</a>
+  <a href="home/index.md" class="button-with-chevron">Explore</a>
 </div>
