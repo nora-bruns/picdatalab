@@ -39,16 +39,12 @@ image: /assets/img/projects/drg.png
 </div>
 
 
-## Project Goals
 
-- Develop advanced algorithms for detecting subtle EEG changes
-- Create prediction models for neurological outcomes after critical illness
-- Establish best practices for EEG monitoring in pediatric intensive care
-- Translate research findings into clinical applications
+## Motivation
+–	xx
 
-## Key Accomplishments
+## Current work
+–	xx
 
-- Implemented continuous EEG monitoring protocols
-- Published findings on correlation between EEG patterns and outcomes
-- Developed a database of pediatric EEG recordings for research
-- Collaborated with multiple centers to validate findings
+## Funding
+–	Save-my-brain foundation

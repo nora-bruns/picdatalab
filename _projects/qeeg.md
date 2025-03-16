@@ -38,14 +38,23 @@ title: Quantitative EEG
 </div>
 
 
-## Project Goals
-- Develop advanced algorithms for detecting subtle EEG changes
-- Create prediction models for neurological outcomes after critical illness
-- Establish best practices for EEG monitoring in pediatric intensive care
-- Translate research findings into clinical applications
+## History
+–	Begining with amplitude-inegrated EEG (aEEG) in preterm infants
+–	First steps included visual assessment
+–	Later moved on to children using the same technique
+–	Since the foundation of the PIC Data Lab in 2020, the technique expanded towards semi-manual assessment within dedicated software
+–	Now the focus fully automated analysis not only of aEEG but also on exploring further quantitative processing, such as Fast Fourier Tranformation, Burst suppression ratio, asymmetry, and more.
 
-## Key Accomplishments
-- Implemented continuous EEG monitoring protocols
-- Published findings on correlation between EEG patterns and outcomes
-- Developed a database of pediatric EEG recordings for research
-- Collaborated with multiple centers to validate findings
+## Motivation
+–	Prelimiary evidence from small case series and adult intensive care suggests that there may be quantitative parameters whose changes precede clinical neurological worsening and may therefore be early indicators of deterioration
+–	Outcome prediction to inform decision making and parent counseling is another main driver of our research
+
+## Current work
+–	Systematic analysis of quantitative parameters of clinical datasets that include approximately 1000 EEGs from neurologically healthy awake and sedated children and from the pediatric intensive care unit that were recorded in the University Hospital Essen
+–	Analysis of these different patient cohort will provide improtant insights into changes from baseline induced by sedation and (neuro-)criticall illness 
+–	The technical and content expertise will be used to expand the analyses toward newborn and preterm infants with various conditions.  
+
+## Funding
+–	Stiftung Universitätsmedizin
+–	Medical Faculty of the University of Duisburg-Essen
+–	UMEA Clinican Scientist programme
