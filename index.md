@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to the Pediatric Intensive Care Data Lab
+title: "Welcome to the<br>Pediatric Intensive Care Data Lab"
 last_modified_at: 2025-02-25
 no_link_title: false
 no_excerpt: false
@@ -8,34 +8,15 @@ hide_image: false
 cover: true
 ---
 <style>
-/* Container for header and image */
-.header-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  margin-bottom: 20px;
-}
 /* Style for the image */
-.header-image {
+.main-image {
+  display: block;
   max-width: 100%;
   height: 200px;
   object-fit: contain;
-  margin: 20px 0;
+  margin: 30px auto;
 }
-/* Override default header margins */
-.header-container h1 {
-  margin: 0 0 30px 0;
-  line-height: 1.3;
-}
-/* Split the title into two lines */
-.header-title-top {
-  display: block;
-}
-/* Hide the default page title - we'll add our own in the flex container */
-.page-title {
-  display: none;
-}
+
 /* Button with chevron style */
 .explore-link-container {
   text-align: center;
@@ -63,15 +44,10 @@ cover: true
   transform: translateY(-50%);
 }
 </style>
-<!-- Vertically stacked header layout -->
-<div class="header-container">
-  <h1>
-    <span class="header-title-top">Welcome to the</span>
-    Pediatric Intensive Care Data Lab
-  </h1>
-  <img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="header-image">
-</div>
+
+<!-- Main content starts here, after the title rendered by Jekyll theme -->
+<img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="main-image">
 
 <div class="explore-link-container">
-  <a href="home/index.md" class="button-with-chevron">Explore</a>
+  <a href="home/index.md" class="button-with-chevron">Start exploring</a>
 </div>
