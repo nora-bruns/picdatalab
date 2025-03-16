@@ -7,10 +7,13 @@ no_excerpt: false
 hide_image: false
 cover: true
 ---
-**## Our vision**
+## Our vision
 blabla
-**## Our methods**
+
+## Our methods
 Data integration from various sources blabla
-**## Our impact**
+
+## Our impact
 blabla
-**### Meet the [Team](/team/) and check out our [Research](/research/) and [Projects](/_projects/)!**
+
+### Meet the <a href="{{ '/team/' | relative_url }}" style="text-decoration: none;">Team</a> and check out our <a href="{{ '/research/' | relative_url }}" style="text-decoration: none;">Research</a> and <a href="{{ '/_projects/' | relative_url }}" style="text-decoration: none;">Projects</a>!
