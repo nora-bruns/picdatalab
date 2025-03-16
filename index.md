@@ -73,5 +73,5 @@ cover: true
 </div>
 
 <div class="explore-link-container">
-  <a href="home/index.md" class="button-with-chevron">Start exploring</a>
+  <a href="home/index.md" class="button-with-chevron">Explore</a>
 </div>
