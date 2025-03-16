@@ -8,19 +8,37 @@ hide_image: false
 cover: true
 ---
 
-## Our vision
+<style>
 
-blabla
+/* Container for header and image */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
 
+/* Style for the corner image */
+.corner-image {
+  max-width: 200px;
+  max-height: 150px;
+  object-fit: contain;
+}
 
-## Our methods
+/* Override default header margins */
+.header-container h1 {
+  margin: 0;
+}
 
-Data integration from various sources blabla
+/* Hide the default page title - we'll add our own in the flex container */
+.page-title {
+  display: none;
+}
+</style>
 
+<!-- Custom header with image aligned to title -->
+<div class="header-container">
+  <h1>Welcome to the Pediatric Intensive Care Data Lab</h1>
+  <img src="{{ '/assets/img/projects/qeeg2.png' | relative_url }}" alt="Quantitative EEG" class="corner-image">
+</div>
 
-## Our impact
-
-blabla
-
-
-### Meet the team and check out our projects and research!

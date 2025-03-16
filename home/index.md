@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to the Pediatric Intensive Care Data Lab
+title: About the PIC Data Lab
 last_modified_at: 2025-02-25
 no_link_title: false 
 no_excerpt: false 
@@ -23,4 +23,4 @@ Data integration from various sources blabla
 blabla
 
 
-### Meet the team and check out our projects and research!
+### Meet the team and check out our research and projects!
