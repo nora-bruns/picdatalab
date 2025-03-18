@@ -38,16 +38,26 @@ image: /assets/img/projects/savebrain.png
 </div>
 
 
-## Project Goals
 
-- Develop advanced algorithms for detecting subtle EEG changes
-- Create prediction models for neurological outcomes after critical illness
-- Establish best practices for EEG monitoring in pediatric intensive care
-- Translate research findings into clinical applications
+## Background
+Traumatic brain injury (TBI) is a major pediatric health concern worldwide and in Germany, with about 92,000 hospital admissions annually in Germany. However, only 2.7% (ca. 2,500 per year) have confirmed intracranial injuries, and only 0.7% (ca. 600 per year) require neurosurgery. Germany's hospitalization rate for pediatric TBI (687/100,000 child-years) clearly exceeds those in other countries like, e.g., the UK (280/100,000) and the US (73/100,000).
 
-## Key Accomplishments
+This high rate likely stems from an interplay of lacking standardization in mild TBI (mTBI) care pathways, vague guideline recommendations regarding hospitalizations for mTBI, and financial incentives to hospitalize children with mTBI for observation.
 
-- Implemented continuous EEG monitoring protocols
-- Published findings on correlation between EEG patterns and outcomes
-- Developed a database of pediatric EEG recordings for research
-- Collaborated with multiple centers to validate findings
+Consequently, children with mild TBI are often admitted despite lacking medical necessity. The median 2-day hospital stay exceeds the 6-12 hour window of risk during which complications typically manifest. In contrast tot he German practice, international guidelines recommend no monitoring or only hourly monitoring in clinical settings for low-risk patients.
+
+## The trial
+The SaVeBRAIN.Kids trial will test a novel care pathway in order to reduce unnecessary hospitalizations while maintaining safety. Key features oft he novel care pathway include:
+
+-	Standardizing mTBI diagnosis and management
+-	Enablling short-term observation in the ED before admission or discharge
+-	Supporting home monitoring via a smartphone app
+
+The study will be conducted using a cluster-randomized stepped-wedge design with hospitalization rates and 72-hour unplanned return visits as primary outcomes.
+ 
+## Funding
+-	Innovations G-BA
+
+## Project homepage
+Coming soon
+
