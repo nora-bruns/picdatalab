@@ -8,16 +8,16 @@ no_date_top: true
   .projects-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
-    justify-content: space-between; /* Changed to space-between to use full width */
+    gap: 60px; /* Increased from 40px to add more space between cards */
+    justify-content: space-between;
     margin-bottom: 30px;
-    width: 100%; /* Ensure container uses full width */
+    width: 100%;
   }
 
   .project-card {
-    flex: 0 1 calc(50% - 20px); /* Adjusted calculation to account for space-between */
-    max-width: calc(50% - 20px); /* Adjusted max-width calculation */
-    min-width: 300px;
+    flex: 0 1 calc(45% - 30px); /* Reduced from 50% to make cards smaller */
+    max-width: calc(45% - 30px); /* Reduced from 50% to make cards smaller */
+    min-width: 280px; /* Slightly reduced from 300px */
     display: block;
     border: none;
     overflow: hidden;
@@ -30,12 +30,12 @@ no_date_top: true
   /* This ensures we maintain left alignment when there's an odd number of items */
   .projects-container::after {
     content: "";
-    flex: 0 1 calc(50% - 20px);
-    max-width: calc(50% - 20px);
+    flex: 0 1 calc(45% - 30px); /* Match the new card size */
+    max-width: calc(45% - 30px); /* Match the new card size */
   }
 
   .project-image {
-    height: 180px;
+    height: 160px; /* Reduced from 180px */
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -95,6 +95,10 @@ no_date_top: true
     .project-card {
       flex: 0 1 100%;
       max-width: 100%;
+    }
+    
+    .projects-container {
+      gap: 40px; /* Slightly reduce gap on mobile */
     }
   }
 </style>
