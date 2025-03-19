@@ -2,7 +2,7 @@
 layout: page
 title: FAB.NRW
 # image: /assets/img/projects/fab.png
-description: Find a bed in NRW
+description: Find a Bed in NRW
 hide_description: true
 ---
 
