@@ -50,6 +50,6 @@ We are currently conducting comprehensive analyses of quantitative parameters fr
 Once established we plan to apply our technical expertise and content knowledge to expand these analyses to newborn and preterm infant populations with various neurological conditions.
 
 ## Funding
-–	Stiftung Universitätsmedizin
-–	Medical Faculty of the University of Duisburg-Essen
-–	UMEA Clinican Scientist programme
+-	Stiftung Universitätsmedizin
+-	Medical Faculty of the University of Duisburg-Essen
+-	UMEA Clinican Scientist programme
