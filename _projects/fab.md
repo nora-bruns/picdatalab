@@ -5,6 +5,7 @@ title: FAB.NRW
 description: Find a bed in NRW
 hide_description: true
 ---
+
 <style>
 /* Container for header and image */
 .header-container {
