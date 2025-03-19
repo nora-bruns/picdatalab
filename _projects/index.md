@@ -138,20 +138,20 @@ no_date_top: true
   {% endif %}
   
   <!-- DRG -->
-  {% assign drg = site.projects | where: "slug", "drg" | first %}
-  {% if drg %}
+  {% assign hope = site.projects | where: "slug", "hope" | first %}
+  {% if hope %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ drg.image | default: '/assets/img/projects/drg.png' | relative_url }}" alt="{{ drg.title }}">
+      <img src="{{ hope.image | default: '/assets/img/projects/hope.png' | relative_url }}" alt="{{ hope.title }}">
     </div>
     <div class="project-content">
-      <h3 class="project-title"><strong>{{ drg.title }}</strong></h3>
-      {% if drg.description %}
-      <p class="project-description">{{ drg.description }}</p>
+      <h3 class="project-title"><strong>{{ hope.title }}</strong></h3>
+      {% if hope.description %}
+      <p class="project-description">{{ hope.description }}</p>
       {% endif %}
     </div>
     <div class="project-footer">
-      <a href="{{ drg.url | relative_url }}" class="button-with-chevron">Learn more</a>
+      <a href="{{ hope.url | relative_url }}" class="button-with-chevron">Learn more</a>
     </div>
   </div>
   {% endif %}

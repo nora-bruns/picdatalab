@@ -2,7 +2,7 @@
 layout: page
 title: HOPE-TBI
 description: Hospital Data for Pediatric TBI Research
-image: /assets/img/projects/drg.png
+image: /assets/img/projects/hope.png
 hide_description: true
 ---
 <style>
@@ -31,7 +31,7 @@ display: none;
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
 <h1>{{ page.title }}</h1>
-<img src="{{ '/assets/img/projects/drg.png' | relative_url }}" alt="DRG" class="corner-image">
+<img src="{{ '/assets/img/projects/hope.png' | relative_url }}" alt="HOPE" class="corner-image">
 </div>
 
 ## Motivation**
