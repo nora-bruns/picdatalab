@@ -5,7 +5,6 @@ image: /assets/img/projects/postpicu.png
 description: Post Intensive Care Syndrome
 hide_description: true
 ---
-
 <style>
 
 /* Container for header and image */
@@ -37,7 +36,9 @@ hide_description: true
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
   <h1>{{ page.title }}</h1>
-  <img src="{{ '/assets/img/projects/postpicu.png' | relative_url }}" alt="Post Intensive Care Syndrome" class="corner-image">
+  <h3 class="description-subtitle">{{ page.description }}</h3>
+  <div>
+  <img src="{{ '/assets/img/projects/postpicu.png' | relative_url }}" alt="PICS" class="corner-image">
 </div>
 
 

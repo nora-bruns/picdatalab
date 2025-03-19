@@ -37,6 +37,8 @@ hide_description: true
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
   <h1>{{ page.title }}</h1>
+  <h3 class="description-subtitle">{{ page.description }}</h3>
+  <div>
   <img src="{{ '/assets/img/projects/pia.png' | relative_url }}" alt="PIA" class="corner-image">
 </div>
 

@@ -6,13 +6,13 @@ description: Safe Ambulatory Care for children with mild TBI
 hide_description: true
 ---
 <style>
+
 /* Container for header and image */
 .header-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
-  width: 100%;
 }
 
 /* Style for the corner image */
@@ -35,8 +35,10 @@ hide_description: true
 
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
-<h1>{{ page.title }}</h1>
-<img src="{{ '/assets/img/projects/savebrain.png' | relative_url }}" alt="SaVeBRAIN.Kids" class="corner-image">
+  <h1>{{ page.title }}</h1>
+  <h3 class="description-subtitle">{{ page.description }}</h3>
+  <div>
+  <img src="{{ '/assets/img/projects/savebrain.png' | relative_url }}" alt="SaVeBRAIN.Kids" class="corner-image">
 </div>
 
 

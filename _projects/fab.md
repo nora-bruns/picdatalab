@@ -1,8 +1,8 @@
 ---
 layout: page
-title: NICE
-# image: /assets/img/projects/qeeg.png
-description: Neurological assessment by Intensive Care EEG
+title: FAB.NRW
+# image: /assets/img/projects/fab.png
+description: Find a bed in NRW
 hide_description: true
 ---
 <style>
@@ -48,7 +48,7 @@ display: none;
     <h1>{{ page.title }}</h1>
     <h3 class="description-subtitle">{{ page.description }}</h3>
   </div>
-  <img src="{{ '/assets/img/projects/qeeg.png' | relative_url }}" alt="NICE" class="corner-image">
+  <img src="{{ '/assets/img/projects/fab.png' | relative_url }}" alt="FAB" class="corner-image">
 </div>
 
 
