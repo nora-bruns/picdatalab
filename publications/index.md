@@ -3,16 +3,13 @@ type: page
 title: Publications by our lab members
 ---
 
-<details>
-<summary>Click to expand this section</summary>
+<div class="accordion">
+  <h3 class="accordion-header">Section Title</h3>
+  <div class="accordion-content">
+    <p>Your content here. This can include HTML or Markdown.</p>
+  </div>
+</div>
 
-All your content goes here. You can include:
-- Markdown lists
-- **Bold text**
-- [Links](https://example.com)
-- And other Markdown formatting
-
-</details>
 
 ## 2025
 
