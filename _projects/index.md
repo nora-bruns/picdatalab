@@ -8,9 +8,9 @@ no_date_top: true
   .projects-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 60px; /* Increased from 40px to add more space between cards */
+    gap: 60px 60px; /* First value controls row gap (vertical), second controls column gap (horizontal) */
     justify-content: space-between;
-    margin-bottom: 30px;
+    margin-bottom: 40px; /* Increased from 30px */
     width: 100%;
   }
 
@@ -23,7 +23,7 @@ no_date_top: true
     overflow: hidden;
     text-decoration: none;
     color: inherit;
-    margin-bottom: 20px;
+    margin-bottom: 40px; /* Increased from 20px to add more vertical spacing */
     background-color: #e5eaf3;
   }
 
