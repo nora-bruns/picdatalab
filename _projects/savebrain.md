@@ -2,7 +2,7 @@
 layout: page
 title: SaveBRAIN.Kids
 image: /assets/img/projects/savebrain.png
-description: Safe Ambulatory Care for mild TBI
+description: Safe Ambulatory Care for children with mild TBI
 hide_description: true
 ---
 <style>
