@@ -2,6 +2,7 @@
 layout: page
 title: SaveBRAIN.Kids
 image: /assets/img/projects/savebrain.png
+custom_css: savebrain
 ---
 <style>
 /* Container for header and image */
@@ -53,7 +54,7 @@ The SaVeBRAIN.Kids trial will test a novel care pathway in order to reduce unnec
 -	Enabling short-term observation in the ED before admission or discharge
 -	Supporting home monitoring via a smartphone app
 
-The study will be conducted in a multicenter cluster-randomized stepped-wedge trial with hospitalization rates and unplanned return visits as primary outcomes.
+The study will be conducted in a multicenter cluster-randomized stepped-wedge trial with hospitalization rates and unplanned return visits as co-primary outcomes.
  
 ## Funding
 -	Innovations G-BA
