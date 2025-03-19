@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Traumatic Brain Injury
+title: HOPE-TBI
+description: Hospital Data for Pediatric TBI Research
 image: /assets/img/projects/drg.png
 ---
 
