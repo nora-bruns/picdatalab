@@ -17,7 +17,7 @@ cover: true
 .main-image {
   display: block;
   max-width: 100%;
-  height: 200px;
+  height: 100px;
   object-fit: contain;
   margin: 30px auto;
 }
