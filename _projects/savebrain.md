@@ -40,14 +40,14 @@ custom_css: savebrain
 
 
 
-## Background
+<h2 style="color: #652977 !important;">Background</h2>
 Traumatic brain injury (TBI) is a major pediatric health concern worldwide, with about 92,000 hospital admissions annually in Germany. However, only 2.7% (ca. 2,500 per year) have confirmed intracranial injuries, and only 0.7% (ca. 600 per year) require neurosurgery. Germany's hospitalization rate for pediatric TBI (687/100,000 child-years) strikingly exceeds those in other countries like, e.g., the UK (280/100,000) and the US (73/100,000).
 
 This high rate likely stems from an interplay of lacking standardization of mild TBI (mTBI) care pathways, vague guideline recommendations regarding hospitalizations, and financial incentives to hospitalize children with mTBI for observation.
 
 Consequently, children with mild TBI are often admitted despite lacking medical necessity. The median 2-day hospital stay exceeds the 6-12 hour window of risk during which complications typically manifest. In contrast to the German practice, international guidelines recommend no monitoring or only hourly monitoring in clinical settings for low-risk patients.
 
-## Trial
+<h2 style="color: #652977 !important;">Trial</h2>
 The SaVeBRAIN.Kids trial will test a novel care pathway in order to reduce unnecessary hospitalizations while maintaining safety. Key features of the novel care pathway include:
 
 -	Standardizing mTBI diagnosis and management
@@ -56,9 +56,9 @@ The SaVeBRAIN.Kids trial will test a novel care pathway in order to reduce unnec
 
 The study will be conducted in a multicenter cluster-randomized stepped-wedge trial with hospitalization rates and unplanned return visits as co-primary outcomes.
  
-## Funding
+<h2 style="color: #652977 !important;">Funding</h2>
 -	Innovations G-BA
 
-## Project homepage
+<h2 style="color: #652977 !important;">Project Homepage</h2>
 Coming soon
 
