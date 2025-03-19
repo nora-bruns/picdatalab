@@ -39,16 +39,19 @@ image: /assets/img/projects/pia.png
 </div>
 
 
-## Project Goals
+### We are proud to be part of the PIA Network
 
-- Develop advanced algorithms for detecting subtle EEG changes
-- Create prediction models for neurological outcomes after critical illness
-- Establish best practices for EEG monitoring in pediatric intensive care
-- Translate research findings into clinical applications
+## Background
+The Pediatric Intensive Care Unit Admissions (PIA) network was established as a nationwide database in Germany to gather epidemiological, clinical, and outcome data on pediatric critical illness. Until the foundation of PIA in 2022, Germany had no recording system for pediatric intensive care admissions, hindering epidemiological and outcome assessments. 
 
-## Key Accomplishments
+## Aims
+The PIA network intends to address these gaps by providing a framework for clinical and epidemiological research in pediatric intensive care. It collects data on diagnoses, treatment, clinical course, and short-term outcomes and aims to identify areas for improvement in care, enable disease surveillance, and one day serve as a tool for quality control. 
 
-- Implemented continuous EEG monitoring protocols
-- Published findings on correlation between EEG patterns and outcomes
-- Developed a database of pediatric EEG recordings for research
-- Collaborated with multiple centers to validate findings
+## Method 
+The PIA network builds upon the infrastructure of the German Pediatric Surveillance Unit ESPED for data collection. Anonymous data is entered into a central online database by local PIA investigators. 
+
+## Data access
+Eligible investigators can submit proposals for data analyses to the steering committee.
+
+## Find out more about the PIA Network
+[Homepage of the PIA Network](https://www.unimedizin-mainz.de/pia/home/home.html)
