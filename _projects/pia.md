@@ -53,5 +53,5 @@ The PIA network builds upon the infrastructure of the German Pediatric Surveilla
 ## Data access
 Eligible investigators can submit proposals for data analyses to the steering committee.
 
-## Find out more about the PIA Network
-[Homepage of the PIA Network](https://www.unimedizin-mainz.de/pia/home/home.html)
+## More about the PIA Network
+[Homepage of the PIA Network](https://www.unimedizin-mainz.de/pia/home/home.html){: style="color: #00338f; text-decoration: none;"}
