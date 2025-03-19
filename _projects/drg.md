@@ -34,7 +34,7 @@ image: /assets/img/projects/drg.png
 
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
-  <h1>Traumatic Brain Injury (German Hospital Dataset)</h1>
+  <h1>Traumatic Brain Injury in routine health care data</h1>
   <img src="{{ '/assets/img/projects/drg.png' | relative_url }}" alt="DRG" class="corner-image">
 </div>
 
