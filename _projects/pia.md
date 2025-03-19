@@ -39,7 +39,7 @@ image: /assets/img/projects/pia.png
 </div>
 
 
-### We are proudly participating the PIA Network!
+### We are proud co-founders and participants of the PIA Network!
 
 ## Background
 The Pediatric Intensive Care Unit Admissions (PIA) network was established as a nationwide database in Germany to gather epidemiological, clinical, and outcome data on pediatric critical illness. Until the foundation of PIA in 2022, Germany had no recording system for pediatric intensive care admissions, hindering epidemiological and outcome assessments. 
