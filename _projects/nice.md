@@ -37,12 +37,13 @@ hide_description: true
 <div class="header-container">
   <h1>{{ page.title }}</h1>
   <h3 class="description-subtitle">{{ page.description }}</h3>
+  <div>
   <img src="{{ '/assets/img/projects/qeeg.png' | relative_url }}" alt="NICE" class="corner-image">
 </div>
 
 
 ## History
-Our group‘s research journey began with amplitude-integrated EEG (aEEG) in preterm infants, initially using mere visual assessment. Since establishing the PIC Data Lab in 2020, our focus has shifted towards pediatric intensive care patients and the approach evolved using partially automated assessments. 
+Our group‘s research journey began with amplitude-integrated EEG (aEEG) in preterm infants, initially using mere visual assessment of the tracings. Since establishing the PIC Data Lab in 2020, our focus has shifted towards pediatric intensive care patients and the approach evolved using partially automated assessments. 
 Today, we focus on fully automated analysis of aEEG and explore advanced quantitative EEG processing, including Fast Fourier Transformation, burst suppression ratio, asymmetry detection, and more.
 
 ## Motivation
