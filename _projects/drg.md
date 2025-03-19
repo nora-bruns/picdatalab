@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Traumatic Brain Injury (German Hospital Dataset)
+title: Traumatic Brain Injury (DRG)
 image: /assets/img/projects/drg.png
 ---
 
