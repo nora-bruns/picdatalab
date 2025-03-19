@@ -149,7 +149,7 @@ no_date_top: true
   </div>
   {% endif %}
   
-  <!-- PIA -->
+  <!-- DRG -->
   {% assign drg = site.projects | where: "slug", "drg" | first %}
   {% if drg %}
   <div class="project-card">

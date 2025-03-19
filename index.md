@@ -16,7 +16,7 @@ cover: true
 /* Style for the image */
 .main-image {
   display: block;
-  max-width: 80%;
+  max-width: 100%;
   height: 200px;
   object-fit: contain;
   margin: 30px auto;
