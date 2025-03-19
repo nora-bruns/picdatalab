@@ -150,8 +150,8 @@ no_date_top: true
   {% endif %}
   
   <!-- Post-PICU -->
-  {% assign postpicu = site.projects | where: "slug", "postpicu" | first %}
-  {% if postpicu %}
+ {% assign postpicu = site.projects | where: "slug", "postpicu" | first %}
+ {% if postpicu %}
   <div class="project-card">
     <div class="project-image">
       <img src="{{ postpicu.image | default: '/assets/img/projects/postpicu.png' | relative_url }}" alt="{{ postpicu.title }}">
