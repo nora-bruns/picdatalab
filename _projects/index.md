@@ -118,26 +118,26 @@ no_date_top: true
 
 <div class="projects-container">
   
-  <!-- qEEG -->
-  {% assign qeeg = site.projects | where: "slug", "qeeg" | first %}
+  <!-- NICE -->
+  {% assign nice = site.projects | where: "slug", "nice" | first %}
   {% if qeeg %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ qeeg.image | default: '/assets/img/projects/qeeg.png' | relative_url }}" alt="{{ qeeg.title }}">
+      <img src="{{ nice.image | default: '/assets/img/projects/qeeg.png' | relative_url }}" alt="{{ nice.title }}">
     </div>
     <div class="project-content">
-      <h3 class="project-title"><strong>{{ qeeg.title }}</strong></h3>
-      {% if qeeg.description %}
-      <p class="project-description">{{ qeeg.description }}</p>
+      <h3 class="project-title"><strong>{{ nice.title }}</strong></h3>
+      {% if nice.description %}
+      <p class="project-description">{{ nice.description }}</p>
       {% endif %}
     </div>
     <div class="project-footer">
-      <a href="{{ qeeg.url | relative_url }}" class="button-with-chevron">Learn more</a>
+      <a href="{{ nice.url | relative_url }}" class="button-with-chevron">Learn more</a>
     </div>
   </div>
   {% endif %}
   
-  <!-- DRG -->
+  <!-- HOPE -->
   {% assign hope = site.projects | where: "slug", "hope" | first %}
   {% if hope %}
   <div class="project-card">

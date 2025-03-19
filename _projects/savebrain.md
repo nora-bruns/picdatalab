@@ -2,7 +2,8 @@
 layout: page
 title: SaveBRAIN.Kids
 image: /assets/img/projects/savebrain.png
-custom_css: savebrain
+description: Safe Ambulatory Care for mild TBI
+hide_description: true
 ---
 <style>
 /* Container for header and image */
@@ -34,7 +35,7 @@ custom_css: savebrain
 
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
-<h1>SaVeBRAIN.Kids</h1>
+<h1>{{ page.title }}</h1>
 <img src="{{ '/assets/img/projects/savebrain.png' | relative_url }}" alt="SaVeBRAIN.Kids" class="corner-image">
 </div>
 

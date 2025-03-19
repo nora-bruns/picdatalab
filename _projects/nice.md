@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Quantitative EEG
+title: NICE
 # image: /assets/img/projects/qeeg.png
+description: Neurological assessment by Intensive Care EEG
+hide_description: true
 ---
 <style>
 
@@ -33,8 +35,8 @@ title: Quantitative EEG
 
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
-  <h1>Quantitative EEG</h1>
-  <img src="{{ '/assets/img/projects/qeeg.png' | relative_url }}" alt="Quantitative EEG" class="corner-image">
+  <h1>{{ page.title }}</h1>
+  <img src="{{ '/assets/img/projects/qeeg.png' | relative_url }}" alt="NICE" class="corner-image">
 </div>
 
 
