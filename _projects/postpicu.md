@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post Intensive Care Syndrome
+title: PICS
 image: /assets/img/projects/postpicu.png
 ---
 
