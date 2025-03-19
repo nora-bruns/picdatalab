@@ -154,7 +154,7 @@ no_date_top: true
   {% if postpicu %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ postpicu.image | default: '/assets/img/projects/postpicu.png' | relative_url }}" alt="{{ savebrain.title }}">
+      <img src="{{ postpicu.image | default: '/assets/img/projects/postpicu.png' | relative_url }}" alt="{{ postpicu.title }}">
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ postpicu.title }}</strong></h3>
