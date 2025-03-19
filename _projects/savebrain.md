@@ -34,8 +34,8 @@ custom_css: savebrain
 
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
-  <h1>SaVeBRAIN.Kids</h1>
-  <img src="{{ '/assets/img/projects/savebrain.png' | relative_url }}" alt="SaVeBRAIN.Kids" class="corner-image">
+<h1 style="color: #652977 !important;">SaVeBRAIN.Kids</h1>
+<img src="{{ '/assets/img/projects/savebrain.png' | relative_url }}" alt="SaVeBRAIN.Kids" class="corner-image">
 </div>
 
 
