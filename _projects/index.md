@@ -117,6 +117,22 @@ no_date_top: true
   </div>
   {% endif %}
   
+  <!-- DRG -->
+  {% assign drg = site.projects | where: "slug", "drg" | first %}
+  {% if drg %}
+  <div class="project-card">
+    <div class="project-image">
+      <img src="{{ drg.image | default: '/assets/img/projects/drg.png' | relative_url }}" alt="{{ drg.title }}">
+    </div>
+    <div class="project-content">
+      <h3 class="project-title"><strong>{{ drg.title }}</strong></h3>
+    </div>
+    <div class="project-footer">
+      <a href="{{ drg.url | relative_url }}" class="button-with-chevron">Learn more</a>
+    </div>
+  </div>
+  {% endif %}
+
   <!-- SaVeBRAIN -->
   {% assign savebrain = site.projects | where: "slug", "savebrain" | first %}
   {% if savebrain %}
@@ -133,6 +149,22 @@ no_date_top: true
   </div>
   {% endif %}
   
+  <!-- Post-PICU -->
+  {% assign postpicu = site.projects | where: "slug", "postpicu" | first %}
+  {% if postpicu %}
+  <div class="project-card">
+    <div class="project-image">
+      <img src="{{ postpicu.image | default: '/assets/img/projects/postpicu.png' | relative_url }}" alt="{{ savebrain.title }}">
+    </div>
+    <div class="project-content">
+      <h3 class="project-title"><strong>{{ postpicu.title }}</strong></h3>
+    </div>
+    <div class="project-footer">
+      <a href="{{ postpicu.url | relative_url }}" class="button-with-chevron">Learn more</a>
+    </div>
+  </div>
+  {% endif %}
+
   <!-- FAB -->
   {% assign fab = site.projects | where: "slug", "fab" | first %}
   {% if fab %}
@@ -145,22 +177,6 @@ no_date_top: true
     </div>
     <div class="project-footer">
       <a href="{{ fab.url | relative_url }}" class="button-with-chevron">Learn more</a>
-    </div>
-  </div>
-  {% endif %}
-  
-  <!-- DRG -->
-  {% assign drg = site.projects | where: "slug", "drg" | first %}
-  {% if drg %}
-  <div class="project-card">
-    <div class="project-image">
-      <img src="{{ drg.image | default: '/assets/img/projects/drg.png' | relative_url }}" alt="{{ drg.title }}">
-    </div>
-    <div class="project-content">
-      <h3 class="project-title"><strong>{{ drg.title }}</strong></h3>
-    </div>
-    <div class="project-footer">
-      <a href="{{ drg.url | relative_url }}" class="button-with-chevron">Learn more</a>
     </div>
   </div>
   {% endif %}
