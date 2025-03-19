@@ -39,22 +39,17 @@ title: Quantitative EEG
 
 
 ## History
-- Begining with amplitude-inegrated EEG (aEEG) in preterm infants
--	First steps included visual assessment
--	Later moved on to children using the same technique
--	Since the foundation of the PIC Data Lab in 2020, the technique expanded towards semi-manual assessment within dedicated software
--	Now the focus fully automated analysis not only of aEEG but also on exploring further quantitative processing, such as Fast Fourier Tranformation, Burst suppression ratio, asymmetry, and more.
+Our group‘s research journey began with amplitude-integrated EEG (aEEG) in preterm infants, initially using mere visual assessment. Since establishing the PIC Data Lab in 2020, our focus has shifted towards pediatric intensive care patients and the approach evolved using partially automated assessments. 
+Today, we focus on fully automated analysis of aEEG and explore advanced quantitative EEG processing, including Fast Fourier Transformation, burst suppression ratio, asymmetry detection, and more.
 
 ## Motivation
--	Prelimiary evidence from small case series and adult intensive care suggests that there may be quantitative parameters whose changes precede clinical neurological worsening and may therefore be early indicators of deterioration
--	Outcome prediction to inform decision making and parent counseling is another main driver of our research
+Preliminary evidence from small case series and adult intensive care suggests that certain quantitative EEG parameters may change before clinical neurological deterioration becomes apparent, potentially serving as early warning indicators. Additionally, our research is driven by the need for outcome prediction tools to inform clinical decision-making and provide accurate information for parent counseling.
 
-## Current work
--	Systematic analysis of quantitative parameters of clinical datasets that include approximately 1000 EEGs from neurologically healthy awake and sedated children and from the pediatric intensive care unit that were recorded in the University Hospital Essen
--	Analysis of these different patient cohort will provide improtant insights into changes from baseline induced by sedation and (neuro-)criticall illness 
--	The technical and content expertise will be used to expand the analyses toward newborn and preterm infants with various conditions.  
+## Current Work
+We are currently conducting comprehensive analyses of quantitative parameters from approximately 1,000 EEGs collected at our center. These recordings derive from diverse patient populations, including neurologically healthy children (awake and during sedation) and critically ill children. Examining these different cohorts will provide important insights into baseline changes induced by sedation and neurological/critical illness. 
+Once established we plan to apply our technical expertise and content knowledge to expand these analyses to newborn and preterm infant populations with various neurological conditions.
 
 ## Funding
--	Stiftung Universitätsmedizin
--	Medical Faculty of the University of Duisburg-Essen
--	UMEA Clinican Scientist programme
+–	Stiftung Universitätsmedizin
+–	Medical Faculty of the University of Duisburg-Essen
+–	UMEA Clinican Scientist programme
