@@ -120,7 +120,7 @@ no_date_top: true
   
   <!-- NICE -->
   {% assign nice = site.projects | where: "slug", "nice" | first %}
-  {% if qeeg %}
+  {% if nice %}
   <div class="project-card">
     <div class="project-image">
       <img src="{{ nice.image | default: '/assets/img/projects/qeeg.png' | relative_url }}" alt="{{ nice.title }}">
