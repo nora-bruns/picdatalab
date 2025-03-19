@@ -62,6 +62,19 @@ no_date_top: true
     color: #00338d; /* UKE blue color */
     font-weight: 700;
   }
+  
+  .project-description {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #333;
+    line-height: 1.4;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Limit to 3 lines */
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    max-height: 3.9em; /* Approximately 3 lines */
+  }
 
   .project-footer {
     padding: 16px;
@@ -114,6 +127,9 @@ no_date_top: true
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ qeeg.title }}</strong></h3>
+      {% if qeeg.description %}
+      <p class="project-description">{{ qeeg.description }}</p>
+      {% endif %}
     </div>
     <div class="project-footer">
       <a href="{{ qeeg.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -130,6 +146,9 @@ no_date_top: true
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ drg.title }}</strong></h3>
+      {% if drg.description %}
+      <p class="project-description">{{ drg.description }}</p>
+      {% endif %}
     </div>
     <div class="project-footer">
       <a href="{{ drg.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -146,6 +165,9 @@ no_date_top: true
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ savebrain.title }}</strong></h3>
+      {% if savebrain.description %}
+      <p class="project-description">{{ savebrain.description }}</p>
+      {% endif %}
     </div>
     <div class="project-footer">
       <a href="{{ savebrain.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -162,6 +184,9 @@ no_date_top: true
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ postpicu.title }}</strong></h3>
+      {% if postpicu.description %}
+      <p class="project-description">{{ postpicu.description }}</p>
+      {% endif %}
     </div>
     <div class="project-footer">
       <a href="{{ postpicu.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -178,6 +203,9 @@ no_date_top: true
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ fab.title }}</strong></h3>
+      {% if fab.description %}
+      <p class="project-description">{{ fab.description }}</p>
+      {% endif %}
     </div>
     <div class="project-footer">
       <a href="{{ fab.url | relative_url }}" class="button-with-chevron">Learn more</a>
@@ -194,6 +222,9 @@ no_date_top: true
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ pia.title }}</strong></h3>
+      {% if pia.description %}
+      <p class="project-description">{{ pia.description }}</p>
+      {% endif %}
     </div>
     <div class="project-footer">
       <a href="{{ pia.url | relative_url }}" class="button-with-chevron">Learn more</a>
