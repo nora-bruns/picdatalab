@@ -26,3 +26,8 @@ image: /assets/img/projects/fab.png
 - Published findings on correlation between EEG patterns and outcomes
 - Developed a database of pediatric EEG recordings for research
 - Collaborated with multiple centers to validate findings
+
+## Funding
+- Stiftung Universitätsmedizin Essen
+- Stiftung Kinderschutz NRW
+- Landeszentrum für Gesundheit NRW

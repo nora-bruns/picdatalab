@@ -3,6 +3,17 @@ type: page
 title: Publications by our lab members
 ---
 
+<details>
+<summary>Click to expand this section</summary>
+
+All your content goes here. You can include:
+- Markdown lists
+- **Bold text**
+- [Links](https://example.com)
+- And other Markdown formatting
+
+</details>
+
 ## 2025
 
 * **The Phoenix Sepsis Score in Pediatric Oncology Patients With Sepsis at PICU Admission: Test of Performance in a European Multicenter Cohort, 2018-2020.**  
