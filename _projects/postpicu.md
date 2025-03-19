@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post Intensive Care Follow-Up
+title: Post Intensive Care Syndrome
 image: /assets/img/projects/postpicu.png
 ---
 
@@ -34,8 +34,8 @@ image: /assets/img/projects/postpicu.png
 
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
-  <h1>Post Intensive Care Follow-Up</h1>
-  <img src="{{ '/assets/img/projects/postpicu.png' | relative_url }}" alt="Post Intensive Care Follow-Up" class="corner-image">
+  <h1>Post Intensive Care Syndrome</h1>
+  <img src="{{ '/assets/img/projects/postpicu.png' | relative_url }}" alt="Post Intensive Care Syndrome" class="corner-image">
 </div>
 
 
