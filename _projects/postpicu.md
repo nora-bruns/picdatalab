@@ -34,7 +34,7 @@ image: /assets/img/projects/postpicu.png
 
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
-  <h1>PIA Network</h1>
+  <h1>Post Intensive Care Follow-Up</h1>
   <img src="{{ '/assets/img/projects/postpicu.png' | relative_url }}" alt="Post Intensive Care Follow-Up" class="corner-image">
 </div>
 
