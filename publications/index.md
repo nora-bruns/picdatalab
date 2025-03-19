@@ -3,13 +3,6 @@ type: page
 title: Publications by our lab members
 ---
 
-<div class="accordion">
-  <h2 class="accordion-header">Expandalble Test Section</h2>
-  <div class="accordion-content">
-    <p>Your content here. This can include HTML or Markdown. We will put the publications here, yeah!</p>
-  </div>
-</div>
-
 
 ## 2025
 
