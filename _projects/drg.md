@@ -3,6 +3,7 @@ layout: page
 title: HOPE-TBI
 description: Hospital Data for Pediatric TBI Research
 image: /assets/img/projects/drg.png
+hide_description: true
 ---
 <style>
 /* Container for header and image */
