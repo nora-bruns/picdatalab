@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post Intensice Care Follow-Up
+title: Post Intensive Care Follow-Up
 image: /assets/img/projects/postpicu.png
 ---
 
@@ -35,7 +35,7 @@ image: /assets/img/projects/postpicu.png
 <!-- Custom header with image aligned to title -->
 <div class="header-container">
   <h1>PIA Network</h1>
-  <img src="{{ '/assets/img/projects/postpicu.png' | relative_url }}" alt="Post Intensice Care Follow-Up" class="corner-image">
+  <img src="{{ '/assets/img/projects/postpicu.png' | relative_url }}" alt="Post Intensive Care Follow-Up" class="corner-image">
 </div>
 
 
