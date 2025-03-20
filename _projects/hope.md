@@ -52,11 +52,26 @@ display: none;
 </div>
 
 
-## Motivation**
-- xx
+## Background
+Traumatic Brain Injury (TBI) represents one of the major public health concerns in pediatric populations across the world. While moderate and severe TBI are luckily rare, this creates challenges in gathering large-scale data for research and evidence synthesis. At the same time, optimizing diagnostic and neuroprotective management during the acute phase is crucial in order to avoid secondary brain injury.
 
-## Current work**
-- xx
+Routine healthcare data provides the opportunity to investigate moderate and severe TBI on a larger scale. The German hospital dataset offers nationwide comprehensive coverage of pediatric hospital discharges, creating an ideal platform for in-depth TBI research.
 
-## Funding**
-- Save-my-brain foundation
+## Methodological preparatory work
+Because stratification or adjustment for injury severity is indispensable in trauma research, we have implemented two distinct methods to measure injury severity in pediatric trauma patients from routine health care data:
+-	An adapted mapping-based that allows to calculate the Abbreviated Injury Scale (AIS) and Injury Severity Score (ISS) from the German modification of the International Classification of Diseases (ICD-10)
+-	An internal approach that calculates survival probability directly from cases within the database (survival risk ratios)
+
+This foundational work provides the methodological basis for our current research using the German hospital dataset.
+
+## Current work
+We are assessing various aspects of TBI in the German hospital dataset to answer – among others – these research questions:
+-	How do mortality and outcomes in children with severe traumatic brain injury differ depending on the timing of decompressive craniectomy?
+-	How does ICP monitoring in children with severe TBI affect mortality and outcomes?
+-	How do mortality and outcomes differ in children with serious TBI when treated in pediatric versus adult intensive care units?
+-	How did hospitalization numbers for mild versus moderate-severe TBI change during the pandemic-related reduction in TBI-related hospitalizations?
+
+Because the reliability of routine healthcare data varies considerably depending on the context in which it was collected, we work on cross-verifying clinical data with routine healthcare data on both single and multicenter basis, e.g. For assessing organ dysfunction.  Insights from these analyses will help to further develop approaches to reduce bias in research from routine healthcare datasets.
+
+## Funding
+–	Save-my-brain foundation
