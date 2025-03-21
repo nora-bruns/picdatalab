@@ -91,7 +91,7 @@ permalink: /team/
         </div>
         
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/pia.jpg" alt="Luisa" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/luisa.jpg" alt="Luisa" width="250" height="250">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
