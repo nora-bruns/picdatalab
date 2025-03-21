@@ -74,4 +74,4 @@ We are assessing various aspects of TBI in the German hospital dataset to answer
 Because the reliability of routine healthcare data varies considerably depending on the context in which it was collected, we work on cross-verifying clinical data with routine healthcare data on both single and multicenter basis, e.g. For assessing organ dysfunction.  Insights from these analyses will help to further develop approaches to reduce bias in research from routine healthcare datasets.
 
 ## Funding
-–	Save-my-brain foundation
+-	Save-my-brain foundation
