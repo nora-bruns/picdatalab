@@ -70,7 +70,7 @@ The SaVeBRAIN.Kids trial will test a novel care pathway in order to reduce unnec
 The study will be conducted in a multicenter cluster-randomized stepped-wedge trial with hospitalization rates and unplanned return visits as co-primary outcomes.
  
 ## Funding
--	Innovations G-BA
+-	Innovationsfonds G-BA
 
 ## Project Homepage
 Coming soon
