@@ -2,7 +2,7 @@
 layout: page
 title: NICE
 # image: /assets/img/projects/qeeg.png
-description: Neurological assessment by Intensive Care EEG
+description: Neurological Intensive Care Assessment by EEG
 hide_description: true
 ---
 <style>
