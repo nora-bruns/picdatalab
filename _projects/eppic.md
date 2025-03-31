@@ -1,8 +1,8 @@
 ---
 layout: page
-title: PICS
+title: EPPIC
 image: /assets/img/projects/postpicu.png
-description: Post Intensive Care Syndrome
+description: Essen Post Pediatric Intensive Care Follow-up
 hide_description: true
 ---
 <style>
