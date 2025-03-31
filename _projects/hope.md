@@ -57,7 +57,7 @@ Traumatic Brain Injury (TBI) represents one of the major public health concerns 
 
 Routine healthcare data provides the opportunity to investigate moderate and severe TBI on a larger scale. The German hospital dataset offers nationwide comprehensive coverage of pediatric hospital discharges, creating an ideal platform for in-depth TBI research.
 
-## Methodological preparatory work
+## Methodological work
 Because stratification or adjustment for injury severity is indispensable in trauma research, we have implemented two distinct methods to measure injury severity in pediatric trauma patients from routine health care data:
 -	An adapted mapping-based that allows to calculate the Abbreviated Injury Scale (AIS) and Injury Severity Score (ISS) from the German modification of the International Classification of Diseases (ICD-10)
 -	An internal approach that calculates survival probability directly from cases within the database (survival risk ratios)

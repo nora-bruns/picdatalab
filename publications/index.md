@@ -3,14 +3,16 @@ type: page
 title: Publications by our lab members
 ---
 
-
 ## 2025
+
+* **Congenital infection with Plasmodium malariae: a rare case of intrauterine transmission in Germany.**  
+  **Goretzki S**, **Bruns N**, Daniels A, Schonecker A, Della Marina A, Gangfuss A, Schweiger B, Schonfeld A, Witzke O, Dedy J, Dziobaka J, Holtkamp C, Rath PM, Felderhoff-Muser U, **Dohna-Schwake C**, Verhasselt HL. *Malaria journal, 24(1):91*. <a href="https://pubmed.ncbi.nlm.nih.gov/40114164/" style="text-decoration: none;">PubMed</a>
 
 * **The Phoenix Sepsis Score in Pediatric Oncology Patients With Sepsis at PICU Admission: Test of Performance in a European Multicenter Cohort, 2018-2020.**  
   Wosten-van Asperen RM, la Roi-Teeuw HM, Tissing WJE, Jordan I, **Dohna-Schwake C**, Bottari G, Pappachan J, Crazzolara R, Amigoni A, Mizia-Malarz A, Moscatelli A, Sanchez-Martin M, Willems J, Schlapbach LJ. *Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies, 26(2):e177-e185*. <a href="https://pubmed.ncbi.nlm.nih.gov/39982155/" style="text-decoration: none;">PubMed</a>
 
 * **Ultrasound Super-Resolution Imaging of Neonatal Cerebral Vascular Reorganization.**  
-  **Schwarz S**, Denis L, Nedoschill E, Buehler A, Danko V, Hilger AC, Brevis Nunez F, Durr NR, Schlunz-Hendann M, Brassel F, Felderhoff-Muser U, Reutter H, Woelfle J, Jungert J, **Dohna-Schwake C**, **Bruns N**, Regensburger AP, Couture O, Mandelbaum H, Knieling F. *Advanced science (Weinheim, Baden-Wurttemberg, Germany):e2415235*. <a href="https://pubmed.ncbi.nlm.nih.gov/39899647/" style="text-decoration: none;">PubMed</a>
+  **Schwarz S**, Denis L, Nedoschill E, Buehler A, Danko V, Hilger AC, Brevis Nunez F, Durr NR, Schlunz-Hendann M, Brassel F, Felderhoff-Muser U, Reutter H, Woelfle J, Jungert J, **Dohna-Schwake C**, **Bruns N**, Regensburger AP, Couture O, Mandelbaum H, Knieling F. *Advanced science (Weinheim, Baden-Wurttemberg, Germany), 12(12):e2415235*. <a href="https://pubmed.ncbi.nlm.nih.gov/39899647/" style="text-decoration: none;">PubMed</a>
 
 * **Performance of ICD-10-based injury severity scores in pediatric trauma patients using the ICD-AIS map and survival rate ratios.**  
   **Hojeij R**, **Brensing P**, Nonnemacher M, Kowall B, Felderhoff-Muser U, Dudda M, **Dohna-Schwake C**, Stang A, **Bruns N**. *Journal of clinical epidemiology, 178:111634*. <a href="https://pubmed.ncbi.nlm.nih.gov/39647538/" style="text-decoration: none;">PubMed</a>
