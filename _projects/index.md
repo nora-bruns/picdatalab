@@ -175,21 +175,21 @@ no_date_top: true
   </div>
   {% endif %}
   
-  <!-- Post-PICU -->
- {% assign postpicu = site.projects | where: "slug", "postpicu" | first %}
- {% if postpicu %}
+  <!-- EPPIC -->
+ {% assign eppic = site.projects | where: "slug", "eppic" | first %}
+ {% if eppic %}
   <div class="project-card">
     <div class="project-image">
       <img src="{{ postpicu.image | default: '/assets/img/projects/postpicu.png' | relative_url }}" alt="{{ postpicu.title }}">
     </div>
     <div class="project-content">
-      <h3 class="project-title"><strong>{{ postpicu.title }}</strong></h3>
+      <h3 class="project-title"><strong>{{ eppic.title }}</strong></h3>
       {% if postpicu.description %}
-      <p class="project-description">{{ postpicu.description }}</p>
+      <p class="project-description">{{ eppic.description }}</p>
       {% endif %}
     </div>
     <div class="project-footer">
-      <a href="{{ postpicu.url | relative_url }}" class="button-with-chevron">Learn more</a>
+      <a href="{{ eppic.url | relative_url }}" class="button-with-chevron">Learn more</a>
     </div>
   </div>
   {% endif %}

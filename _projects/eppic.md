@@ -48,7 +48,7 @@ display: none;
     <h1>{{ page.title }}</h1>
     <h3 class="description-subtitle">{{ page.description }}</h3>
   </div>
-  <img src="{{ '/assets/img/projects/postpicu.png' | relative_url }}" alt="PICS" class="corner-image">
+  <img src="{{ '/assets/img/projects/postpicu.png' | relative_url }}" alt="EPPIC" class="corner-image">
 </div>
 
 
