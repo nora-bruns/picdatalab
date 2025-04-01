@@ -52,16 +52,23 @@ display: none;
 </div>
 
 
-## Project Goals
+## Background
+Children treated in the Pediatric Intensive Care Unit (PICU) have a low mortality rate of approximately 1-3%, but face a relevant risk of long-term consequences, affecting around 50% of patients. The Post Intensive Care Syndrome in pediatrics (PICS-p), which encompasses physical, cognitive, psychological, and social impairments, is still frequently overlooked in Germany.
 
-- Develop advanced algorithms for detecting subtle EEG changes
-- Create prediction models for neurological outcomes after critical illness
-- Establish best practices for EEG monitoring in pediatric intensive care
-- Translate research findings into clinical applications
+Currently, there are few structured follow-up care programs in Germany, despite international studies demonstrating the benefits of coordinated aftercare. The topic has gained increasing relevance through international research and feedback from affected families. A pilot phase for follow-up care was launched in at our children’s hospital in 2023 using an interdisciplinary approach that included various subspecialties.
 
-## Key Accomplishments
+## Motivation
+We are driven by the vision to:
+- Improve long-term quality of life for PICU survivors
+- Detect and treat long-term consequences timely
+- Prevent chronification and reduce the burden on patients, their families, and siblings
+- Learn from follow-up to implement improvements during the acute phase of illness
 
-- Implemented continuous EEG monitoring protocols
-- Published findings on correlation between EEG patterns and outcomes
-- Developed a database of pediatric EEG recordings for research
-- Collaborated with multiple centers to validate findings
+## Aims
+The EPPIC project aims to establish a structured interdisciplinary follow-up program and systematically identify PICS-p in routine care, providing support for affected children and their families. Transferable care models will be developed with the long-term goal to integrate such models into regular healthcare services and help shape national recommendations.
+
+## Current Work
+We are working on establishing a multidisciplinary PICU follow-up outpatient program in Essen which is open for PICU survivors regardless of their primary hospital of care. To ensure the highest quality of care, we collaborate at national and international level to
+- Develop information materials and care recommendations 
+- Integrate relevant disciplines such as child and adolescent psychiatry, psychology, neuropediatrics, physiotherapy, sports medicine, social work, and others
+- Develop and test standardized follow-up protocols and validated screening instruments suitable for practical use in the German health care setting
