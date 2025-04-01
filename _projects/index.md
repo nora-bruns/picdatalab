@@ -180,11 +180,11 @@ no_date_top: true
  {% if eppic %}
   <div class="project-card">
     <div class="project-image">
-      <img src="{{ postpicu.image | default: '/assets/img/projects/postpicu.png' | relative_url }}" alt="{{ postpicu.title }}">
+      <img src="{{ eppic.image | default: '/assets/img/projects/eppic.png' | relative_url }}" alt="{{ eppic.title }}">
     </div>
     <div class="project-content">
       <h3 class="project-title"><strong>{{ eppic.title }}</strong></h3>
-      {% if postpicu.description %}
+      {% if eppic.description %}
       <p class="project-description">{{ eppic.description }}</p>
       {% endif %}
     </div>

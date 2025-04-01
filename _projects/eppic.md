@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EPPIC
-image: /assets/img/projects/postpicu.png
+image: /assets/img/projects/eppic.png
 description: Essen Post Pediatric Intensive Care Follow-up
 hide_description: true
 ---
@@ -48,7 +48,7 @@ display: none;
     <h1>{{ page.title }}</h1>
     <h3 class="description-subtitle">{{ page.description }}</h3>
   </div>
-  <img src="{{ '/assets/img/projects/postpicu.png' | relative_url }}" alt="EPPIC" class="corner-image">
+  <img src="{{ '/assets/img/projects/eppic.png' | relative_url }}" alt="EPPIC" class="corner-image">
 </div>
 
 
