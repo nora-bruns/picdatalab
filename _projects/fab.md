@@ -67,7 +67,7 @@ The software has been developed and online since November 2023, with more than 5
 Regular user surveys are conducted to evaluate improvements of the network. Evaluation of usage with respect to infectious waves is planned for the end of 2025. Additionally, evaluation of integrating FAB.NRW into existing systems without losing key features is ongoing.
 
 ## Funding
-–	Stiftung Universitätsmedizin Essen
-–	Stiftung Kinderschutz NRW
-–	Landeszentrum Gesundheit NRW
+-	Stiftung Universitätsmedizin Essen
+-	Stiftung Kinderschutz NRW
+-	Landeszentrum Gesundheit NRW
 
