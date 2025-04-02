@@ -57,8 +57,10 @@ display: none;
 
 ## Background
 After a decline in pediatric respiratory infections during the pandemic, a rebound wave of infections in fall/winter 2022/2023 overwhelmed all areas of the pediatric healthcare system. Even urgently needed inpatient or intensive care treatments sometimes had to be provided far away from the patient's residence and finding treatment placement was very time consuming.
-## Goal
+
+## Aim
 FAB.NRW focuses on the quick and targeted location of treatment places  for children requiring inpatient admission. The software was designed to display the availabe hospital beds for the required level care, facilitating patient transfer between hospitals and helping to allocate patients efficiently. 
+
 ## Target Group and Role of University Hospital Essen (UME)
 All children‘s hospitals in North Rhine-Westphalia have the opportunity to participate as reporting facilities (voluntary participation, no fees). The Children‘s hospital of the UME acts as the coordination center of the network.
 
