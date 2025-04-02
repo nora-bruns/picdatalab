@@ -55,21 +55,19 @@ display: none;
 
 
 
-## Project Goals
+## Background
+After a decline in pediatric respiratory infections during the pandemic, a rebound wave of infections in fall/winter 2022/2023 overwhelmed all areas of the pediatric healthcare system. Even urgently needed inpatient or intensive care treatments sometimes had to be provided far away from the patient's residence and finding treatment placement was very time consuming.
+## Goal
+FAB.NRW focuses on the quick and targeted location of treatment places  for children requiring inpatient admission. The software was designed to display the availabe hospital beds for the required level care, facilitating patient transfer between hospitals and helping to allocate patients efficiently. 
+## Target Group and Role of University Hospital Essen (UME)
+All children‘s hospitals in North Rhine-Westphalia have the opportunity to participate as reporting facilities (voluntary participation, no fees). The Children‘s hospital of the UME acts as the coordination center of the network.
 
-- Develop advanced algorithms for detecting subtle EEG changes
-- Create prediction models for neurological outcomes after critical illness
-- Establish best practices for EEG monitoring in pediatric intensive care
-- Translate research findings into clinical applications
-
-## Key Accomplishments
-
-- Implemented continuous EEG monitoring protocols
-- Published findings on correlation between EEG patterns and outcomes
-- Developed a database of pediatric EEG recordings for research
-- Collaborated with multiple centers to validate findings
+## State of the project
+The software has been developed and online since November 2023, with more than 50 hospitals participating. A steering committee that consists of representatives from participating hospitals oversees the project's implementation. 
+Regular user surveys are conducted to evaluate improvements of the network. Evaluation of usage with respect to infectious waves is planned for the end of 2025. Additionally, evaluation of integrating FAB.NRW into existing systems without losing key features is ongoing.
 
 ## Funding
-- Stiftung Universitätsmedizin Essen
-- Stiftung Kinderschutz NRW
-- Landeszentrum für Gesundheit NRW
+–	Stiftung Universitätsmedizin Essen
+–	Stiftung Kinderschutz NRW
+–	Landeszentrum Gesundheit NRW
+
