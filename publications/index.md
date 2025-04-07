@@ -441,9 +441,6 @@ title: Publications by our lab members
 * **Prophylactic use of Lactobacillus acidophilus/Bifidobacterium infantis probiotics and outcome in very low birth weight infants.**  
   Hartel C, Pagel J, Rupp J, Bendiks M, Guthmann F, Rieger-Fackeldey E, Heckmann M, Franz A, Schiffmann JH, Zimmermann B, Hepping N, von der Wense A, Wieg C, Herting E, Gopel W. *The Journal of pediatrics, 165(2):285-289.e1*. <a href="https://pubmed.ncbi.nlm.nih.gov/24880888/" style="text-decoration: none;">PubMed</a>
 
-* **Prevalence of xerostomia and hyposalivation and their association with quality of life in elderly patients in dependence on dental status and prosthetic rehabilitation: a pilot study.**  
-  Hahnel S, **Schwarz S**, Zeman F, Schafer L, Behr M. *Journal of dentistry, 42(6):664-70*. <a href="https://pubmed.ncbi.nlm.nih.gov/24632475/" style="text-decoration: none;">PubMed</a>
-
 * **Risk for late-onset blood-culture proven sepsis in very-low-birth weight infants born small for gestational age: a large multicenter study from the German Neonatal Network.**  
   Troger B, Gopel W, Faust K, Muller T, Jorch G, Felderhoff-Muser U, Gortner L, Heitmann F, Hoehn T, Kribs A, Laux R, Roll C, Emeis M, Mogel M, Siegel J, Vochem M, von der Wense A, Wieg C, Herting E, Hartel C. *The Pediatric infectious disease journal, 33(3):238-43*. <a href="https://pubmed.ncbi.nlm.nih.gov/24030351/" style="text-decoration: none;">PubMed</a>
 
@@ -477,28 +474,10 @@ title: Publications by our lab members
 
 ## 2011
 
-* **Combination effects of digalloylresveratrol with arabinofuranosylcytosine and difluorodeoxycytidine in human leukemia and pancreatic cancer cells.**  
-  Saiko P, Graser G, Madlener S, **Schwarz S**, Krupitza G, Jaeger W, Somepalli V, Golakoti T, Fritzer-Szekeres M, Szekeres T. *Nucleosides, nucleotides & nucleic acids, 30(12):1190-6*. <a href="https://pubmed.ncbi.nlm.nih.gov/22132974/" style="text-decoration: none;">PubMed</a>
-
 * **Avoidance of mechanical ventilation by surfactant treatment of spontaneously breathing preterm infants (AMV): an open-label, randomised, controlled trial.**  
   Gopel W, Kribs A, Ziegler A, Laux R, Hoehn T, Wieg C, Siegel J, Avenarius S, von der Wense A, Vochem M, Groneck P, Weller U, Moller J, Hartel C, Haller S, Roth B, Herting E. *Lancet (London, England), 378(9803):1627-34*. <a href="https://pubmed.ncbi.nlm.nih.gov/21963186/" style="text-decoration: none;">PubMed</a>
 
 * **Tumor necrosis factor-alpha promoter -308 G/A polymorphism and susceptibility to sepsis in very-low-birth-weight infants.**  
   Hartel C, Hemmelmann C, Faust K, Gebauer C, Hoehn T, Kribs A, Laux R, Nikischin W, Segerer H, Teig N, von der Wense A, Wieg C, Herting E, Gopel W. *Critical care medicine, 39(5):1190-5*. <a href="https://pubmed.ncbi.nlm.nih.gov/21317641/" style="text-decoration: none;">PubMed</a>
-
-
-## 2003
-
-* **3D QSAR analyses-guided rational design of novel ligands for the (alpha4)2(beta2)3 nicotinic acetylcholine receptor.**  
-  Gohlke H, **Schwarz S**, Gundisch D, Tilotta MC, Weber A, Wegge T, Seitz G. *Journal of medicinal chemistry, 46(11):2031-48*. <a href="https://pubmed.ncbi.nlm.nih.gov/12747776/" style="text-decoration: none;">PubMed</a>
-
-
-## 2002
-
-* **Synthesis and nicotinic binding studies on enantiopure diazine analogues of the novel (2-chloro-5-pyridyl)-9-azabicyclo[4.2.1]non-2-ene UB-165.**  
-  Gohlke H, Gundisch D, **Schwarz S**, Seitz G, Tilotta MC, Wegge T. *Journal of medicinal chemistry, 45(5):1064-72*. <a href="https://pubmed.ncbi.nlm.nih.gov/11855986/" style="text-decoration: none;">PubMed</a>
-
-* **Syntheses and evaluation of pyridazine and pyrimidine containing bioisosteres of (+/-)-pyrido[3.4-b]homotropane and pyrido-[3.4-b]tropane as novel nAChR ligands.**  
-  Gundisch D, Kampchen T, **Schwarz S**, Seitz G, Siegl J, Wegge T. *Bioorganic & medicinal chemistry, 10(1):1-9*. <a href="https://pubmed.ncbi.nlm.nih.gov/11738601/" style="text-decoration: none;">PubMed</a>
 
 
