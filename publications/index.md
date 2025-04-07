@@ -54,9 +54,6 @@ title: Publications by our lab members
 * **Feasibility, efficacy, and safety of animal-assisted activities with visiting dogs in inpatient pediatric oncology.**  
   Steff K, Grasemann M, Ostermann K, **Goretzki SC**, Rath PM, Reinhardt D, Schundeln MM. *World journal of pediatrics : WJP, 20(9):915-924*. <a href="https://pubmed.ncbi.nlm.nih.gov/39112809/" style="text-decoration: none;">PubMed</a>
 
-* **Neonatal Sepsis Episodes and Retinopathy of Prematurity in Very Preterm Infants.**  
-  Glaser K, Hartel C, Klingenberg C, Herting E, Fortmann MI, Speer CP, Stensvold HJ, Huncikova Z, Ronnestad AE, Nentwich MM, Stahl A, Dammann O, Gopel W. *JAMA network open, 7(7):e2423933*. <a href="https://pubmed.ncbi.nlm.nih.gov/39052290/" style="text-decoration: none;">PubMed</a>
-
 * **Surgical Site Infections After Pediatric Liver Transplantation-Impact of a Change in Perioperative Prophylactic Antibiotic Protocol.**  
   **Bruns N**, Hauschild J, Lainka E, **Dohna-Schwake C**. *Pediatric transplantation, 28(5):e14830*. <a href="https://pubmed.ncbi.nlm.nih.gov/39030994/" style="text-decoration: none;">PubMed</a>
 
@@ -147,9 +144,6 @@ title: Publications by our lab members
 * **[Time to Antibiotics (TTA) - Reassessment from the German Working Group for Fever and Neutropenia in Children and Adolescents (DGPI/GPOH)].**  
   Simon A, Lehrnbecher T, Baltaci Y, **Dohna-Schwake C**, Groll A, Laws HJ, Potratz J, Hufnagel M, Bochennek K. *Klinische Padiatrie, 235(6):331-341*. <a href="https://pubmed.ncbi.nlm.nih.gov/37751768/" style="text-decoration: none;">PubMed</a>
 
-* **Erythrocyte transfusions are associated with retinopathy of prematurity in extremely low gestational age newborns.**  
-  Glaser K, Hartel C, Dammann O, Herting E, Andres O, Speer CP, Gopel W, Stahl A. *Acta paediatrica (Oslo, Norway : 1992), 112(12):2507-2515*. <a href="https://pubmed.ncbi.nlm.nih.gov/37667535/" style="text-decoration: none;">PubMed</a>
-
 * **Outcome after conservative or surgical treatment for new-onset epilepsy in children with cerebral cavernous malformation.**  
   Santos AN, Rauschenbach L, Riess C, Georgiades I, Ficilar B, Gallardo EG, Quesada CM, Li Y, Tippelt S, **Dohna-Schwake C**, Schmidt B, Jabbarli R, Siegel AM, Benet A, Wrede KH, Sure U, Dammann P. *Seizure, 111:23-29*. <a href="https://pubmed.ncbi.nlm.nih.gov/37494759/" style="text-decoration: none;">PubMed</a>
 
@@ -216,23 +210,14 @@ title: Publications by our lab members
 * **Bronchial artery diameter in massive hemoptysis in cystic fibrosis.**  
   Dohna M, Kuhl H, Sutharsan S, **Dohna-Schwake C**, Vo Chieu VD, Hellms S, Kornemann N, Renz DM, Montag MJ. *BMC pulmonary medicine, 22(1):424*. <a href="https://pubmed.ncbi.nlm.nih.gov/36397043/" style="text-decoration: none;">PubMed</a>
 
-* **Recurrent Late-Onset Sepsis in Extremely Low Birth Weight Infants Is Associated with Motor Deficits in Early School Age.**  
-  Humberg A, Fortmann MI, Spiegler J, Rausch TK, Siller B, Silwedel C, Marissen J, Herting E, Gopel W, Hartel C. *Neonatology, 119(6):695-702*. <a href="https://pubmed.ncbi.nlm.nih.gov/36327925/" style="text-decoration: none;">PubMed</a>
-
 * **Administrative data in pediatric critical care research-Potential, challenges, and future directions.**  
   **Bruns N**, Sorg AL, Felderhoff-Muser U, **Dohna-Schwake C**, Stang A. *Frontiers in pediatrics, 10:1014094*. <a href="https://pubmed.ncbi.nlm.nih.gov/36245724/" style="text-decoration: none;">PubMed</a>
 
 * **The impact of age and electrode position on amplitude-integrated EEGs in children from 1 month to 17 years of age.**  
   **Greve S**, Loffelhardt VT, Della Marina A, Felderhoff-Muser U, **Dohna-Schwake C**, **Bruns N**. *Frontiers in neurology, 13:952193*. <a href="https://pubmed.ncbi.nlm.nih.gov/36090865/" style="text-decoration: none;">PubMed</a>
 
-* **Sleep problems in infancy and early school age in very preterm infants.**  
-  Neitmann J, Hanke K, Humberg A, Siller B, Spiegler J, Juhnke K, Gilmore J, Odendahl R, Herting E, Gopel W, Hartel C, Fortmann I. *Early human development, 173:105656*. <a href="https://pubmed.ncbi.nlm.nih.gov/35987047/" style="text-decoration: none;">PubMed</a>
-
 * **Impact of Physical Contact on Preterm Infants' Vital Sign Response to Live Music Therapy.**  
   Kobus S, Diezel M, Dewan MV, Huening B, Dathe AK, Felderhoff-Mueser U, **Bruns N**. *International journal of environmental research and public health, 19(15)*. <a href="https://pubmed.ncbi.nlm.nih.gov/35954880/" style="text-decoration: none;">PubMed</a>
-
-* **Association of Administration of Surfactant Using Less Invasive Methods With Outcomes in Extremely Preterm Infants Less Than 27 Weeks of Gestation.**  
-  Hartel C, Herting E, Humberg A, Hanke K, Mehler K, Keller T, Mauer I, Frieauff E, Meyer S, Thome UH, Wieg C, Schmidtke S, Kribs A, Gopel W. *JAMA network open, 5(8):e2225810*. <a href="https://pubmed.ncbi.nlm.nih.gov/35943742/" style="text-decoration: none;">PubMed</a>
 
 * **Prevalence of osteopathologies in a single center cohort of survivors of childhood primary brain tumor.**  
   Schundeln MM, Fritzemeier S, **Goretzki SC**, Hauffa PK, Munteanu M, Kiewert C, Hauffa BP, Fleischhack G, Tippelt S, Grasemann C. *Frontiers in pediatrics, 10:913343*. <a href="https://pubmed.ncbi.nlm.nih.gov/35923779/" style="text-decoration: none;">PubMed</a>
@@ -257,9 +242,6 @@ title: Publications by our lab members
 
 * **Natural Course of Cerebral Cavernous Malformations in Children: A Five-Year Follow-Up Study.**  
   Santos AN, Rauschenbach L, Saban D, Chen B, Herten A, Dinger TF, Li Y, Tippelt S, Della Marina A, **Dohna-Schwake C**, Schmidt B, Jabbarli R, Wrede KH, Sure U, Dammann P. *Stroke, 53(3):817-824*. <a href="https://pubmed.ncbi.nlm.nih.gov/34706565/" style="text-decoration: none;">PubMed</a>
-
-* **Association of ApoE Genotypes and Recovery From Intracerebral Hemorrhage in Very Low Birth Weight Infants.**  
-  Humberg A, Dzietko M, Schulz S, Felderhoff-Muser U, Huning B, Stein A, Fortmann MI, Marissen J, Rausch TK, Herting E, Hartel C, Gopel W. *Stroke, 53(2):514-522*. <a href="https://pubmed.ncbi.nlm.nih.gov/34619984/" style="text-decoration: none;">PubMed</a>
 
 * **Latency duration of preterm premature rupture of membranes and neonatal outcome: a retrospective single-center experience.**  
   Muller H, Stahling AC, **Bruns N**, Weiss C, Ai M, Koninger A, Felderhoff-Muser U. *European journal of pediatrics, 181(2):801-811*. <a href="https://pubmed.ncbi.nlm.nih.gov/34605998/" style="text-decoration: none;">PubMed</a>
@@ -303,9 +285,6 @@ title: Publications by our lab members
 * **aEEG as a useful tool for neuromonitoring in critically ill children - Current evidence and knowledge gaps.**  
   **Bruns N**, Felderhoff-Muser U, **Dohna-Schwake C**. *Acta paediatrica (Oslo, Norway : 1992), 110(4):1132-1140*. <a href="https://pubmed.ncbi.nlm.nih.gov/33210762/" style="text-decoration: none;">PubMed</a>
 
-* **Aminoglycosides were associated with higher rates of surgical patent ductus arteriosus closure in preterm infants.**  
-  Marissen J, Erdmann H, Bockenholt K, Hoppenz M, Rausch TK, Hartel C, Herting E, Gopel W. *Acta paediatrica (Oslo, Norway : 1992), 110(3):826-832*. <a href="https://pubmed.ncbi.nlm.nih.gov/32810301/" style="text-decoration: none;">PubMed</a>
-
 
 ## 2020
 
@@ -324,17 +303,8 @@ title: Publications by our lab members
 * **How to Administer Near-Infrared Spectroscopy in Critically ill Neonates, Infants, and Children.**  
   **Bruns N**, Moosmann J, Munch F, **Dohna-Schwake C**, Woelfle J, Cesnjevar R, Dittrich S, Felderhoff-Muser U, Muller H. *Journal of visualized experiments : JoVE(162)*. <a href="https://pubmed.ncbi.nlm.nih.gov/32894267/" style="text-decoration: none;">PubMed</a>
 
-* **Preterm birth and sustained inflammation: consequences for the neonate.**  
-  Humberg A, Fortmann I, Siller B, Kopp MV, Herting E, Gopel W, Hartel C. *Seminars in immunopathology, 42(4):451-468*. <a href="https://pubmed.ncbi.nlm.nih.gov/32661735/" style="text-decoration: none;">PubMed</a>
-
 * **Postnatal serum creatinine is elevated in preterm infants with PPROM-induced anhydramnios.**  
   **Bruns N**, Stahling AC, **Greve S**, Weiss C, Koninger A, Felderhoff-Muser U, Muller H. *Pediatrics and neonatology, 61(4):414-419*. <a href="https://pubmed.ncbi.nlm.nih.gov/32278744/" style="text-decoration: none;">PubMed</a>
-
-* **Two-year outcome data suggest that less invasive surfactant administration (LISA) is safe. Results from the follow-up of the randomized controlled AMV (avoid mechanical ventilation) study.**  
-  Herting E, Kribs A, Hartel C, von der Wense A, Weller U, Hoehn T, Vochem M, Moller J, Wieg C, Roth B, Gopel W. *European journal of pediatrics, 179(8):1309-1313*. <a href="https://pubmed.ncbi.nlm.nih.gov/32067100/" style="text-decoration: none;">PubMed</a>
-
-* **Surgical necrotizing enterocolitis but not spontaneous intestinal perforation is associated with adverse neurological outcome at school age.**  
-  Humberg A, Spiegler J, Fortmann MI, Zemlin M, Marissen J, Swoboda I, Rausch TK, Herting E, Gopel W, Hartel C. *Scientific reports, 10(1):2373*. <a href="https://pubmed.ncbi.nlm.nih.gov/32047169/" style="text-decoration: none;">PubMed</a>
 
 * **aEEG Use in Pediatric Critical Care-An Online Survey.**  
   **Bruns N**, Felderhoff-Muser U, **Dohna-Schwake C**, Woelfle J, Muller H. *Frontiers in pediatrics, 8:3*. <a href="https://pubmed.ncbi.nlm.nih.gov/32039124/" style="text-decoration: none;">PubMed</a>
@@ -372,29 +342,14 @@ title: Publications by our lab members
 * **Relationship between brain function (aEEG) and brain structure (MRI) and their predictive value for neurodevelopmental outcome of preterm infants.**  
   Huning B, Storbeck T, **Bruns N**, Dransfeld F, Hobrecht J, Karpienski J, Sirin S, Schweiger B, Weiss C, Felderhoff-Muser U, Muller H. *European journal of pediatrics, 177(8):1181-1189*. <a href="https://pubmed.ncbi.nlm.nih.gov/29789947/" style="text-decoration: none;">PubMed</a>
 
-* **Antifungal Treatment and Outcome in Very Low Birth Weight Infants: A Population-based Observational Study of the German Neonatal Network.**  
-  Fortmann I, Hartz A, Paul P, Pulzer F, Muller A, Bottger R, Proquitte H, Dawczynski K, Simon A, Rupp J, Herting E, Gopel W, Hartel C. *The Pediatric infectious disease journal, 37(11):1165-1171*. <a href="https://pubmed.ncbi.nlm.nih.gov/29601449/" style="text-decoration: none;">PubMed</a>
-
 
 ## 2017
-
-* **Health of VLBW infants in Germany at five years of age: What do parents describe?**  
-  Spiegler J, Stichtenoth G, Konig IR, Herting E, Gopel W. *Early human development, 115:88-92*. <a href="https://pubmed.ncbi.nlm.nih.gov/29024833/" style="text-decoration: none;">PubMed</a>
 
 * **Application of an Amplitude-integrated EEG Monitor (Cerebral Function Monitor) to Neonates.**  
   **Bruns N**, Blumenthal S, Meyer I, Klose-Verschuur S, Felderhoff-Muser U, Muller H. *Journal of visualized experiments : JoVE(127)*. <a href="https://pubmed.ncbi.nlm.nih.gov/28930990/" style="text-decoration: none;">PubMed</a>
 
-* **The association of mannose-binding lectin 2 polymorphisms with outcome in very low birth weight infants.**  
-  Hartz A, Pagel J, Humberg A, Preuss M, Schreiter L, Rupp J, Figge J, Karsten CM, Nurnberg P, Herting E, Gopel W, Hartel C. *PloS one, 12(5):e0178032*. <a href="https://pubmed.ncbi.nlm.nih.gov/28558032/" style="text-decoration: none;">PubMed</a>
-
-* **Delivery mode and intraventricular hemorrhage risk in very-low-birth-weight infants: Observational data of the German Neonatal Network.**  
-  Humberg A, Hartel C, Paul P, Hanke K, Bossung V, Hartz A, Fasel L, Rausch TK, Rody A, Herting E, Gopel W. *European journal of obstetrics, gynecology, and reproductive biology, 212:144-149*. <a href="https://pubmed.ncbi.nlm.nih.gov/28363188/" style="text-decoration: none;">PubMed</a>
-
 * **Comparison of two common aEEG classifications for the prediction of neurodevelopmental outcome in preterm infants.**  
   **Bruns N**, Dransfeld F, Huning B, Hobrecht J, Storbeck T, Weiss C, Felderhoff-Muser U, Muller H. *European journal of pediatrics, 176(2):163-171*. <a href="https://pubmed.ncbi.nlm.nih.gov/27924356/" style="text-decoration: none;">PubMed</a>
-
-* **Glucocorticoid Receptor Gene Variants and Neonatal Outcome in Very-Low-Birth-Weight Preterm Infants.**  
-  Schreiner C, Schreiner F, Hartel C, Heckmann M, Heep A, Bartmann P, Woelfle J, Muller A, Herting E, Gopel W. *Neonatology, 111(1):22-29*. <a href="https://pubmed.ncbi.nlm.nih.gov/27509264/" style="text-decoration: none;">PubMed</a>
 
 
 ## 2016
@@ -402,82 +357,16 @@ title: Publications by our lab members
 * **Clinical Evaluation of the First Automated Assay for the Detection of Stimulating TSH Receptor Autoantibodies.**  
   Allelein S, Ehlers M, **Goretzki S**, Hermsen D, Feldkamp J, Haase M, Dringenberg T, Schmid C, Hautzel H, Schott M. *Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme, 48(12):795-801*. <a href="https://pubmed.ncbi.nlm.nih.gov/27923250/" style="text-decoration: none;">PubMed</a>
 
-* **Media Stories on NICU Outbreaks Lead to an Increased Prescription Rate of Third-Line Antibiotics in the Community of Neonatal Care.**  
-  Hartel C, Hartz A, Bahr L, Gille C, Gortner L, Simon A, Orlikowsky T, Muller A, Korner T, Henneke P, Haase R, Zemlin M, Viemann D, Gebauer C, Thome U, Ziegler A, Rupp J, Herting E, Gopel W. *Infection control and hospital epidemiology, 37(8):924-930*. <a href="https://pubmed.ncbi.nlm.nih.gov/27143176/" style="text-decoration: none;">PubMed</a>
-
-* **NOD2 Loss-of-Function Mutations and Risks of Necrotizing Enterocolitis or Focal Intestinal Perforation in Very Low-birth-weight Infants.**  
-  Hartel C, Hartz A, Pagel J, Rupp J, Stein A, Kribs A, Muller A, Haase R, Gille C, Bottger R, Kittel J, Jensen R, Wieg C, Herting E, Gopel W. *Inflammatory bowel diseases, 22(2):249-56*. <a href="https://pubmed.ncbi.nlm.nih.gov/26752461/" style="text-decoration: none;">PubMed</a>
-
-* **Does Breastmilk Influence the Development of Bronchopulmonary Dysplasia?**  
-  Spiegler J, Preuss M, Gebauer C, Bendiks M, Herting E, Gopel W. *The Journal of pediatrics, 169:76-80.e4*. <a href="https://pubmed.ncbi.nlm.nih.gov/26621048/" style="text-decoration: none;">PubMed</a>
-
 
 ## 2015
 
-* **Short-term outcome of very-low-birthweight infants with arterial hypotension in the first 24 h of life.**  
-  Faust K, Hartel C, Preuss M, Rabe H, Roll C, Emeis M, Wieg C, Szabo M, Herting E, Gopel W. *Archives of disease in childhood. Fetal and neonatal edition, 100(5):F388-92*. <a href="https://pubmed.ncbi.nlm.nih.gov/26199082/" style="text-decoration: none;">PubMed</a>
-
 * **Electrocortical Activity at 7 Days of Life is Affected in Extremely Premature Infants with Patent Ductus Arteriosus.**  
   **Bruns N**, Metze B, Buhrer C, Felderhoff-Muser U, Huseman D. *Klinische Padiatrie, 227(5):264-8*. <a href="https://pubmed.ncbi.nlm.nih.gov/25875399/" style="text-decoration: none;">PubMed</a>
-
-* **Length and weight of very low birth weight infants in Germany at 2 years of age: does it matter at what age they start complementary food?**  
-  Spiegler J, Eisemann N, Ehlers S, Orlikowsky T, Kannt O, Herting E, Gopel W. *European journal of clinical nutrition, 69(6):662-7*. <a href="https://pubmed.ncbi.nlm.nih.gov/25872910/" style="text-decoration: none;">PubMed</a>
-
-* **Preterm prelabor rupture of membranes and outcome of very-low-birth-weight infants in the German Neonatal Network.**  
-  Hanke K, Hartz A, Manz M, Bendiks M, Heitmann F, Orlikowsky T, Muller A, Olbertz D, Kuhn T, Siegel J, von der Wense A, Wieg C, Kribs A, Stein A, Pagel J, Herting E, Gopel W, Hartel C. *PloS one, 10(4):e0122564*. <a href="https://pubmed.ncbi.nlm.nih.gov/25856083/" style="text-decoration: none;">PubMed</a>
-
-* **Less invasive surfactant administration is associated with improved pulmonary outcomes in spontaneously breathing preterm infants.**  
-  Gopel W, Kribs A, Hartel C, Avenarius S, Teig N, Groneck P, Olbertz D, Roll C, Vochem M, Weller U, von der Wense A, Wieg C, Wintgens J, Preuss M, Ziegler A, Roth B, Herting E. *Acta paediatrica (Oslo, Norway : 1992), 104(3):241-6*. <a href="https://pubmed.ncbi.nlm.nih.gov/25474712/" style="text-decoration: none;">PubMed</a>
 
 
 ## 2014
 
 * **Impairment of bone health in pediatric patients with hemolytic anemia.**  
   Schundeln MM, **Goretzki SC**, Hauffa PK, Wieland R, Bauer J, Baeder L, Eggert A, Hauffa BP, Grasemann C. *PloS one, 9(10):e108400*. <a href="https://pubmed.ncbi.nlm.nih.gov/25299063/" style="text-decoration: none;">PubMed</a>
-
-* **Mitochondrial mutation m.1555A>G as a risk factor for failed newborn hearing screening in a large cohort of preterm infants.**  
-  Gopel W, Berkowski S, Preuss M, Ziegler A, Kuster H, Felderhoff-Muser U, Gortner L, Mogel M, Hartel C, Herting E. *BMC pediatrics, 14:210*. <a href="https://pubmed.ncbi.nlm.nih.gov/25155176/" style="text-decoration: none;">PubMed</a>
-
-* **Prophylactic use of Lactobacillus acidophilus/Bifidobacterium infantis probiotics and outcome in very low birth weight infants.**  
-  Hartel C, Pagel J, Rupp J, Bendiks M, Guthmann F, Rieger-Fackeldey E, Heckmann M, Franz A, Schiffmann JH, Zimmermann B, Hepping N, von der Wense A, Wieg C, Herting E, Gopel W. *The Journal of pediatrics, 165(2):285-289.e1*. <a href="https://pubmed.ncbi.nlm.nih.gov/24880888/" style="text-decoration: none;">PubMed</a>
-
-* **Risk for late-onset blood-culture proven sepsis in very-low-birth weight infants born small for gestational age: a large multicenter study from the German Neonatal Network.**  
-  Troger B, Gopel W, Faust K, Muller T, Jorch G, Felderhoff-Muser U, Gortner L, Heitmann F, Hoehn T, Kribs A, Laux R, Roll C, Emeis M, Mogel M, Siegel J, Vochem M, von der Wense A, Wieg C, Herting E, Hartel C. *The Pediatric infectious disease journal, 33(3):238-43*. <a href="https://pubmed.ncbi.nlm.nih.gov/24030351/" style="text-decoration: none;">PubMed</a>
-
-
-## 2013
-
-* **Use of analgesic and sedative drugs in VLBW infants in German NICUs from 2003-2010.**  
-  Mehler K, Oberthuer A, Haertel C, Herting E, Roth B, Goepel W. *European journal of pediatrics, 172(12):1633-9*. <a href="https://pubmed.ncbi.nlm.nih.gov/23877637/" style="text-decoration: none;">PubMed</a>
-
-* **Polymorphisms in FTO and MAF Genes and Birth Weight, BMI, Ponderal Index, Weight Gain in a Large Cohort of Infants with a Birth Weight below 1500 Grams.**  
-  Haller S, Spiegler J, Hemmelmann C, Kuster H, Vochem M, Moller J, Muller D, Kribs A, Hoehn T, Hartel C, Herting E, Gopel W. *PloS one, 8(6):e66331*. <a href="https://pubmed.ncbi.nlm.nih.gov/23840443/" style="text-decoration: none;">PubMed</a>
-
-* **Pregnancy risk factors for very premature delivery: what role do hypertension, obesity and diabetes play?**  
-  Spiegler J, Stichtenoth G, Weichert J, Konig IR, Schlaud M, V D Wense A, Olbertz D, Gurth H, Schiffmann JH, Bohnhorst B, Gortner L, Herting E, Gopel W. *Archives of gynecology and obstetrics, 288(1):57-64*. <a href="https://pubmed.ncbi.nlm.nih.gov/23400353/" style="text-decoration: none;">PubMed</a>
-
-* **Very low birth weight infants after discharge: What do parents describe?**  
-  Spiegler J, Schlaud M, Konig IR, Teig N, Hubert M, Herting E, Gopel W. *Early human development, 89(5):343-7*. <a href="https://pubmed.ncbi.nlm.nih.gov/23266151/" style="text-decoration: none;">PubMed</a>
-
-
-## 2012
-
-* **Causes of delivery and outcomes of very preterm twins stratified to zygosity.**  
-  Spiegler J, Hartel C, Schulz L, von Wurmb-Schwark N, Hoehn T, Kribs A, Kuster H, Siegel J, Wieg C, Weichert J, Herting E, Gopel W. *Twin research and human genetics : the official journal of the International Society for Twin Studies, 15(4):532-6*. <a href="https://pubmed.ncbi.nlm.nih.gov/22853920/" style="text-decoration: none;">PubMed</a>
-
-* **Epidemic microclusters of blood-culture proven sepsis in very-low-birth weight infants: experience of the German Neonatal Network.**  
-  Hartel C, Faust K, Avenarius S, Bohnhorst B, Emeis M, Gebauer C, Groneck P, Heitmann F, Hoehn T, Hubert M, Kribs A, Kuster H, Laux R, Mogel M, Muller D, Olbertz D, Roll C, Siegel J, Stein A, Vochem M, Weller U, von der Wense A, Wieg C, Wintgens J, Hemmelmann C, Simon A, Herting E, Gopel W. *PloS one, 7(6):e38304*. <a href="https://pubmed.ncbi.nlm.nih.gov/22768043/" style="text-decoration: none;">PubMed</a>
-
-* **ATP-binding cassette member A3 (E292V) gene mutation and pulmonary morbidity in very-low-birth-weight infants.**  
-  Hartel C, Felderhoff-Muser U, Gebauer C, Hoehn T, Kribs A, Laux R, Moller J, Segerer H, Teig N, von der Wense A, Wieg C, Stichtenoth G, Herting E, Gopel W. *Acta paediatrica (Oslo, Norway : 1992), 101(4):380-3*. <a href="https://pubmed.ncbi.nlm.nih.gov/22145626/" style="text-decoration: none;">PubMed</a>
-
-
-## 2011
-
-* **Avoidance of mechanical ventilation by surfactant treatment of spontaneously breathing preterm infants (AMV): an open-label, randomised, controlled trial.**  
-  Gopel W, Kribs A, Ziegler A, Laux R, Hoehn T, Wieg C, Siegel J, Avenarius S, von der Wense A, Vochem M, Groneck P, Weller U, Moller J, Hartel C, Haller S, Roth B, Herting E. *Lancet (London, England), 378(9803):1627-34*. <a href="https://pubmed.ncbi.nlm.nih.gov/21963186/" style="text-decoration: none;">PubMed</a>
-
-* **Tumor necrosis factor-alpha promoter -308 G/A polymorphism and susceptibility to sepsis in very-low-birth-weight infants.**  
-  Hartel C, Hemmelmann C, Faust K, Gebauer C, Hoehn T, Kribs A, Laux R, Nikischin W, Segerer H, Teig N, von der Wense A, Wieg C, Herting E, Gopel W. *Critical care medicine, 39(5):1190-5*. <a href="https://pubmed.ncbi.nlm.nih.gov/21317641/" style="text-decoration: none;">PubMed</a>
 
 
