@@ -5,6 +5,12 @@ title: Publications by our lab members
 
 ## 2025
 
+* **From Entry to Outbreak in a High School Setting: Clinical and Wastewater Surveillance of a Rare SARS-CoV-2 Variant.**  
+  Sachse S, Kraiselburd I, Anastasiou OE, Elsner C, **Goretzki SC**, Goer S, Koldehoff M, Thomas A, Schoth J, Voigt S, Ross RS, Dittmer U, Meyer F, Schmithausen RM. *Viruses, 17(4)*. <a href="https://pubmed.ncbi.nlm.nih.gov/40284920/" style="text-decoration: none;">PubMed</a>
+
+* **Massive Bleeding in Children With Cancer or Hematopoietic Cell Transplant: International, Multicenter Retrospective Study, 2017-2021.**  
+  Nellis ME, Steiner ME, Bhar S, McArthur J, McMichael A, Rahrig AL, Leeper C, Perdichizzi S, Chiusolo F, Shamash J, **Bruns N**, Schreiber H, Sharron MP, Butragueno-Laiseca L, Killinger JS, Pringle CP, Koenig SM, Josephson C, Crawford D, Scott BL, Remy KE, Puthawala C, Spinella PC. *Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies*. <a href="https://pubmed.ncbi.nlm.nih.gov/40277427/" style="text-decoration: none;">PubMed</a>
+
 * **Congenital infection with Plasmodium malariae: a rare case of intrauterine transmission in Germany.**  
   **Goretzki S**, **Bruns N**, Daniels A, Schonecker A, Della Marina A, Gangfuss A, Schweiger B, Schonfeld A, Witzke O, Dedy J, Dziobaka J, Holtkamp C, Rath PM, Felderhoff-Muser U, **Dohna-Schwake C**, Verhasselt HL. *Malaria journal, 24(1):91*. <a href="https://pubmed.ncbi.nlm.nih.gov/40114164/" style="text-decoration: none;">PubMed</a>
 
