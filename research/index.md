@@ -97,12 +97,12 @@ Traumatic brain injury as one of the most important causes for acquired brain in
 <a href="{{ '/projects/hope/' | relative_url }}" style="text-decoration: none; color: #00338D;"><strong>HOPE-TBI</strong></a> and <a href="{{ '/projects/savebrain/' | relative_url }}" style="text-decoration: none; color: #00338D;"><strong>SaVeBRAIN.Kids</strong></a>
 
 ## Intensive Care Follow-Up {#intensive-care-followup}
-dsköakdösa
+The growing awareness for long-term sequelae and the need for dedicated care in PICU survivors lead us to initiate a PICU aftercare program that is evaluated as part of the <a href="{{ '/projects/eppic/' | relative_url }}" style="text-decoration: none; color: #00338D;"><strong>EPPIC</strong></a> project. 
 
 ## Epidemiology and Public Health {#epidemiology}
-We apply epidemiological methods, e.g. by exploiting routine health care data sets, to investigate pediatric critical and neurocritical illness at population level. Insights from this research in turn inspire and drive our clinical research.
+We apply epidemiological methods, e.g. by exploiting routine health care data sets, to investigate pediatric critical and neurocritical illness at population level. Insights from this research in turn inspire and drive our clinical research. Check out <a href="{{ '/projects/hope/' | relative_url }}" style="text-decoration: none; color: #00338D;"><strong>HOPE-TBI</strong></a> and the <a href="{{ '/projects/pia/' | relative_url }}" style="text-decoration: none; color: #00338D;"><strong>PIA network</strong></a>.
 
 ## Related fields {#related-fields}
-Besides our focus, we participate in studies on other areas from Pediatric Intensive Care via multicenter projects to support our fellow researchers.
+Besides our focus, we participate in studies on other areas from Pediatric Intensive Care via multicenter projects to support our fellow researchers and help to advance the field.
 
-We also support and collaborate with researchers from adjacent fields like Neonatology, Pediatric Infectious Diseases, Pediatric Neurology, and Emergency Care in local and multicenter projects.
+We also support and collaborate with researchers from adjacent fields like Neonatology, Pediatric Infectious Diseases, Pediatric Neurology, and Emergency Care in local and multicenter projects like <a href="{{ '/projects/fab/' | relative_url }}" style="text-decoration: none; color: #00338D;"><strong>FAB.NRW</strong></a>.
