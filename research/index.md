@@ -89,7 +89,7 @@ a {
 The focus of our clinical research is pediatric neurocritical care with special interest in neuromonitoring and traumatic brain injury and associated outcomes.
 
 ### Neuromonitoring
-EEG-based neuromonitoring is our key interest and the need to further explore this method in the context of pediatric intensive care gave the impulse for the formation of this research group in 2020.
+EEG-based neuromonitoring is our key interest and the need to further explore this method in the context of pediatric intensive care gave the impulse for the formation of this research group in 2020. <a href="{{ '/projects/nice/' | relative_url }}" style="text-decoration: none; color: inherit;"><strong>NICE project</strong></a>!
 
 ### Traumatic brain injury
 Traumatic brain injury as one of the most important causes for acquired brain injury in children has evolved as a second focus of our group, even though we do not limit our research to this condition.

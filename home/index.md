@@ -9,7 +9,7 @@ cover: true
 ---
 ## Our vision
 
-To advance evidence-based care for critically ill children throughout the acute and recovery phases.
+Our vision is to advance evidence-based care for critically ill children throughout the acute and recovery phases.
 
 
 ## Our methods
@@ -23,7 +23,7 @@ We perform applied data science in single- und multi-centered projects, integrat
 
 ## Impact
 
-Several of our projects and publications have impacted politcal discussions and patient care.
+Several of our projects and publications have impacted political discussions and patient care.
 
 
 ### Meet the <a href="{{ '/team/' | relative_url }}" style="text-decoration: none; color: inherit;"><strong>Team</strong></a> and check out our <a href="{{ '/research/' | relative_url }}" style="text-decoration: none; color: inherit;"><strong>Research</strong></a> and <a href="{{ '/projects/' | relative_url }}" style="text-decoration: none; color: inherit;"><strong>Projects</strong></a>!
