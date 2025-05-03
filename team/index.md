@@ -8,7 +8,7 @@ permalink: /team/
     <h2 class="text-uppercase text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Lead</h2>
     <div class="ume-mitarbeiter-grid">
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/nora.jpg" alt="Nora" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/nora.jpg" alt="Nora" width="250" height="300">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
@@ -21,7 +21,7 @@ permalink: /team/
         </div>
         
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/christian.jpg" alt="Christian" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/christian.jpg" alt="Christian" width="250" height="300">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
@@ -39,7 +39,7 @@ permalink: /team/
     <h2 class="text-uppercase text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">Clinician Scientists</h2>
     <div class="ume-mitarbeiter-grid">
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/pia.jpg" alt="Pia" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/pia.jpg" alt="Pia" width="250" height="300">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
@@ -52,7 +52,7 @@ permalink: /team/
         </div>
 
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/sandra.jpg" alt="Sandra" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/sandra.jpg" alt="Sandra" width="250" height="300">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
@@ -65,7 +65,7 @@ permalink: /team/
         </div>
 
          <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/sarah.jpg" alt="Sarah" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/sarah.jpg" alt="Sarah" width="250" height="300">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
@@ -78,7 +78,7 @@ permalink: /team/
         </div>
 
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/linda.jpg" alt="Linda" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/linda.jpg" alt="Linda" width="250" height="300">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
@@ -91,7 +91,7 @@ permalink: /team/
         </div>
         
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/luisa.jpg" alt="Luisa" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/luisa.jpg" alt="Luisa" width="250" height="300">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
@@ -104,7 +104,7 @@ permalink: /team/
         </div>
 
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/simone.jpg" alt="Simone" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/simone.jpg" alt="Simone" width="250" height="300">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
@@ -122,7 +122,7 @@ permalink: /team/
     <h2 class="text-uppercase text-uke-blue font-weight-bold ume-mitarbeiter-wrapper__headline">PhD Students</h2>
     <div class="ume-mitarbeiter-grid">
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/rayan.jpg" alt="Rayan" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/rayan.jpg" alt="Rayan" width="250" height="300">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
@@ -135,7 +135,7 @@ permalink: /team/
         </div>
 
         <div class="card bg-background-grey" style="width: 15.625rem;" data-staff-id="">
-            <img decoding="async" class="card-img-top mb-2" src="../assets/img/alan.jpg" alt="Alan" width="250" height="250">
+            <img decoding="async" class="card-img-top mb-2" src="../assets/img/alan.jpg" alt="Alan" width="250" height="300">
             <div class="card-body pb-3">
                 <div class="d-flex flex-column">
                     <p class="font-weight-bold text-uke-blue card-title">
