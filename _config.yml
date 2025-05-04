@@ -3,13 +3,13 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
- url:                   https://picdatalab.de
+url: "https://picdatalab.de"
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
- baseurl:               ''
+baseurl: ""
 
 
 # General settings
@@ -17,14 +17,14 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang: en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 PIC Data Lab
+title: PIC Data Lab
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
+description: >
   The Pediatric Intensive Care Data Lab page is the homepage of our research group at the University Hospital Essen.
 
 # A shorter description for the sidebar.
@@ -117,7 +117,7 @@ theme_color:           rgb(119,119,119)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-google_fonts:          Open Sans:400,700
+google_fonts: Open Sans:400,700
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
