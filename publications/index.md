@@ -5,6 +5,9 @@ title: Publications by our lab members
 
 ## 2025
 
+* **Association of Disease Severity and Cerebral Interventional Complications With Long-Term Neurodevelopmental Outcome in Neonates With Vein of Galen Malformation.**  
+  **Schwarz S**, Brevis Nunez F, Durr NR, Schulz K, Brassel F, Schlunz-Hendann M, Scholz M, Felderhoff-Muser U, **Dohna-Schwake C**, **Bruns N**. *Pediatric neurology, 169:5-12*. <a href="https://pubmed.ncbi.nlm.nih.gov/40446486/" style="text-decoration: none;">PubMed</a>
+
 * **From Entry to Outbreak in a High School Setting: Clinical and Wastewater Surveillance of a Rare SARS-CoV-2 Variant.**  
   Sachse S, Kraiselburd I, Anastasiou OE, Elsner C, **Goretzki SC**, Goer S, Koldehoff M, Thomas A, Schoth J, Voigt S, Ross RS, Dittmer U, Meyer F, Schmithausen RM. *Viruses, 17(4)*. <a href="https://pubmed.ncbi.nlm.nih.gov/40284920/" style="text-decoration: none;">PubMed</a>
 
