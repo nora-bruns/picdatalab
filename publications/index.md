@@ -3,7 +3,8 @@ type: page
 title: Publications by our lab members
 ---
 
-## 2025
+<details>
+<summary><strong>2025</strong> (11 publications)</summary>
 
 * **Association of Disease Severity and Cerebral Interventional Complications With Long-Term Neurodevelopmental Outcome in Neonates With Vein of Galen Malformation.**  
   **Schwarz S**, Brevis Nunez F, Durr NR, Schulz K, Brassel F, Schlunz-Hendann M, Scholz M, Felderhoff-Muser U, **Dohna-Schwake C**, **Bruns N**. *Pediatric neurology, 169:5-12*. <a href="https://pubmed.ncbi.nlm.nih.gov/40446486/" style="text-decoration: none;">PubMed</a>
@@ -40,7 +41,10 @@ title: Publications by our lab members
   Bergelt M, Eckert K, Gauß G, **Bruns N**, Benson S, Felderhoff-Müser U, **Dohna-Schwake C**, Brasseler M, **Goretzki S**. *B&amp;G Bewegungstherapie und Gesundheitssport, 41(01):30-37*. <a href="https://doi.org/10.1055/a-2479-2946" style="text-decoration: none;">DOI</a>
 
 
-## 2024
+</details>
+
+<details>
+<summary><strong>2024</strong> (26 publications)</summary>
 
 * **Case report: Acute liver failure during deferasirox therapy and the potential role of pharmacogenetics.**  
   Garcia-Farina B, Rink L, Santarini V, Westkemper M, **Dohna-Schwake C**, Mohlendick B. *Frontiers in pharmacology, 15:1477755*. <a href="https://pubmed.ncbi.nlm.nih.gov/39508042/" style="text-decoration: none;">PubMed</a>
@@ -121,7 +125,10 @@ title: Publications by our lab members
   **Schwarz S**, Brevis Nunez F, Durr NR, Schlunz-Hendann M, Brassel F, Felderhoff-Muser U, **Dohna-Schwake C**, **Bruns N**. *Neonatology, 121(1):106-115*. <a href="https://pubmed.ncbi.nlm.nih.gov/37906988/" style="text-decoration: none;">PubMed</a>
 
 
-## 2023
+</details>
+
+<details>
+<summary><strong>2023</strong> (26 publications)</summary>
 
 * **A comparison of pediatric inflammatory multisystem syndrome temporarily-associated with SARS-CoV-2 and Kawasaki disease.**  
   Hufnagel M, Armann J, Jakob A, Doenhardt M, Diffloth N, Hospach A, Schneider DT, Trotter A, Roessler M, Schmitt J, Berner R. *Scientific reports, 13(1):1173*. <a href="https://pubmed.ncbi.nlm.nih.gov/36670127/" style="text-decoration: none;">PubMed</a>
@@ -202,7 +209,10 @@ title: Publications by our lab members
   **Schwarz S**, Tarusinov G, Brevis F. *Ultraschall in der Medizin (Stuttgart, Germany : 1980), 44(3):e164-e167*. <a href="https://pubmed.ncbi.nlm.nih.gov/35211943/" style="text-decoration: none;">PubMed</a>
 
 
-## 2022
+</details>
+
+<details>
+<summary><strong>2022</strong> (18 publications)</summary>
 
 * **Music Therapy in Preterm Infants Reduces Maternal Distress.**  
   Kobus S, Diezel M, Dewan MV, Huening B, Dathe AK, Marschik PB, Felderhoff-Mueser U, **Bruns N**. *International journal of environmental research and public health, 20(1)*. <a href="https://pubmed.ncbi.nlm.nih.gov/36613052/" style="text-decoration: none;">PubMed</a>
@@ -259,7 +269,10 @@ title: Publications by our lab members
   **Bruns N**, **Dohna-Schwake C**. *Monatsschrift Kinderheilkunde, 171(6):531-533*. <a href="https://doi.org/10.1007/s00112-022-01482-z" style="text-decoration: none;">DOI</a>
 
 
-## 2021
+</details>
+
+<details>
+<summary><strong>2021</strong> (11 publications)</summary>
 
 * **Characterization of aEEG During Sleep and Wakefulness in Healthy Children.**  
   Loffelhardt VT, Della Marina A, **Greve S**, Muller H, Felderhoff-Muser U, **Dohna-Schwake C**, **Bruns N**. *Frontiers in pediatrics, 9:773188*. <a href="https://pubmed.ncbi.nlm.nih.gov/35127587/" style="text-decoration: none;">PubMed</a>
@@ -295,7 +308,10 @@ title: Publications by our lab members
   **Bruns N**, Felderhoff-Muser U, **Dohna-Schwake C**. *Acta paediatrica (Oslo, Norway : 1992), 110(4):1132-1140*. <a href="https://pubmed.ncbi.nlm.nih.gov/33210762/" style="text-decoration: none;">PubMed</a>
 
 
-## 2020
+</details>
+
+<details>
+<summary><strong>2020</strong> (10 publications)</summary>
 
 * **Iatrogenic severe hyperglycemia due to parenteral administration of glucose in children - a case series.**  
   **Bruns N**, Grosse Lordemann A, Rasche T, Meyburg J, Kruger M, Wieg C, Gratopp A, Hoppenz M, Heitmann F, Hoppen T, Loffler G, Felderhoff-Muser U, **Dohna-Schwake C**. *Italian journal of pediatrics, 46(1):179*. <a href="https://pubmed.ncbi.nlm.nih.gov/33261643/" style="text-decoration: none;">PubMed</a>
@@ -328,13 +344,16 @@ title: Publications by our lab members
   Muller H, Storbeck T, Katzer D, **Bruns N**, Wossner-Stegmann G, Ai M, Koninger A, Muller A, Felderhoff-Muser U, Bagci S. *The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians, 33(8):1315-1320*. <a href="https://pubmed.ncbi.nlm.nih.gov/30153748/" style="text-decoration: none;">PubMed</a>
 
 
-## 2019
+</details>
 
-* **Research priorities in pediatric onco-critical care: an international Delphi consensus study.**  
-  Soeteman M, Potratz J, Nielsen JSA, Willems J, Valla FV, Brierley J, Wosten-van Asperen RM. *Intensive care medicine, 45(11):1681-1683*. <a href="https://pubmed.ncbi.nlm.nih.gov/31444505/" style="text-decoration: none;">PubMed</a>
+<details>
+<summary><strong>2019</strong> (5 publications)</summary>
 
 * **Amplitude-Integrated EEG for Neurological Assessment and Seizure Detection in a German Pediatric Intensive Care Unit.**  
   **Bruns N**, Sanchez-Albisua I, Weiss C, Tschiedel E, **Dohna-Schwake C**, Felderhoff-Muser U, Muller H. *Frontiers in pediatrics, 7:358*. <a href="https://pubmed.ncbi.nlm.nih.gov/31555625/" style="text-decoration: none;">PubMed</a>
+
+* **Research priorities in pediatric onco-critical care: an international Delphi consensus study.**  
+  Soeteman M, Potratz J, Nielsen JSA, Willems J, Valla FV, Brierley J, Wosten-van Asperen RM. *Intensive care medicine, 45(11):1681-1683*. <a href="https://pubmed.ncbi.nlm.nih.gov/31444505/" style="text-decoration: none;">PubMed</a>
 
 * **PICU mortality of children with cancer admitted to pediatric intensive care unit a systematic review and meta-analysis.**  
   Wosten-van Asperen RM, van Gestel JPJ, van Grotel M, Tschiedel E, **Dohna-Schwake C**, Valla FV, Willems J, Angaard Nielsen JS, Krause MF, Potratz J, van den Heuvel-Eibrink MM, Brierley J. *Critical reviews in oncology/hematology, 142:153-163*. <a href="https://pubmed.ncbi.nlm.nih.gov/31404827/" style="text-decoration: none;">PubMed</a>
@@ -346,13 +365,19 @@ title: Publications by our lab members
   Tschiedel E, Beckers K, Grosse-Lordemann A, Basu O, Felderhoff-Muser U, **Dohna-Schwake C**. *Klinische Padiatrie, 231(1):35-40*. <a href="https://pubmed.ncbi.nlm.nih.gov/30231262/" style="text-decoration: none;">PubMed</a>
 
 
-## 2018
+</details>
+
+<details>
+<summary><strong>2018</strong> (1 publications)</summary>
 
 * **Relationship between brain function (aEEG) and brain structure (MRI) and their predictive value for neurodevelopmental outcome of preterm infants.**  
   Huning B, Storbeck T, **Bruns N**, Dransfeld F, Hobrecht J, Karpienski J, Sirin S, Schweiger B, Weiss C, Felderhoff-Muser U, Muller H. *European journal of pediatrics, 177(8):1181-1189*. <a href="https://pubmed.ncbi.nlm.nih.gov/29789947/" style="text-decoration: none;">PubMed</a>
 
 
-## 2017
+</details>
+
+<details>
+<summary><strong>2017</strong> (2 publications)</summary>
 
 * **Application of an Amplitude-integrated EEG Monitor (Cerebral Function Monitor) to Neonates.**  
   **Bruns N**, Blumenthal S, Meyer I, Klose-Verschuur S, Felderhoff-Muser U, Muller H. *Journal of visualized experiments : JoVE(127)*. <a href="https://pubmed.ncbi.nlm.nih.gov/28930990/" style="text-decoration: none;">PubMed</a>
@@ -361,21 +386,32 @@ title: Publications by our lab members
   **Bruns N**, Dransfeld F, Huning B, Hobrecht J, Storbeck T, Weiss C, Felderhoff-Muser U, Muller H. *European journal of pediatrics, 176(2):163-171*. <a href="https://pubmed.ncbi.nlm.nih.gov/27924356/" style="text-decoration: none;">PubMed</a>
 
 
-## 2016
+</details>
+
+<details>
+<summary><strong>2016</strong> (1 publications)</summary>
 
 * **Clinical Evaluation of the First Automated Assay for the Detection of Stimulating TSH Receptor Autoantibodies.**  
   Allelein S, Ehlers M, **Goretzki S**, Hermsen D, Feldkamp J, Haase M, Dringenberg T, Schmid C, Hautzel H, Schott M. *Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme, 48(12):795-801*. <a href="https://pubmed.ncbi.nlm.nih.gov/27923250/" style="text-decoration: none;">PubMed</a>
 
 
-## 2015
+</details>
+
+<details>
+<summary><strong>2015</strong> (1 publications)</summary>
 
 * **Electrocortical Activity at 7 Days of Life is Affected in Extremely Premature Infants with Patent Ductus Arteriosus.**  
   **Bruns N**, Metze B, Buhrer C, Felderhoff-Muser U, Huseman D. *Klinische Padiatrie, 227(5):264-8*. <a href="https://pubmed.ncbi.nlm.nih.gov/25875399/" style="text-decoration: none;">PubMed</a>
 
 
-## 2014
+</details>
+
+<details>
+<summary><strong>2014</strong> (1 publications)</summary>
 
 * **Impairment of bone health in pediatric patients with hemolytic anemia.**  
   Schundeln MM, **Goretzki SC**, Hauffa PK, Wieland R, Bauer J, Baeder L, Eggert A, Hauffa BP, Grasemann C. *PloS one, 9(10):e108400*. <a href="https://pubmed.ncbi.nlm.nih.gov/25299063/" style="text-decoration: none;">PubMed</a>
 
+
+</details>
 
